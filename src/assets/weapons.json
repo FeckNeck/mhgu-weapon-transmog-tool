@@ -1,0 +1,138 @@
+[
+    {
+        "name": "great_sword",
+        "id": "w00",
+        "skins": [
+            {
+                "name": "Petrified Blade",
+                "id": "130"
+            },
+            {
+                "name": "Iron Sword",
+                "id": "003"
+            },
+            {
+                "name": "Bone Cleaver",
+                "id": "005"
+            },
+            {
+                "name": "Red Stripe",
+                "id": "169"
+            },
+            {
+                "name": "Azure Serpentblade",
+                "id": "030"
+            }
+        ]
+    },
+    {
+        "name": "long_sword",
+        "id": "w01",
+        "skins": [
+            {
+                "name": "Petrified Saber",
+                "id": "131"
+            }
+        ]
+    },
+    {
+        "name": "sword_and_shield",
+        "id": "w02",
+        "skins": [
+            {
+                "name": "Petrified Edge",
+                "id": "132"
+            }
+        ]
+    },
+    {
+        "name": "dual_blades",
+        "id": "w03",
+        "skins": [
+            {
+                "name": "Petrified Daggers",
+                "id": "133"
+            }
+        ]
+    },
+    {
+        "name": "hammer",
+        "id": "w04",
+        "skins": [
+            {
+                "name": "Petrified Crusher",
+                "id": "134"
+            }
+        ]
+    },
+    {
+        "name": "hunting_horn",
+        "id": "w05",
+        "skins": [
+            {
+                "name": "Petrified Horn",
+                "id": "135"
+            }
+        ]
+    },
+    {
+        "name": "lance",
+        "id": "w06",
+        "skins": [
+            {
+                "name": "Petrified Spear",
+                "id": "136"
+            }
+        ]
+    },
+    {
+        "name": "gunlance",
+        "id": "w07",
+        "skins": [
+            {
+                "name": "Petrified Gunlance",
+                "id": "137"
+            }
+        ]
+    },
+    {
+        "name": "switch_axe",
+        "id": "w08",
+        "skins": [
+            {
+                "name": "Petrified Axe",
+                "id": "138"
+            }
+        ]
+    },
+    {
+        "name": "charge_blade",
+        "id": "w09",
+        "skins": [
+            {
+                "name": "Petrified Strongarm",
+                "id": "139"
+            }
+        ]
+    },
+    {
+        "name": "insect_glaive",
+        "id": "w10",
+        "skins": [
+            {
+                "name": "Petrified Rod",
+                "id": "140"
+            }
+        ]
+    },
+    {
+        "name": "light_bowgun",
+        "id": "w11",
+        "skins": [
+            {
+                "name": "Petrified Shooter",
+                "id": "141"
+            }
+        ]
+    }
+]
