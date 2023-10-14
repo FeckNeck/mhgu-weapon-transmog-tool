@@ -19,11 +19,16 @@ const openDirectoryDialog = async () => {
   <div class="path-container">
     <p>Select Yuzu or Ryujinx mod directory :</p>
     <button class="folder-btn" @click="openDirectoryDialog">
-      <img src="../assets/folder-open.svg" alt="open folder" />
+      <img
+        src="../assets/folder-open.svg"
+        alt="open folder"
+        width="15"
+        height="15"
+      />
       <span v-if="$state.moddingFoler" class="path">{{
         $state.moddingFoler
       }}</span>
-      <span v-else class="placeholder">placeholder</span>
+      <span v-else class="placeholder path">Mhgu\...\weapon-transmog-tool</span>
     </button>
   </div>
 </template>
@@ -42,10 +47,15 @@ const openDirectoryDialog = async () => {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    font-size: 14px;
   }
 
   .placeholder {
     color: gray;
   }
+}
+
+.folder-btn:hover {
+  background-color: #f5f5f5;
 }
 </style>

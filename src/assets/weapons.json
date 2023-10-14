@@ -1,7 +1,9 @@
 [
     {
-        "name": "great_sword",
         "id": "w00",
+        "name": "great_sword",
+        "title": "Great Sword",
+        "image_prefix": "two",
         "skins": [
             {
                 "name": "Petrified Blade",
@@ -22,22 +24,494 @@
             {
                 "name": "Azure Serpentblade",
                 "id": "030"
+            },
+            {
+                "name": "White Serpentblade",
+                "id": "168"
+            },
+            {
+                "name": "Saffron Fangblade",
+                "id": "152"
+            },
+            {
+                "name": "Fanged Serpentblade",
+                "id": "047"
+            },
+            {
+                "name": "Ludroth Bone Sword",
+                "id": "009"
+            },
+            {
+                "name": "Yukumo Edge",
+                "id": "163"
+            },
+            {
+                "name": "Rusted Great Sword",
+                "id": "019"
+            },
+            {
+                "name": "Buster Sword",
+                "id": "004"
+            },
+            {
+                "name": "Jawblade",
+                "id": "001"
+            },
+            {
+                "name": "Defender",
+                "id": "157"
+            },
+            {
+                "name": "Barbaroi Blade",
+                "id": "162"
+            },
+            {
+                "name": "Larisaber",
+                "id": "178"
+            },
+            {
+                "name": "Deadly Serpentblade",
+                "id": "031"
+            },
+            {
+                "name": "Chicken Decapitator",
+                "id": "043"
+            },
+            {
+                "name": "Snowclad",
+                "id": "151"
+            },
+            {
+                "name": "Santoku Reaver",
+                "id": "055"
+            },
+            {
+                "name": "Red Pincer",
+                "id": "112"
+            },
+            {
+                "name": "Cataclysm Sword",
+                "id": "024"
+            },
+            {
+                "name": "Nocturnal Falx",
+                "id": "132"
+            },
+            {
+                "name": "Khezu Shock Sword",
+                "id": "044"
+            },
+            {
+                "name": "Type 41 Wyvernator",
+                "id": "029"
+            },
+            {
+                "name": "Ceanataur Blade",
+                "id": "170"
+            },
+            {
+                "name": "Skraga",
+                "id": "156"
+            },
+            {
+                "name": "Hidden Blade",
+                "id": "027"
+            },
+            {
+                "name": "Vulcanis",
+                "id": "017"
+            },
+            {
+                "name": "Frozen Speartuna",
+                "id": "052"
+            },
+            {
+                "name": "Wyvern's Perch",
+                "id": "165"
+            },
+            {
+                "name": "Cheese Mixer",
+                "id": "155"
+            },
+            {
+                "name": "El Dora Blade",
+                "id": "154"
+            },
+            {
+                "name": "Obsidian Blade",
+                "id": "131"
+            },
+            {
+                "name": "Ravager Blade",
+                "id": "002"
+            },
+            {
+                "name": "Halberd",
+                "id": "158"
+            },
+            {
+                "name": "Golem Blade",
+                "id": "006"
+            },
+            {
+                "name": "Sentoryu Raven",
+                "id": "033"
+            },
+            {
+                "name": "Brazenwall",
+                "id": "026"
+            },
+            {
+                "name": "Valkyrie Blade",
+                "id": "012"
+            },
+            {
+                "name": "Tactical Blade",
+                "id": "173"
+            },
+            {
+                "name": "Red Wing",
+                "id": "013"
+            },
+            {
+                "name": "Lagiacrus Blade",
+                "id": "171"
+            },
+            {
+                "name": "Usurper's Storm",
+                "id": "028"
+            },
+            {
+                "name": "Hanayako Yohino",
+                "id": "139"
+            },
+            {
+                "name": "Verdant Wing",
+                "id": "137"
+            },
+            {
+                "name": "Giant's Slicer",
+                "id": "138"
+            },
+            {
+                "name": "Scorching Blazer",
+                "id": "134"
+            },
+            {
+                "name": "Schattenstolz",
+                "id": "051"
+            },
+            {
+                "name": "Cheda Blade",
+                "id": "096"
+            },
+            {
+                "name": "Tiger Jawblade",
+                "id": "10"
+            },
+            {
+                "name": "Kirin Thundersword",
+                "id": "023"
+            },
+            {
+                "name": "Dios Blade",
+                "id": "036"
+            },
+            {
+                "name": "L'Apothéose",
+                "id": "058"
+            },
+            {
+                "name": "Icesteel Edge",
+                "id": "008"
+            },
+            {
+                "name": "Grand Shamshir",
+                "id": "095"
+            },
+            {
+                "name": "Skeletal Great Sword",
+                "id": "135"
+            },
+            {
+                "name": "Aloe Blade",
+                "id": "153"
+            },
+            {
+                "name": "Black Belt Blade",
+                "id": "127"
+            },
+            {
+                "name": "Black Blade",
+                "id": "016"
+            },
+            {
+                "name": "Ancient Blade",
+                "id": "020"
+            },
+            {
+                "name": "Lacerator Blade",
+                "id": "054"
+            },
+            {
+                "name": "Chrome Razor",
+                "id": "053"
+            },
+            {
+                "name": "Executioner",
+                "id": "159"
+            },
+            {
+                "name": "Thrash Sword",
+                "id": "039"
+            },
+            {
+                "name": "Plesioth Watercutter",
+                "id": "034"
+            },
+            {
+                "name": "Cat's Soul",
+                "id": "166"
+            },
+            {
+                "name": "Clero Blade",
+                "id": "191"
+            },
+            {
+                "name": "Carapace Sword",
+                "id": "194"
+            },
+            {
+                "name": "Immane Blade",
+                "id": "056"
+            },
+            {
+                "name": "Decider",
+                "id": "160"
+            },
+            {
+                "name": "Wyvern Jawblade",
+                "id": "161"
+            },
+            {
+                "name": "Thrash Blade",
+                "id": "059"
+            },
+            {
+                "name": "Toad Bereaver",
+                "id": "060"
+            },
+            {
+                "name": "Igneous Blade",
+                "id": "174"
+            },
+            {
+                "name": "Icicle Fang",
+                "id": "193"
+            },
+            {
+                "name": "Plesioth Wave Sword",
+                "id": "175"
+            },
+            {
+                "name": "Sentoryu Bane",
+                "id": "099"
+            },
+            {
+                "name": "Spartacus Blade",
+                "id": "011"
+            },
+            {
+                "name": "Lagia Lightning",
+                "id": "018"
+            },
+            {
+                "name": "Seditious Cleaver",
+                "id": "098"
+            },
+            {
+                "name": "Demolition Sword",
+                "id": "045"
+            },
+            {
+                "name": "Demon Rod",
+                "id": "015"
+            },
+            {
+                "name": "Berserker Sword",
+                "id": "014"
+            },
+            {
+                "name": "Autumn Umbrella",
+                "id": "164"
+            },
+            {
+                "name": "Expert Blade",
+                "id": "167"
+            },
+            {
+                "name": "Epitaph Blade",
+                "id": "021"
+            },
+            {
+                "name": "Quarrel Hornsword",
+                "id": "192"
+            },
+            {
+                "name": "Research Great Sword",
+                "id": "189"
+            },
+            {
+                "name": "Fox Blade",
+                "id": "179"
+            },
+            {
+                "name": "Captain Blade J",
+                "id": "091"
+            },
+            {
+                "name": "Amol Saiqa",
+                "id": "128"
+            },
+            {
+                "name": "Chivalry",
+                "id": "094"
+            },
+            {
+                "name": "G Blade",
+                "id": "126"
+            },
+            {
+                "name": "Teostra Blade",
+                "id": "022"
+            },
+            {
+                "name": "Rathalos Gleamsword",
+                "id": "032"
+            },
+            {
+                "name": "Demonlord Club",
+                "id": "100"
+            },
+            {
+                "name": "Consummate Blade",
+                "id": "063"
+            },
+            {
+                "name": "Akantor Broadsword",
+                "id": "037"
+            },
+            {
+                "name": "Ukanlos Destructor",
+                "id": "111"
+            },
+            {
+                "name": "Roilcloud Sword",
+                "id": "177"
+            },
+            {
+                "name": "Astral Leo",
+                "id": "136"
+            },
+            {
+                "name": "Alatreon Great Sword",
+                "id": "176"
+            },
+            {
+                "name": "Silverwing Great Sword",
+                "id": "180"
+            },
+            {
+                "name": "Elder Blade",
+                "id": "196"
+            },
+            {
+                "name": "Scylla Blade",
+                "id": "061"
+            },
+            {
+                "name": "Palette Knife",
+                "id": "190"
+            },
+            {
+                "name": "Reddnaught",
+                "id": "172"
+            },
+            {
+                "name": "Viking Hornsword",
+                "id": "197"
+            },
+            {
+                "name": "Drifter's Sword",
+                "id": "198"
+            },
+            {
+                "name": "Garo Sword",
+                "id": "199"
+            },
+            {
+                "name": "Licht/Ombre",
+                "id": "101"
+            },
+            {
+                "name": "Lightbreak Blade",
+                "id": "102"
+            },
+            {
+                "name": "Dragonslayer",
+                "id": "195"
+            },
+            {
+                "name": "Gold Great Sword",
+                "id": "181"
+            },
+            {
+                "name": "Fatalis Fireblade",
+                "id": "188"
+            },
+            {
+                "name": "Fatalis Ancestor",
+                "id": "040"
+            },
+            {
+                "name": "Eostoclad",
+                "id": "140"
             }
         ]
     },
     {
-        "name": "long_sword",
         "id": "w01",
+        "name": "long_sword",
+        "title": "Long Sword",
+        "image_prefix": "swo",
         "skins": [
             {
                 "name": "Petrified Saber",
                 "id": "131"
+            },
+            {
+                "name": "Iron Katana",
+                "id": "004"
+            },
+            {
+                "name": "Bone Katana",
+                "id": "006"
+            },
+            {
+                "name": "Red Wing",
+                "id": "170"
+            },
+            {
+                "name": "Azure Star Blade",
+                "id": "031"
             }
         ]
     },
     {
         "name": "sword_and_shield",
+        "title": "Sword and Shield",
         "id": "w02",
+        "image_prefix": "one",
         "skins": [
             {
                 "name": "Petrified Edge",
@@ -47,7 +521,9 @@
     },
     {
         "name": "dual_blades",
+        "title": "Dual Blades",
         "id": "w03",
+        "image_prefix": "sou",
         "skins": [
             {
                 "name": "Petrified Daggers",
@@ -57,7 +533,9 @@
     },
     {
         "name": "hammer",
+        "title": "Hammer",
         "id": "w04",
+        "image_prefix": "ham",
         "skins": [
             {
                 "name": "Petrified Crusher",
@@ -67,7 +545,9 @@
     },
     {
         "name": "hunting_horn",
+        "title": "Hunting Horn",
         "id": "w05",
+        "image_prefix": "hue",
         "skins": [
             {
                 "name": "Petrified Horn",
@@ -77,7 +557,9 @@
     },
     {
         "name": "lance",
+        "title": "Lance",
         "id": "w06",
+        "image_prefix": "lan",
         "skins": [
             {
                 "name": "Petrified Spear",
@@ -87,7 +569,9 @@
     },
     {
         "name": "gunlance",
+        "title": "Gunlance",
         "id": "w07",
+        "image_prefix": "gun",
         "skins": [
             {
                 "name": "Petrified Gunlance",
@@ -97,7 +581,9 @@
     },
     {
         "name": "switch_axe",
+        "title": "Switch Axe",
         "id": "w08",
+        "image_prefix": "axe",
         "skins": [
             {
                 "name": "Petrified Axe",
@@ -107,7 +593,9 @@
     },
     {
         "name": "charge_blade",
+        "title": "Charge Blade",
         "id": "w09",
+        "image_prefix": "gaxe",
         "skins": [
             {
                 "name": "Petrified Strongarm",
@@ -117,7 +605,9 @@
     },
     {
         "name": "insect_glaive",
+        "title": "Insect Glaive",
         "id": "w10",
+        "image_prefix": "rod",
         "skins": [
             {
                 "name": "Petrified Rod",
@@ -127,7 +617,9 @@
     },
     {
         "name": "light_bowgun",
+        "title": "Light Bowgun",
         "id": "w11",
+        "image_prefix": "lbg",
         "skins": [
             {
                 "name": "Petrified Shooter",

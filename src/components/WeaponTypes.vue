@@ -14,7 +14,7 @@ const weaponImage = computed(() => {
   <div class="weapon-type">
     <img
       :src="weaponImage"
-      :alt="$state.selectedWeaponType + ' icon'"
+      :alt="$state.selectedWeaponType.name + ' icon'"
       class="weapon-icon"
     />
     <div>
@@ -23,6 +23,7 @@ const weaponImage = computed(() => {
         name="weapon-type"
         id="weapon-type"
         v-model="$state.selectedWeaponType"
+        aria-label="Weapon type"
       >
         <option
           v-for="(weaponType, index) in weapons"
@@ -30,7 +31,7 @@ const weaponImage = computed(() => {
           :value="weaponType"
           :selected="index === 0"
         >
-          {{ weaponType.name }}
+          {{ weaponType.title }}
         </option>
       </select>
     </div>
