@@ -12,29 +12,19 @@
   },
   "tauri": {
     "allowlist": {
-      "shell": {
-        "all": false,
-        "open": true
-      },
       "dialog": {
         "all": false,
-        "save": true,
         "open": true
       },
       "fs": {
         "all": false,
-        "copyFile": false,
-        "createDir": false,
-        "exists": false,
-        "readDir": false,
         "readFile": true,
-        "removeDir": false,
-        "removeFile": false,
-        "renameFile": false,
+        "writeFile": true,
         "scope": [
-          "$DESKTOP/**"
-        ],
-        "writeFile": true
+          "**",
+          "**/*",
+          "/**/*"
+        ]
       }
     },
     "bundle": {
@@ -57,7 +47,7 @@
         "fullscreen": false,
         "resizable": true,
         "title": "mhgu-weapon-transmog-tool",
-        "width": 800,
+        "width": 1000,
         "height": 600
       }
     ]
