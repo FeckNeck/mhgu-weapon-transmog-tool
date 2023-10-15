@@ -8,8 +8,8 @@ const openDirectoryDialog = async () => {
   await open({
     directory: true,
   }).then((result) => {
-    if (result) {
-      $state.moddingFoler = result as string;
+    if (typeof result === "string") {
+      $state.moddingFoler = result;
     }
   });
 };
