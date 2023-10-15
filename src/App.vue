@@ -14,22 +14,28 @@ const { weaponPath, weaponToTransmog, moddingFoler } = storeToRefs(store);
 
 const indexes = [346, 353, 426, 433]; // four weapon IDs of the last two paths
 const isLoading = ref(false);
+const error = ref<string | null>(null);
 
 const transmogWeapon = async () => {
-  isLoading.value = true;
-  const file = await readBinaryFile(weaponPath.value);
-  for (let index of indexes) {
-    for (let i = 0; i < 3; i++) {
-      const hexValue = [...file[index + i].toString(16)];
-      hexValue[1] = weaponToTransmog.value[i];
-      file[index + i] = parseInt(hexValue.join(""), 16);
+  try {
+    isLoading.value = true;
+    const file = await readBinaryFile(weaponPath.value);
+    for (let index of indexes) {
+      for (let i = 0; i < 3; i++) {
+        const hexValue = [...file[index + i].toString(16)];
+        hexValue[1] = weaponToTransmog.value[i];
+        file[index + i] = parseInt(hexValue.join(""), 16);
+      }
     }
+    await writeBinaryFile(
+      `C:\\Users\\Mathis\\Desktop\\${weaponToTransmog.value}.arc`,
+      file
+    );
+  } catch (e: any) {
+    error.value = e;
+  } finally {
+    isLoading.value = false;
   }
-  await writeBinaryFile(
-    `C:\\Users\\Mathis\\Desktop\\${weaponToTransmog.value}.arc`,
-    file
-  );
-  isLoading.value = false;
 };
 
 const btnText = computed(() => {
@@ -48,15 +54,18 @@ const btnText = computed(() => {
       <WeaponSkins :is-weapon-to-transmog="false" />
     </div>
     <span class="line"></span>
-    <button
-      @click="transmogWeapon()"
-      :disabled="!moddingFoler || isLoading"
-      alt="Transmog weapon"
-      title="Transmog weapon"
-      class="transmog-btn"
-    >
-      {{ btnText }}
-    </button>
+    <div class="footer">
+      <button
+        @click="transmogWeapon()"
+        :disabled="!moddingFoler || isLoading"
+        alt="Transmog weapon"
+        title="Transmog weapon"
+        class="transmog-btn"
+      >
+        {{ btnText }}
+      </button>
+      <p v-if="error" class="error">{{ error }}</p>
+    </div>
   </div>
 </template>
 
@@ -94,5 +103,16 @@ const btnText = computed(() => {
 
 .transmog-btn:enabled:hover {
   background-color: #e5e5e5;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
 }
 </style>
