@@ -1,16 +1,12 @@
-# Tauri + Vue 3 + TypeScript
+# mhgu-weapon-transmog-tool
+A tauri/vue3 GUI to transmog weapons for monster hunter generation ultimate for the Yuzu/Ryujinx version.
+![image](https://github.com/FeckNeck/mhgu-weapon-transmog-tool/assets/41020659/f3c33951-b567-42da-b556-3d7040d4475e)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Warning
+Currently, only greatswords can be transmogged! 
+If you're interested in the mod, you can contribute by filling in the JSON file for other weapon types (https://github.com/FeckNeck/mhgu-weapon-transmog-tool/blob/master/src/assets/weapons.json).
 
-## Recommended IDE Setup
+## About
+There are currently 2 ways to transmogrify weapons in mhxx: by modifying the resident.arc file or by directly modifying the weapons in the arc folder. The best would have been to be able to modify the resident.arc file, but there's currently no tool for extracting files from the archive and then compressing it again. Maybe in the future, if Kuriimu2's cli allows you to use the mt_framework plugin and thus extract the archive, I'll modify this project to use it.
+Anyway, there's currently no database for mhxx that contains the weapon ID to get the image from kiranico. The only solution I found was to create the json file by hand. 
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-
-## Type Support For `.vue` Imports in TS
-
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
-
-1. Run `Extensions: Show Built-in Extensions` from VS Code's command palette, look for `TypeScript and JavaScript Language Features`, then right click and select `Disable (Workspace)`. By default, Take Over mode will enable itself if the default TypeScript extension is disabled.
-2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
-
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
