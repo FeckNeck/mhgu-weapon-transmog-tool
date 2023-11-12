@@ -30,7 +30,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.tauri.dev",
+      "identifier": "com.feckneck.mhgu-weapon-transmog-tool",
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",
@@ -46,7 +46,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "mhgu-weapon-transmog-tool",
+        "title": "MHGU Weapon Transmog Tool",
         "width": 1000,
         "height": 600
       }
