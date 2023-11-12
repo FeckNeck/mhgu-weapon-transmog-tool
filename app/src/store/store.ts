@@ -12,7 +12,7 @@ export const useWeaponStore = defineStore("weapons", () => {
   const skinToApply = ref<string>("181");
 
   const weaponPath = computed(() => {
-    return `${moddingFoler.value}\\arc\\weapon\\${selectedWeaponType.value.id}\\${skinToApply.value}.arc`;
+    return `${moddingFoler.value}\\romfs\\nativeNX\\arc\\weapon\\${selectedWeaponType.value.id}`;
   });
 
   return {

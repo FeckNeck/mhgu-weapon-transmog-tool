@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from "vue";
+import { computed } from "vue";
 import { useWeaponStore } from "../store/store";
 
 const weaponURL =
@@ -11,9 +11,17 @@ const props = defineProps<{
 
 const { $state } = useWeaponStore();
 
-const selectedSkin = ref(
-  props.isWeaponToTransmog ? $state.weaponToTransmog : $state.skinToApply
-);
+const selectedSkin = computed({
+  get: () =>
+    props.isWeaponToTransmog ? $state.weaponToTransmog : $state.skinToApply,
+  set: (value: string) => {
+    if (props.isWeaponToTransmog) {
+      $state.weaponToTransmog = value;
+    } else {
+      $state.skinToApply = value;
+    }
+  },
+});
 
 const skins = computed(() => {
   return $state.selectedWeaponType.skins;
@@ -32,14 +40,8 @@ const inputLabel = computed(() => {
   <div class="skins-container">
     <div :style="{ backgroundImage: weaponImage }" class="weapon-image"></div>
     <div>
-      <label :for="'weapon-skins' + isWeaponToTransmog"
-        >{{ inputLabel }} :</label
-      >
-      <select
-        :id="'weapon-skins' + isWeaponToTransmog"
-        name="weapon-skins"
-        v-model="selectedSkin"
-      >
+      <label :for="inputLabel">{{ inputLabel }} :</label>
+      <select :id="inputLabel" name="weapon-skins" v-model="selectedSkin">
         <option v-for="skin in skins" :key="skin.id" :value="skin.id">
           {{ skin.name }}
         </option>
