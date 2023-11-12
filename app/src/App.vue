@@ -9,8 +9,6 @@ import { storeToRefs } from "pinia";
 import { readBinaryFile, writeBinaryFile } from "@tauri-apps/api/fs";
 import { computed, ref } from "vue";
 
-import { rand, watchDebounced } from "@vueuse/core";
-
 const store = useWeaponStore();
 const { weaponToTransmog, skinToApply, moddingFoler, weaponPath } =
   storeToRefs(store);
