@@ -37,16 +37,8 @@ const transmogWeapon = async () => {
     );
 
     success.value = "Weapon transmogged successfully !";
-
-    setTimeout(() => {
-      success.value = null;
-    }, 3000);
   } catch (e: any) {
     error.value = e;
-
-    setTimeout(() => {
-      error.value = null;
-    }, 3000);
   } finally {
     isLoading.value = false;
   }
