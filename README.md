@@ -1,4 +1,4 @@
-# mhgu-weapon-transmog-tool WIP!
+# mhgu-weapon-transmog-tool
 A tauri/vue3 GUI to transmog weapons for monster hunter generation ultimate for the Yuzu/Ryujinx version.
 ![image](https://github.com/FeckNeck/mhgu-weapon-transmog-tool/assets/41020659/f3c33951-b567-42da-b556-3d7040d4475e)
 
