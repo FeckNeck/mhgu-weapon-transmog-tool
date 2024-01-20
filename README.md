@@ -2,6 +2,11 @@
 A tauri/vue3 GUI to transmog weapons for monster hunter generation ultimate for the Yuzu/Ryujinx version.
 ![image](https://github.com/FeckNeck/mhgu-weapon-transmog-tool/assets/41020659/f3c33951-b567-42da-b556-3d7040d4475e)
 
+## Installation
++ Download and install the latest relase
++ Download the weapon-transmog-tool.zip and place the un-zipped folder in the root of the game's mod directory
++ Open the Weapon Transmog tool, *enjoy* !
+
 ## Warning
 Currently, **only greatswords can be transmogged**!  
 If you're interested in the mod, you can contribute by filling in the JSON file for other weapon types (https://github.com/FeckNeck/mhgu-weapon-transmog-tool/blob/master/src/assets/weapons.json).  
