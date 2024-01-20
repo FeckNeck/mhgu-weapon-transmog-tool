@@ -3,8 +3,8 @@ A tauri/vue3 GUI to transmog weapons for monster hunter generation ultimate for 
 ![image](https://github.com/FeckNeck/mhgu-weapon-transmog-tool/assets/41020659/f3c33951-b567-42da-b556-3d7040d4475e)
 
 ## Installation
-+ Download and install the latest relase
-+ Download the weapon-transmog-tool.zip and place the un-zipped folder in the root of the game's mod directory
++ Download and install the latest release
++ Download the weapon-transmog-tool.zip file and place the unzipped folder at the root of the game's mod directory.
 + Open the Weapon Transmog tool, *enjoy* !
 
 ## Warning
