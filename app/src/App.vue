@@ -1,52 +1,89 @@
 <script setup lang="ts">
-import WeaponTypes from "./components/WeaponTypes.vue";
-import WeaponSkins from "./components/WeaponSkins.vue";
-import ModdingPath from "./components/ModdingPath.vue";
+import { readBinaryFile, writeBinaryFile } from '@tauri-apps/api/fs';
+import { storeToRefs } from 'pinia';
+import { computed, ref } from 'vue';
+import ModdingPath from './components/ModdingPath.vue';
+import WeaponSkins from './components/WeaponSkins.vue';
+import WeaponTypes from './components/WeaponTypes.vue';
+import { useWeaponStore } from './store';
 
-import { useWeaponStore } from "./store/store";
-import { storeToRefs } from "pinia";
-
-import { readBinaryFile, writeBinaryFile } from "@tauri-apps/api/fs";
-import { computed, ref } from "vue";
-
-const store = useWeaponStore();
+const weaponStore = useWeaponStore();
 const { weaponToTransmog, skinToApply, moddingFoler, weaponPath } =
-  storeToRefs(store);
+  storeToRefs(weaponStore);
 
-const indexes = [346, 353, 426, 433]; // four weapon IDs of the last two paths
 const isLoading = ref(false);
 const error = ref<string | null>(null);
 const success = ref<string | null>(null);
 
-const transmogWeapon = async () => {
+const btnText = computed(() => {
+  return isLoading.value ? 'Loading...' : 'Transmog Weapon !';
+});
+
+function convertWeaponToHex(num: string): string[] {
+  return num
+    .split('')
+    .map((char: string) => char.charCodeAt(0).toString(16).toUpperCase());
+}
+
+function convertFileToHex(uint8Array: Uint8Array): string[] {
+  return Array.from(uint8Array).map((byte) =>
+    byte.toString(16).padStart(2, '0'),
+  );
+}
+
+function replaceSkinWithWeapon(file: Uint8Array): string[] {
+  const hexFileData = convertFileToHex(file);
+  const weaponHex = convertWeaponToHex(weaponToTransmog.value);
+  const skinHex = convertWeaponToHex(skinToApply.value);
+
+  const skinOccurrences: number[] = [];
+
+  // Find all occurrences of the skin to apply
+  for (let i = 0; i <= hexFileData.length; i++) {
+    if (
+      hexFileData[i] === skinHex[0] &&
+      hexFileData[i + 1] === skinHex[1] &&
+      hexFileData[i + 2] === skinHex[2]
+    ) {
+      skinOccurrences.push(i);
+    }
+  }
+
+  // Only the last 4 occurrences are necessary to be replaced
+  for (let i = 0; i < 4; i++) {
+    hexFileData[skinOccurrences[skinOccurrences.length - 1 - i]] = weaponHex[0];
+    hexFileData[skinOccurrences[skinOccurrences.length - 1 - i] + 1] =
+      weaponHex[1];
+    hexFileData[skinOccurrences[skinOccurrences.length - 1 - i] + 2] =
+      weaponHex[2];
+  }
+
+  return hexFileData;
+}
+
+async function transmogWeapon() {
   try {
     isLoading.value = true;
+    error.value = null;
+    success.value = null;
+
     const file = await readBinaryFile(
-      `${weaponPath.value}\\${skinToApply.value}.arc`
+      `${weaponPath.value}\\${skinToApply.value}.arc`,
     );
-    for (let index of indexes) {
-      for (let i = 0; i < 3; i++) {
-        const hexValue = [...file[index + i].toString(16)];
-        hexValue[1] = weaponToTransmog.value[i];
-        file[index + i] = parseInt(hexValue.join(""), 16);
-      }
-    }
+    const modifiedHexFile = replaceSkinWithWeapon(file);
+
     await writeBinaryFile(
       `${weaponPath.value}\\${weaponToTransmog.value}.arc`,
-      file
+      new Uint8Array(modifiedHexFile.map((hex) => parseInt(hex, 16))),
     );
 
-    success.value = "Weapon transmogged successfully !";
+    success.value = 'Weapon transmogged successfully !';
   } catch (e: any) {
-    error.value = e;
+    error.value = e.message;
   } finally {
     isLoading.value = false;
   }
-};
-
-const btnText = computed(() => {
-  return isLoading.value ? "Loading..." : "Transmog Weapon !";
-});
+}
 </script>
 
 <template>
@@ -56,8 +93,8 @@ const btnText = computed(() => {
     <WeaponTypes />
     <span class="line"></span>
     <div class="transmog-container">
-      <WeaponSkins :is-weapon-to-transmog="true" />
-      <WeaponSkins :is-weapon-to-transmog="false" />
+      <WeaponSkins :is-weapon-to-transmog="true" v-model="weaponToTransmog" />
+      <WeaponSkins :is-weapon-to-transmog="false" v-model="skinToApply" />
     </div>
     <span class="line"></span>
     <div class="footer">
@@ -66,8 +103,7 @@ const btnText = computed(() => {
         :disabled="!moddingFoler || isLoading"
         alt="Transmog weapon"
         title="Transmog weapon"
-        class="transmog-btn"
-      >
+        class="transmog-btn">
         {{ btnText }}
       </button>
       <p v-if="error" class="error">{{ error }}</p>
@@ -90,14 +126,14 @@ const btnText = computed(() => {
 }
 
 .line {
-  height: 1px;
+  height: 0.0625rem;
   width: 100%;
   background-color: lightgrey;
 }
 
 .transmog-btn {
   padding: 0.25rem 0.5rem;
-  border: 1px solid lightgray;
+  border: 0.0625rem solid lightgray;
   border-radius: 0.25rem;
   background-color: #f5f5f5;
   cursor: pointer;
@@ -120,11 +156,11 @@ const btnText = computed(() => {
 
 .error {
   color: red;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 .succes {
   color: green;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 </style>

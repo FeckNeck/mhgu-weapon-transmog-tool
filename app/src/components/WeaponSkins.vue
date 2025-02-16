@@ -1,38 +1,30 @@
 <script setup lang="ts">
-import { computed } from "vue";
-import { useWeaponStore } from "../store/store";
+import { useWeaponStore } from '@/store';
+import { storeToRefs } from 'pinia';
+import { computed } from 'vue';
 
-const weaponURL =
-  "https://cdn.kiranico.net/file/kiranico/mhgu-web/images/rotate";
+const WEAPON_URL =
+  'https://cdn.kiranico.net/file/kiranico/mhgu-web/images/rotate';
 
 const props = defineProps<{
   isWeaponToTransmog: boolean;
 }>();
 
-const { $state } = useWeaponStore();
+const weaponStore = useWeaponStore();
+const { selectedWeaponType } = storeToRefs(weaponStore);
 
-const selectedSkin = computed({
-  get: () =>
-    props.isWeaponToTransmog ? $state.weaponToTransmog : $state.skinToApply,
-  set: (value: string) => {
-    if (props.isWeaponToTransmog) {
-      $state.weaponToTransmog = value;
-    } else {
-      $state.skinToApply = value;
-    }
-  },
-});
+const weaponModel = defineModel<string>();
 
 const skins = computed(() => {
-  return $state.selectedWeaponType.skins;
+  return selectedWeaponType.value.skins;
 });
 
 const weaponImage = computed(() => {
-  return `url(${weaponURL}/${$state.selectedWeaponType.image_prefix}${selectedSkin.value}_rotate.webp)`;
+  return `url(${WEAPON_URL}/${selectedWeaponType.value.image_prefix}${weaponModel.value}_rotate.webp)`;
 });
 
 const inputLabel = computed(() => {
-  return props.isWeaponToTransmog ? "Weapon to transmog" : "Skin to apply";
+  return props.isWeaponToTransmog ? 'Weapon to transmog' : 'Skin to apply';
 });
 </script>
 
@@ -41,7 +33,7 @@ const inputLabel = computed(() => {
     <div :style="{ backgroundImage: weaponImage }" class="weapon-image"></div>
     <div>
       <label :for="inputLabel">{{ inputLabel }} :</label>
-      <select :id="inputLabel" name="weapon-skins" v-model="selectedSkin">
+      <select :id="inputLabel" name="weapon-skins" v-model="weaponModel">
         <option v-for="skin in skins" :key="skin.id" :value="skin.id">
           {{ skin.name }}
         </option>

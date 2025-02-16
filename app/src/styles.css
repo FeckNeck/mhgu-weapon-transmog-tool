@@ -16,7 +16,7 @@ body,
 
 body {
   line-height: 1.5;
-  font-family: "Nunito", sans-serif;
+  font-family: 'Nunito', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -60,8 +60,8 @@ h6 {
 }
 
 @font-face {
-  font-family: "Nunito";
-  src: url("./assets/fonts/Nunito-Regular.ttf") format("truetype");
+  font-family: 'Nunito';
+  src: url('./assets/fonts/Nunito-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;

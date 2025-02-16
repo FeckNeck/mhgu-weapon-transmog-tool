@@ -1,15 +1,17 @@
 <script setup lang="ts">
-import { open } from "@tauri-apps/api/dialog";
-import { useWeaponStore } from "../store/store.ts";
+import { useWeaponStore } from '@/store';
+import { open } from '@tauri-apps/api/dialog';
+import { storeToRefs } from 'pinia';
 
-const { $state } = useWeaponStore();
+const weaponStore = useWeaponStore();
+const { moddingFoler } = storeToRefs(weaponStore);
 
 const openDirectoryDialog = async () => {
   await open({
     directory: true,
   }).then((result) => {
-    if (typeof result === "string") {
-      $state.moddingFoler = result;
+    if (typeof result === 'string') {
+      moddingFoler.value = result;
     }
   });
 };
@@ -23,11 +25,8 @@ const openDirectoryDialog = async () => {
         src="../assets/folder-open.svg"
         alt="open folder"
         width="15"
-        height="15"
-      />
-      <span v-if="$state.moddingFoler" class="path">{{
-        $state.moddingFoler
-      }}</span>
+        height="15" />
+      <span v-if="moddingFoler" class="path">{{ moddingFoler }}</span>
       <span v-else class="placeholder path">Mhgu\...\weapon-transmog-tool</span>
     </button>
   </div>
