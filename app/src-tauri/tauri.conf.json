@@ -18,6 +18,8 @@
       },
       "fs": {
         "all": false,
+        "copyFile": true,
+        "exists": true,
         "readFile": true,
         "writeFile": true,
         "scope": [
