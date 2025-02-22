@@ -1,8 +1,8 @@
-import weapons from '@/assets/weapons.json';
+import weapons from '@/assets/weapons.json' assert { type: 'json' };
 import { Weapon } from '@/types';
 import { useStorage } from '@vueuse/core';
 import { defineStore } from 'pinia';
-import { computed, ref } from 'vue';
+import { computed, ref, watch } from 'vue';
 
 export const useWeaponStore = defineStore('weapons', () => {
   const moddingFoler = useStorage('moddingFolder', '');
@@ -13,6 +13,13 @@ export const useWeaponStore = defineStore('weapons', () => {
 
   const weaponPath = computed(() => {
     return `${moddingFoler.value}\\romfs\\nativeNX\\arc\\weapon\\${selectedWeaponType.value.id}`;
+  });
+
+  watch(selectedWeaponType, () => {
+    weaponToTransmog.value = selectedWeaponType.value.skins[0].id;
+    skinToApply.value = selectedWeaponType.value.skins.filter((skin) =>
+      skin.name.includes('Jewelled'),
+    )[0].id;
   });
 
   return {
