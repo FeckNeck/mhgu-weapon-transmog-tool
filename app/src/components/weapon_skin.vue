@@ -15,10 +15,6 @@ const { selectedWeaponType } = storeToRefs(weaponStore);
 
 const weaponModel = defineModel<string>();
 
-const skins = computed(() => {
-  return selectedWeaponType.value.skins;
-});
-
 const weaponImage = computed(() => {
   return `url(${WEAPON_URL}/${selectedWeaponType.value.image_prefix}${weaponModel.value}_rotate.webp)`;
 });
@@ -34,7 +30,10 @@ const inputLabel = computed(() => {
     <div>
       <label :for="inputLabel">{{ inputLabel }} :</label>
       <select :id="inputLabel" name="weapon-skins" v-model="weaponModel">
-        <option v-for="skin in skins" :key="skin.id" :value="skin.id">
+        <option
+          v-for="(skin, index) in selectedWeaponType.skins"
+          :key="selectedWeaponType + skin.id + index"
+          :value="skin.id">
           {{ skin.name }}
         </option>
       </select>

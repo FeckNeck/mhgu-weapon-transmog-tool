@@ -2,6 +2,7 @@
 import { useWeaponStore } from '@/store';
 import { open } from '@tauri-apps/api/dialog';
 import { storeToRefs } from 'pinia';
+import Folder from './ui/folder.vue';
 
 const weaponStore = useWeaponStore();
 const { moddingFoler } = storeToRefs(weaponStore);
@@ -21,11 +22,7 @@ const openDirectoryDialog = async () => {
   <div class="path-container">
     <p>Select Yuzu or Ryujinx mod directory :</p>
     <button class="folder-btn" @click="openDirectoryDialog">
-      <img
-        src="../assets/folder-open.svg"
-        alt="open folder"
-        width="15"
-        height="15" />
+      <Folder />
       <span v-if="moddingFoler" class="path">{{ moddingFoler }}</span>
       <span v-else class="placeholder path">Mhgu\...\weapon-transmog-tool</span>
     </button>
@@ -41,6 +38,10 @@ const openDirectoryDialog = async () => {
   padding: 0.5rem;
   width: 250px;
   gap: 0.5rem;
+
+  > svg {
+    width: 3rem;
+  }
 
   .path {
     overflow: hidden;

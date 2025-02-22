@@ -1,12 +1,18 @@
 <script setup lang="ts">
 import weapons from '@/assets/weapons.json';
 import { useWeaponStore } from '@/store';
+import { storeToRefs } from 'pinia';
 import { computed } from 'vue';
 
-const { $state } = useWeaponStore();
+const weaponStore = useWeaponStore();
+const { selectedWeaponType } = storeToRefs(weaponStore);
 
 const weaponImage = computed(() => {
-  return 'assets/images/icon_' + $state.selectedWeaponType?.name + '.png';
+  return (
+    'assets/images/icon_' +
+    selectedWeaponType.value.name.toLowerCase().replace(/ /g, '_') +
+    '.png'
+  );
 });
 </script>
 
@@ -14,21 +20,21 @@ const weaponImage = computed(() => {
   <div class="weapon-type">
     <img
       :src="weaponImage"
-      :alt="$state.selectedWeaponType.name + ' icon'"
+      :alt="selectedWeaponType.name + ' icon'"
       class="weapon-icon" />
     <div>
       <label for="weapon-type">Weapon type :</label>
       <select
         name="weapon-type"
         id="weapon-type"
-        v-model="$state.selectedWeaponType"
+        v-model="selectedWeaponType"
         aria-label="Weapon type">
         <option
           v-for="(weaponType, index) in weapons"
           :key="weaponType.id"
           :value="weaponType"
           :selected="index === 0">
-          {{ weaponType.title }}
+          {{ weaponType.name }}
         </option>
       </select>
     </div>
