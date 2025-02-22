@@ -1,10 +1,15 @@
 <script setup lang="ts">
-import { readBinaryFile, writeBinaryFile } from '@tauri-apps/api/fs';
+import {
+  readBinaryFile,
+  writeBinaryFile,
+  exists,
+  copyFile,
+} from '@tauri-apps/api/fs';
 import { storeToRefs } from 'pinia';
 import { computed, ref } from 'vue';
-import ModdingPath from './components/ModdingPath.vue';
-import WeaponSkins from './components/WeaponSkins.vue';
-import WeaponTypes from './components/WeaponTypes.vue';
+import ModdingPath from './components/modding_path.vue';
+import WeaponSkin from './components/weapon_skin.vue';
+import WeaponType from './components/weapon_type.vue';
 import { useWeaponStore } from './store';
 
 const weaponStore = useWeaponStore();
@@ -33,13 +38,25 @@ function convertFileToHex(uint8Array: Uint8Array): string[] {
 
 function replaceSkinWithWeapon(file: Uint8Array): string[] {
   const hexFileData = convertFileToHex(file);
+  console.log('hexFileData:', hexFileData);
   const weaponHex = convertWeaponToHex(weaponToTransmog.value);
   const skinHex = convertWeaponToHex(skinToApply.value);
 
   const skinOccurrences: number[] = [];
 
-  // Find all occurrences of the skin to apply
-  for (let i = 0; i <= hexFileData.length; i++) {
+  for (let i = hexFileData.length - 1; i >= 0; i--) {
+    // Stop iterating when we reach skinHex_BM
+    if (
+      hexFileData[i] === '4d' &&
+      hexFileData[i - 1] === '42' &&
+      hexFileData[i - 2] === '5f' &&
+      hexFileData[i - 3] === skinHex[2] &&
+      hexFileData[i - 4] === skinHex[1] &&
+      hexFileData[i - 5] === skinHex[0]
+    ) {
+      break;
+    }
+
     if (
       hexFileData[i] === skinHex[0] &&
       hexFileData[i + 1] === skinHex[1] &&
@@ -49,8 +66,7 @@ function replaceSkinWithWeapon(file: Uint8Array): string[] {
     }
   }
 
-  // Only the last 4 occurrences are necessary to be replaced
-  for (let i = 0; i < 4; i++) {
+  for (let i = 0; i < skinOccurrences.length; i++) {
     hexFileData[skinOccurrences[skinOccurrences.length - 1 - i]] = weaponHex[0];
     hexFileData[skinOccurrences[skinOccurrences.length - 1 - i] + 1] =
       weaponHex[1];
@@ -67,19 +83,37 @@ async function transmogWeapon() {
     error.value = null;
     success.value = null;
 
+    const weaponToTransmogBackupPath = `${weaponPath.value}\\${weaponToTransmog.value}_save.arc`;
+    const weaponToTransmogPath = `${weaponPath.value}\\${weaponToTransmog.value}.arc`;
+    const skinToApplyPath = `${weaponPath.value}\\${skinToApply.value}.arc`;
+    const skinToApplyBackupPath = `${weaponPath.value}\\${skinToApply.value}_save.arc`;
+
+    const isSkinSaved = await exists(skinToApplyBackupPath);
+
     const file = await readBinaryFile(
-      `${weaponPath.value}\\${skinToApply.value}.arc`,
+      isSkinSaved ? skinToApplyBackupPath : skinToApplyPath,
     );
+
     const modifiedHexFile = replaceSkinWithWeapon(file);
 
+    const isWeaponSaved = await exists(weaponToTransmogBackupPath);
+
+    if (!isWeaponSaved) {
+      await copyFile(weaponToTransmogPath, weaponToTransmogBackupPath);
+    }
+
     await writeBinaryFile(
-      `${weaponPath.value}\\${weaponToTransmog.value}.arc`,
+      weaponToTransmogPath,
       new Uint8Array(modifiedHexFile.map((hex) => parseInt(hex, 16))),
     );
 
     success.value = 'Weapon transmogged successfully !';
-  } catch (e: any) {
-    error.value = e.message;
+  } catch (e: unknown) {
+    if (e instanceof Error) {
+      error.value = e.message;
+    } else {
+      error.value = e as string;
+    }
   } finally {
     isLoading.value = false;
   }
@@ -90,11 +124,11 @@ async function transmogWeapon() {
   <div class="container">
     <ModdingPath />
     <span class="line"></span>
-    <WeaponTypes />
+    <WeaponType />
     <span class="line"></span>
     <div class="transmog-container">
-      <WeaponSkins :is-weapon-to-transmog="true" v-model="weaponToTransmog" />
-      <WeaponSkins :is-weapon-to-transmog="false" v-model="skinToApply" />
+      <WeaponSkin :is-weapon-to-transmog="true" v-model="weaponToTransmog" />
+      <WeaponSkin :is-weapon-to-transmog="false" v-model="skinToApply" />
     </div>
     <span class="line"></span>
     <div class="footer">
