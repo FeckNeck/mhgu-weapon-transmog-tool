@@ -1,20 +1,18 @@
 import { parentPort, workerData } from "worker_threads";
 import { chromium } from "playwright";
-import { Skin } from "./index";
+import type { Skin } from "./types";
 
 const KIRANICO_URL = "https://mhxx.kiranico.com/en";
 
 (async () => {
-  console.log("🔧 Worker démarré avec les données :", workerData);
-
-  const { weaponPrefix } = workerData;
+  const { weaponPrefix, weaponId } = workerData;
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(`${KIRANICO_URL}/${weaponPrefix}`);
 
   let skins: Skin[] = [];
 
-  const skinLinks = await page.locator("table:first-of-type a").all();
+  const skinLinks = await page.locator("table").first().locator("a").all();
   const skinUrls = await Promise.all(
     skinLinks.map((skinLink: any) => skinLink.getAttribute("href"))
   );
@@ -29,13 +27,12 @@ const KIRANICO_URL = "https://mhxx.kiranico.com/en";
         const div = document.querySelector("div#model-viewer.center-block");
         if (div) {
           const bgImage = window.getComputedStyle(div).backgroundImage;
-          return bgImage
-            .replace(/^.*image\/(.*?)_.*$/, "$1")
-            .replace(/\D/g, "");
+          return bgImage.replace(/\D/g, "");
         }
         return "Not found";
       });
-      console.log("skinId:", skinId);
+
+      console.log(`Weapon ${weaponId} - Skin ${skinId}: ${skinName}`);
       skins.push({ id: skinId, name: skinName });
       await skinPage.close();
     }
@@ -44,6 +41,5 @@ const KIRANICO_URL = "https://mhxx.kiranico.com/en";
   await page.close();
   await browser.close();
 
-  // Envoi des résultats au thread principal
   parentPort?.postMessage(skins);
 })();
