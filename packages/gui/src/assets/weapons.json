@@ -3,6 +3,7 @@
     "id": "w00",
     "name": "Great Sword",
     "icon": "great_sword",
+    "kiranico_prefix": "dai",
     "image_prefix": "two",
     "skins": [
       {
@@ -831,6 +832,7 @@
     "id": "w01",
     "name": "Sword and Shield",
     "icon": "sword_and_shield",
+    "kiranico_prefix": "kata",
     "image_prefix": "one",
     "skins": [
       {
@@ -1623,6 +1625,7 @@
     "id": "w02",
     "name": "Hammer",
     "icon": "hammer",
+    "kiranico_prefix": "ham",
     "image_prefix": "ham",
     "skins": [
       {
@@ -2443,6 +2446,7 @@
     "id": "w03",
     "name": "Lance",
     "icon": "lance",
+    "kiranico_prefix": "lan",
     "image_prefix": "lan",
     "skins": [
       {
@@ -3231,6 +3235,7 @@
     "id": "w04",
     "name": "heavy Bowgun",
     "icon": "heavy_bowgun",
+    "kiranico_prefix": "hbg",
     "image_prefix": "hbg",
     "skins": [
       {
@@ -3875,6 +3880,7 @@
     "id": "w06",
     "name": "Light Bowgun",
     "icon": "light_bowgun",
+    "kiranico_prefix": "lbg",
     "image_prefix": "lbg",
     "skins": [
       {
@@ -4531,6 +4537,7 @@
     "id": "w07",
     "name": "Long Sword",
     "icon": "long_sword",
+    "kiranico_prefix": "tachi",
     "image_prefix": "swo",
     "skins": [
       {
@@ -5303,6 +5310,7 @@
     "id": "w08",
     "name": "Switch Axe",
     "icon": "switch_axe",
+    "kiranico_prefix": "saxe",
     "image_prefix": "axe",
     "skins": [
       {
@@ -5947,6 +5955,7 @@
     "id": "w09",
     "name": "Gunlance",
     "icon": "gunlance",
+    "kiranico_prefix": "gun",
     "image_prefix": "gun",
     "skins": [
       {
@@ -6655,6 +6664,7 @@
     "id": "w10",
     "name": "Bow",
     "icon": "bow",
+    "kiranico_prefix": "yumi",
     "image_prefix": "bow",
     "skins": [
       {
@@ -7283,6 +7293,7 @@
     "id": "w11",
     "name": "Dual Blades",
     "icon": "dual_blades",
+    "kiranico_prefix": "sou",
     "image_prefix": "sou",
     "skins": [
       {
@@ -8039,6 +8050,7 @@
     "id": "w12",
     "name": "Hunting Horn",
     "icon": "hunting_horn",
+    "kiranico_prefix": "hue",
     "image_prefix": "hue",
     "skins": [
       {
@@ -8719,6 +8731,7 @@
     "id": "w13",
     "name": "Insect Glaive",
     "icon": "insect_glaive",
+    "kiranico_prefix": "rod",
     "image_prefix": "rod",
     "skins": [
       {
@@ -9199,6 +9212,7 @@
     "id": "w14",
     "name": "Charge Blade",
     "icon": "charge_blade",
+    "kiranico_prefix": "caxe",
     "image_prefix": "gaxe",
     "skins": [
       {

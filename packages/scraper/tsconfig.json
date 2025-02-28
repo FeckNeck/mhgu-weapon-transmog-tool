@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "moduleResolution": "Bundler",
+    "module": "ESNext",
+    "noEmit": false,
+    "allowImportingTsExtensions": false,
+    "target": "ESNext",
+    "resolveJsonModule": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "outDir": "./dist"
+  }
+  // "extends": "../../tsconfig.json"
+}

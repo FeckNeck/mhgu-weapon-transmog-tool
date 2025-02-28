@@ -1,8 +1,8 @@
 import weapons from '@/assets/weapons.json' assert { type: 'json' };
-import { Weapon } from '@/types';
 import { useStorage } from '@vueuse/core';
 import { defineStore } from 'pinia';
 import { computed, ref, watch } from 'vue';
+import type { Weapon } from '@mhgu-wtt/shared';
 
 export const useWeaponStore = defineStore('weapons', () => {
   const moddingFoler = useStorage('moddingFolder', '');

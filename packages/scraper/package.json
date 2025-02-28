@@ -1,0 +1,19 @@
+{
+  "name": "@mhgu-wtt/scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "type-check": "tsc --noEmit",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "format": "prettier --check src/",
+    "format:fix": "prettier --write src/"
+  },
+  "dependencies": {
+    "@mhgu-wtt/shared": "workspace:^",
+    "playwright": "^1.50.1"
+  }
+}

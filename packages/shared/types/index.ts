@@ -1,6 +1,4 @@
-export type Weapons = Weapon[];
-
-export interface Weapon {
+interface Weapon {
   id: string;
   name: string;
   icon: string;
@@ -9,7 +7,11 @@ export interface Weapon {
   skins: Skin[];
 }
 
-export interface Skin {
+interface Skin {
   id: string;
   name: string;
 }
+
+type Weapons = Weapon[];
+
+export type { Weapon, Skin, Weapons };
