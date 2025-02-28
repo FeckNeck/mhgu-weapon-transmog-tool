@@ -1,0 +1,9684 @@
+[
+  {
+    "id": "w00",
+    "name": "Great Sword",
+    "icon": "great_sword",
+    "kiranico_prefix": "dai",
+    "image_prefix": "two",
+    "skins": [
+      {
+        "id": "130",
+        "name": "Petrified Blade"
+      },
+      {
+        "id": "157",
+        "name": "Defender"
+      },
+      {
+        "id": "044",
+        "name": "Khezu Shock Sword"
+      },
+      {
+        "id": "029",
+        "name": "Type 41 Wyvernator"
+      },
+      {
+        "id": "131",
+        "name": "Obsidian Blade"
+      },
+      {
+        "id": "158",
+        "name": "Halberd"
+      },
+      {
+        "id": "003",
+        "name": "Iron Sword"
+      },
+      {
+        "id": "004",
+        "name": "Buster Sword"
+      },
+      {
+        "id": "055",
+        "name": "Santoku Reaver"
+      },
+      {
+        "id": "002",
+        "name": "Ravager Blade"
+      },
+      {
+        "id": "171",
+        "name": "Lagiacrus Blade"
+      },
+      {
+        "id": "191",
+        "name": "Cleros Blade"
+      },
+      {
+        "id": "005",
+        "name": "Bone Cleaver"
+      },
+      {
+        "id": "169",
+        "name": "Red Stripe"
+      },
+      {
+        "id": "009",
+        "name": "Ludroth Bone Sword"
+      },
+      {
+        "id": "001",
+        "name": "Jawblade"
+      },
+      {
+        "id": "013",
+        "name": "Red Wing"
+      },
+      {
+        "id": "096",
+        "name": "Cheda Blade"
+      },
+      {
+        "id": "169",
+        "name": "Red Stripe"
+      },
+      {
+        "id": "112",
+        "name": "Red Pincer"
+      },
+      {
+        "id": "030",
+        "name": "Azure Serpentblade"
+      },
+      {
+        "id": "168",
+        "name": "White Serpentblade"
+      },
+      {
+        "id": "152",
+        "name": "Saffron Fangblade"
+      },
+      {
+        "id": "047",
+        "name": "Fanged Serpentblade"
+      },
+      {
+        "id": "043",
+        "name": "Chicken Decapitator"
+      },
+      {
+        "id": "168",
+        "name": "White Serpentblade"
+      },
+      {
+        "id": "152",
+        "name": "Saffron Fangblade"
+      },
+      {
+        "id": "047",
+        "name": "Fanged Serpentblade"
+      },
+      {
+        "id": "031",
+        "name": "Deadly Serpentblade"
+      },
+      {
+        "id": "009",
+        "name": "Ludroth Bone Sword"
+      },
+      {
+        "id": "151",
+        "name": "Snowclad"
+      },
+      {
+        "id": "024",
+        "name": "Cataclysm Sword"
+      },
+      {
+        "id": "163",
+        "name": "Yukumo Edge"
+      },
+      {
+        "id": "163",
+        "name": "Yukumo Pure Edge"
+      },
+      {
+        "id": "019",
+        "name": "Rusted Great Sword"
+      },
+      {
+        "id": "008",
+        "name": "Icesteel Edge"
+      },
+      {
+        "id": "020",
+        "name": "Ancient Blade"
+      },
+      {
+        "id": "004",
+        "name": "Buster Sword"
+      },
+      {
+        "id": "156",
+        "name": "Skraga"
+      },
+      {
+        "id": "026",
+        "name": "Brazenwall"
+      },
+      {
+        "id": "053",
+        "name": "Chrome Razor"
+      },
+      {
+        "id": "194",
+        "name": "Carapace Sword"
+      },
+      {
+        "id": "001",
+        "name": "Jawblade"
+      },
+      {
+        "id": "006",
+        "name": "Golem Blade"
+      },
+      {
+        "id": "039",
+        "name": "Thrash Sword"
+      },
+      {
+        "id": "161",
+        "name": "Wyvern Jawblade"
+      },
+      {
+        "id": "157",
+        "name": "Defender"
+      },
+      {
+        "id": "162",
+        "name": "Barbaroi Blade"
+      },
+      {
+        "id": "028",
+        "name": "Usurper's Storm"
+      },
+      {
+        "id": "162",
+        "name": "Barbaroi Blade"
+      },
+      {
+        "id": "178",
+        "name": "Larisaber"
+      },
+      {
+        "id": "031",
+        "name": "Deadly Serpentblade"
+      },
+      {
+        "id": "043",
+        "name": "Chicken Decapitator"
+      },
+      {
+        "id": "132",
+        "name": "Nocturnal Falx"
+      },
+      {
+        "id": "033",
+        "name": "Sentoryu Raven"
+      },
+      {
+        "id": "151",
+        "name": "Snowclad"
+      },
+      {
+        "id": "055",
+        "name": "Santoku Reaver"
+      },
+      {
+        "id": "060",
+        "name": "Toad Bereaver"
+      },
+      {
+        "id": "112",
+        "name": "Red Pincer"
+      },
+      {
+        "id": "170",
+        "name": "Ceanataur Blade"
+      },
+      {
+        "id": "024",
+        "name": "Cataclysm Sword"
+      },
+      {
+        "id": "193",
+        "name": "Icicle Fang"
+      },
+      {
+        "id": "132",
+        "name": "Nocturnal Falx"
+      },
+      {
+        "id": "044",
+        "name": "Khezu Shock Sword"
+      },
+      {
+        "id": "029",
+        "name": "Type 41 Wyvernator"
+      },
+      {
+        "id": "170",
+        "name": "Ceanataur Blade"
+      },
+      {
+        "id": "156",
+        "name": "Skraga"
+      },
+      {
+        "id": "027",
+        "name": "Hidden Blade"
+      },
+      {
+        "id": "017",
+        "name": "Vulcanis"
+      },
+      {
+        "id": "052",
+        "name": "Frozen Speartuna"
+      },
+      {
+        "id": "165",
+        "name": "Wyvern's Perch"
+      },
+      {
+        "id": "155",
+        "name": "Cheese Mixer"
+      },
+      {
+        "id": "154",
+        "name": "El Dora Blade"
+      },
+      {
+        "id": "131",
+        "name": "Obsidian Blade"
+      },
+      {
+        "id": "002",
+        "name": "Ravager Blade"
+      },
+      {
+        "id": "027",
+        "name": "Hidden Blade"
+      },
+      {
+        "id": "173",
+        "name": "Tactical Blade"
+      },
+      {
+        "id": "054",
+        "name": "Lacerator Blade"
+      },
+      {
+        "id": "158",
+        "name": "Halberd"
+      },
+      {
+        "id": "160",
+        "name": "Decider"
+      },
+      {
+        "id": "174",
+        "name": "Igneous Blade"
+      },
+      {
+        "id": "006",
+        "name": "Golem Blade"
+      },
+      {
+        "id": "012",
+        "name": "Valkyrie Blade"
+      },
+      {
+        "id": "010",
+        "name": "Tiger Jawblade"
+      },
+      {
+        "id": "159",
+        "name": "Executioner"
+      },
+      {
+        "id": "033",
+        "name": "Sentoryu Raven"
+      },
+      {
+        "id": "099",
+        "name": "Sentoryu Bane"
+      },
+      {
+        "id": "026",
+        "name": "Brazenwall"
+      },
+      {
+        "id": "012",
+        "name": "Valkyrie Blade"
+      },
+      {
+        "id": "011",
+        "name": "Spartacus Blade"
+      },
+      {
+        "id": "173",
+        "name": "Tactical Blade"
+      },
+      {
+        "id": "013",
+        "name": "Red Wing"
+      },
+      {
+        "id": "032",
+        "name": "Rathalos Gleamsword"
+      },
+      {
+        "id": "171",
+        "name": "Lagiacrus Blade"
+      },
+      {
+        "id": "034",
+        "name": "Plesioth Watercutter"
+      },
+      {
+        "id": "018",
+        "name": "Lagia Lightning"
+      },
+      {
+        "id": "028",
+        "name": "Usurper's Storm"
+      },
+      {
+        "id": "139",
+        "name": "Hanayako Yohino"
+      },
+      {
+        "id": "137",
+        "name": "Verdant Wing"
+      },
+      {
+        "id": "138",
+        "name": "Giant's Slicer"
+      },
+      {
+        "id": "134",
+        "name": "Scorching Blazer"
+      },
+      {
+        "id": "051",
+        "name": "Schattenstolz"
+      },
+      {
+        "id": "058",
+        "name": "L'Apotheose"
+      },
+      {
+        "id": "096",
+        "name": "Cheda Blade"
+      },
+      {
+        "id": "098",
+        "name": "Seditious Cleaver"
+      },
+      {
+        "id": "010",
+        "name": "Tiger Jawblade"
+      },
+      {
+        "id": "036",
+        "name": "Dios Blade"
+      },
+      {
+        "id": "023",
+        "name": "Kirin Thundersword"
+      },
+      {
+        "id": "036",
+        "name": "Dios Blade"
+      },
+      {
+        "id": "045",
+        "name": "Demolition Sword"
+      },
+      {
+        "id": "058",
+        "name": "L'Apotheose"
+      },
+      {
+        "id": "008",
+        "name": "Icesteel Edge"
+      },
+      {
+        "id": "095",
+        "name": "Grand Shamshir"
+      },
+      {
+        "id": "135",
+        "name": "Skeletal Great Sword"
+      },
+      {
+        "id": "136",
+        "name": "Astral Leo"
+      },
+      {
+        "id": "153",
+        "name": "Aloe Blade"
+      },
+      {
+        "id": "127",
+        "name": "Black Belt Blade"
+      },
+      {
+        "id": "163",
+        "name": "Yukumo Pure Edge"
+      },
+      {
+        "id": "016",
+        "name": "Black Blade"
+      },
+      {
+        "id": "020",
+        "name": "Ancient Blade"
+      },
+      {
+        "id": "054",
+        "name": "Lacerator Blade"
+      },
+      {
+        "id": "053",
+        "name": "Chrome Razor"
+      },
+      {
+        "id": "159",
+        "name": "Executioner"
+      },
+      {
+        "id": "039",
+        "name": "Thrash Sword"
+      },
+      {
+        "id": "056",
+        "name": "Immane Blade"
+      },
+      {
+        "id": "059",
+        "name": "Thrash Blade"
+      },
+      {
+        "id": "034",
+        "name": "Plesioth Watercutter"
+      },
+      {
+        "id": "175",
+        "name": "Plesioth Wave Sword"
+      },
+      {
+        "id": "166",
+        "name": "Cat's Soul"
+      },
+      {
+        "id": "019",
+        "name": "Worn Great Sword"
+      },
+      {
+        "id": "021",
+        "name": "Epitaph Blade"
+      },
+      {
+        "id": "022",
+        "name": "Teostra Blade"
+      },
+      {
+        "id": "191",
+        "name": "Cleros Blade"
+      },
+      {
+        "id": "194",
+        "name": "Carapace Sword"
+      },
+      {
+        "id": "056",
+        "name": "Immane Blade"
+      },
+      {
+        "id": "061",
+        "name": "Scylla Blade"
+      },
+      {
+        "id": "160",
+        "name": "Decider"
+      },
+      {
+        "id": "161",
+        "name": "Wyvern Jawblade"
+      },
+      {
+        "id": "192",
+        "name": "Splintered Horn"
+      },
+      {
+        "id": "059",
+        "name": "Thrash Blade"
+      },
+      {
+        "id": "060",
+        "name": "Toad Bereaver"
+      },
+      {
+        "id": "174",
+        "name": "Igneous Blade"
+      },
+      {
+        "id": "193",
+        "name": "Icicle Fang"
+      },
+      {
+        "id": "175",
+        "name": "Plesioth Wave Sword"
+      },
+      {
+        "id": "099",
+        "name": "Sentoryu Bane"
+      },
+      {
+        "id": "011",
+        "name": "Spartacus Blade"
+      },
+      {
+        "id": "172",
+        "name": "Red Note"
+      },
+      {
+        "id": "018",
+        "name": "Lagia Lightning"
+      },
+      {
+        "id": "098",
+        "name": "Seditious Cleaver"
+      },
+      {
+        "id": "045",
+        "name": "Demolition Sword"
+      },
+      {
+        "id": "102",
+        "name": "Lightbreak Blade"
+      },
+      {
+        "id": "015",
+        "name": "Demon Rod"
+      },
+      {
+        "id": "100",
+        "name": "Demonlord Club"
+      },
+      {
+        "id": "014",
+        "name": "Berserker Sword"
+      },
+      {
+        "id": "063",
+        "name": "Consummate Blade"
+      },
+      {
+        "id": "164",
+        "name": "Autumn Umbrella"
+      },
+      {
+        "id": "167",
+        "name": "Expert Blade"
+      },
+      {
+        "id": "021",
+        "name": "Epitaph Blade"
+      },
+      {
+        "id": "192",
+        "name": "Splintered Horn"
+      },
+      {
+        "id": "189",
+        "name": "Unsolved Sword"
+      },
+      {
+        "id": "179",
+        "name": "Fox Blade"
+      },
+      {
+        "id": "091",
+        "name": "Captain Blade J"
+      },
+      {
+        "id": "128",
+        "name": "Amol Saiqa"
+      },
+      {
+        "id": "094",
+        "name": "Chivalry"
+      },
+      {
+        "id": "126",
+        "name": "G Blade"
+      },
+      {
+        "id": "022",
+        "name": "Teostra Blade"
+      },
+      {
+        "id": "032",
+        "name": "Rathalos Gleamsword"
+      },
+      {
+        "id": "100",
+        "name": "Demonlord Club"
+      },
+      {
+        "id": "063",
+        "name": "Consummate Blade"
+      },
+      {
+        "id": "037",
+        "name": "Akantor Broadsword"
+      },
+      {
+        "id": "111",
+        "name": "Ukanlos Destructor"
+      },
+      {
+        "id": "177",
+        "name": "Roilcloud Sword"
+      },
+      {
+        "id": "136",
+        "name": "Astral Leo"
+      },
+      {
+        "id": "176",
+        "name": "Alatreon Great Sword"
+      },
+      {
+        "id": "180",
+        "name": "Silverwing Greatsword"
+      },
+      {
+        "id": "196",
+        "name": "Elder Blade"
+      },
+      {
+        "id": "061",
+        "name": "Scylla Blade"
+      },
+      {
+        "id": "190",
+        "name": "Pirit Mazel"
+      },
+      {
+        "id": "172",
+        "name": "Red Note"
+      },
+      {
+        "id": "197",
+        "name": "Viking Horn"
+      },
+      {
+        "id": "198",
+        "name": "Drifter's Katana"
+      },
+      {
+        "id": "199",
+        "name": "Garo Sword"
+      },
+      {
+        "id": "101",
+        "name": "Lumiere/Ombre"
+      },
+      {
+        "id": "102",
+        "name": "Lightbreak Blade"
+      },
+      {
+        "id": "195",
+        "name": "Dragon Killer"
+      },
+      {
+        "id": "181",
+        "name": "Jewelled Greatsword"
+      },
+      {
+        "id": "188",
+        "name": "Vulcan Blade"
+      },
+      {
+        "id": "040",
+        "name": "Fatalis Blade"
+      },
+      {
+        "id": "140",
+        "name": "Eostoclad"
+      },
+      {
+        "id": "142",
+        "name": "Stonefist Pincer"
+      },
+      {
+        "id": "143",
+        "name": "Royal Blade"
+      },
+      {
+        "id": "141",
+        "name": "Demon Knife"
+      },
+      {
+        "id": "147",
+        "name": "Blazing Squall"
+      },
+      {
+        "id": "150",
+        "name": "Grobowall"
+      },
+      {
+        "id": "144",
+        "name": "Sentoryo Calamity"
+      },
+      {
+        "id": "145",
+        "name": "Flamelord Wing"
+      },
+      {
+        "id": "148",
+        "name": "Thunderlord Gekirai"
+      },
+      {
+        "id": "146",
+        "name": "Rudra Jawblade"
+      },
+      {
+        "id": "149",
+        "name": "Crisped Blazer"
+      },
+      {
+        "id": "187",
+        "name": "Wolvercrz"
+      },
+      {
+        "id": "186",
+        "name": "Shredclaw Greatsword"
+      },
+      {
+        "id": "183",
+        "name": "Kanhana Sokin"
+      },
+      {
+        "id": "182",
+        "name": "Zephyr Wing"
+      },
+      {
+        "id": "184",
+        "name": "Frostpeak Blade"
+      },
+      {
+        "id": "185",
+        "name": "Massacre Blade"
+      }
+    ]
+  },
+  {
+    "id": "w01",
+    "name": "Sword and Shield",
+    "icon": "sword_and_shield",
+    "kiranico_prefix": "kata",
+    "image_prefix": "one",
+    "skins": [
+      {
+        "id": "134",
+        "name": "Petrified Sword"
+      },
+      {
+        "id": "015",
+        "name": "Velocidrome Bite"
+      },
+      {
+        "id": "060",
+        "name": "Frost Edge"
+      },
+      {
+        "id": "029",
+        "name": "Hidden Edge"
+      },
+      {
+        "id": "135",
+        "name": "Obsidian Sword"
+      },
+      {
+        "id": "034",
+        "name": "Dios Edge"
+      },
+      {
+        "id": "001",
+        "name": "Hunter's Knife"
+      },
+      {
+        "id": "003",
+        "name": "Soldier's Dagger"
+      },
+      {
+        "id": "170",
+        "name": "Serpent Bite"
+      },
+      {
+        "id": "002",
+        "name": "Hunter's Dagger"
+      },
+      {
+        "id": "052",
+        "name": "Odyssey Blade"
+      },
+      {
+        "id": "005",
+        "name": "Bone Kris"
+      },
+      {
+        "id": "156",
+        "name": "Bone Tabar"
+      },
+      {
+        "id": "006",
+        "name": "Ludroth's Nail"
+      },
+      {
+        "id": "163",
+        "name": "Bone Pick"
+      },
+      {
+        "id": "016",
+        "name": "Djinn"
+      },
+      {
+        "id": "162",
+        "name": "Kukri"
+      },
+      {
+        "id": "156",
+        "name": "Bone Tabar"
+      },
+      {
+        "id": "152",
+        "name": "Brash Buddies"
+      },
+      {
+        "id": "007",
+        "name": "Poison Axe"
+      },
+      {
+        "id": "012",
+        "name": "Lagia Sword"
+      },
+      {
+        "id": "041",
+        "name": "Sharkutter"
+      },
+      {
+        "id": "169",
+        "name": "Secta Nulo"
+      },
+      {
+        "id": "169",
+        "name": "Secta Nulo (G)"
+      },
+      {
+        "id": "169",
+        "name": "Secta Nulo (R)"
+      },
+      {
+        "id": "040",
+        "name": "Celestial Sword"
+      },
+      {
+        "id": "003",
+        "name": "Soldier's Dagger"
+      },
+      {
+        "id": "154",
+        "name": "Khezu Razor"
+      },
+      {
+        "id": "024",
+        "name": "Princess Rapier"
+      },
+      {
+        "id": "030",
+        "name": "Usurper's Firebolt"
+      },
+      {
+        "id": "170",
+        "name": "Serpent Bite"
+      },
+      {
+        "id": "171",
+        "name": "Snake Bite"
+      },
+      {
+        "id": "031",
+        "name": "Viper Bite"
+      },
+      {
+        "id": "021",
+        "name": "Hydra Bite"
+      },
+      {
+        "id": "096",
+        "name": "Naab Sword"
+      },
+      {
+        "id": "171",
+        "name": "Snake Bite"
+      },
+      {
+        "id": "031",
+        "name": "Viper Bite"
+      },
+      {
+        "id": "021",
+        "name": "Hydra Bite"
+      },
+      {
+        "id": "152",
+        "name": "Brash Buddies"
+      },
+      {
+        "id": "006",
+        "name": "Ludroth's Nail"
+      },
+      {
+        "id": "025",
+        "name": "Royal Claw"
+      },
+      {
+        "id": "175",
+        "name": "Gigas Club"
+      },
+      {
+        "id": "027",
+        "name": "Rex Talon"
+      },
+      {
+        "id": "015",
+        "name": "Velocidrome Bite"
+      },
+      {
+        "id": "136",
+        "name": "Shura Fan"
+      },
+      {
+        "id": "058",
+        "name": "Spiked Circle"
+      },
+      {
+        "id": "174",
+        "name": "Raven Blade"
+      },
+      {
+        "id": "050",
+        "name": "Drome Rush Dagger"
+      },
+      {
+        "id": "164",
+        "name": "Yukumo Cutter"
+      },
+      {
+        "id": "164",
+        "name": "Yukumo Pure Cutter"
+      },
+      {
+        "id": "022",
+        "name": "Rusted Sword"
+      },
+      {
+        "id": "010",
+        "name": "Icesteel Dagger"
+      },
+      {
+        "id": "023",
+        "name": "Eternal Strife"
+      },
+      {
+        "id": "002",
+        "name": "Hunter's Dagger"
+      },
+      {
+        "id": "153",
+        "name": "Lava Pick"
+      },
+      {
+        "id": "173",
+        "name": "Dual Carapace"
+      },
+      {
+        "id": "037",
+        "name": "Heavy Bang"
+      },
+      {
+        "id": "192",
+        "name": "Icicle Spike"
+      },
+      {
+        "id": "163",
+        "name": "Bone Pick"
+      },
+      {
+        "id": "172",
+        "name": "Thunderbane"
+      },
+      {
+        "id": "033",
+        "name": "Weary Finsword"
+      },
+      {
+        "id": "117",
+        "name": "Rajang Club"
+      },
+      {
+        "id": "116",
+        "name": "Studded Club"
+      },
+      {
+        "id": "060",
+        "name": "Frost Edge"
+      },
+      {
+        "id": "169",
+        "name": "Secta Nulo (G)"
+      },
+      {
+        "id": "169",
+        "name": "Secta Nulo (R)"
+      },
+      {
+        "id": "153",
+        "name": "Lava Pick"
+      },
+      {
+        "id": "007",
+        "name": "Poison Axe"
+      },
+      {
+        "id": "172",
+        "name": "Thunderbane"
+      },
+      {
+        "id": "025",
+        "name": "Royal Claw"
+      },
+      {
+        "id": "136",
+        "name": "Shura Fan"
+      },
+      {
+        "id": "154",
+        "name": "Khezu Razor"
+      },
+      {
+        "id": "173",
+        "name": "Dual Carapace"
+      },
+      {
+        "id": "058",
+        "name": "Spiked Circle"
+      },
+      {
+        "id": "029",
+        "name": "Hidden Edge"
+      },
+      {
+        "id": "019",
+        "name": "Tusk Gear"
+      },
+      {
+        "id": "018",
+        "name": "Catspaw"
+      },
+      {
+        "id": "168",
+        "name": "Melynx Tool"
+      },
+      {
+        "id": "166",
+        "name": "Kitchen Knife"
+      },
+      {
+        "id": "017",
+        "name": "Chak Chak"
+      },
+      {
+        "id": "157",
+        "name": "Moofah Sword"
+      },
+      {
+        "id": "159",
+        "name": "Eldora Closure"
+      },
+      {
+        "id": "135",
+        "name": "Obsidian Sword"
+      },
+      {
+        "id": "194",
+        "name": "Carapace Mace"
+      },
+      {
+        "id": "037",
+        "name": "Heavy Bang"
+      },
+      {
+        "id": "178",
+        "name": "Baumfaller"
+      },
+      {
+        "id": "174",
+        "name": "Raven Blade"
+      },
+      {
+        "id": "175",
+        "name": "Gigas Club"
+      },
+      {
+        "id": "024",
+        "name": "Princess Rapier"
+      },
+      {
+        "id": "107",
+        "name": "Lunatic Rose"
+      },
+      {
+        "id": "016",
+        "name": "Djinn"
+      },
+      {
+        "id": "009",
+        "name": "Flame Syphos"
+      },
+      {
+        "id": "176",
+        "name": "Corona"
+      },
+      {
+        "id": "057",
+        "name": "Golden Falchion"
+      },
+      {
+        "id": "012",
+        "name": "Lagia Sword"
+      },
+      {
+        "id": "020",
+        "name": "Storm Sword"
+      },
+      {
+        "id": "030",
+        "name": "Usurper's Firebolt"
+      },
+      {
+        "id": "142",
+        "name": "Hana no Nagoriwo"
+      },
+      {
+        "id": "140",
+        "name": "Verdant Rapier"
+      },
+      {
+        "id": "141",
+        "name": "Giant's Tusk"
+      },
+      {
+        "id": "137",
+        "name": "Burning Prominar"
+      },
+      {
+        "id": "046",
+        "name": "Sucher-Ankh"
+      },
+      {
+        "id": "054",
+        "name": "Le Detecteur"
+      },
+      {
+        "id": "096",
+        "name": "Naab Sword"
+      },
+      {
+        "id": "098",
+        "name": "Seditious Fang"
+      },
+      {
+        "id": "027",
+        "name": "Rex Talon"
+      },
+      {
+        "id": "177",
+        "name": "Kirin Bolt Ultimus"
+      },
+      {
+        "id": "034",
+        "name": "Dios Edge"
+      },
+      {
+        "id": "045",
+        "name": "Demolition Cutter"
+      },
+      {
+        "id": "054",
+        "name": "Le Detecteur"
+      },
+      {
+        "id": "010",
+        "name": "Icesteel Dagger"
+      },
+      {
+        "id": "138",
+        "name": "Skeletal Blade"
+      },
+      {
+        "id": "139",
+        "name": "Astral Taurus"
+      },
+      {
+        "id": "158",
+        "name": "Floral Seif"
+      },
+      {
+        "id": "129",
+        "name": "Black Belt Sword"
+      },
+      {
+        "id": "164",
+        "name": "Yukumo Pure Cutter"
+      },
+      {
+        "id": "035",
+        "name": "Black Sword"
+      },
+      {
+        "id": "028",
+        "name": "Hero's Blade"
+      },
+      {
+        "id": "023",
+        "name": "Eternal Strife"
+      },
+      {
+        "id": "052",
+        "name": "Odyssey Blade"
+      },
+      {
+        "id": "040",
+        "name": "Celestial Sword"
+      },
+      {
+        "id": "039",
+        "name": "Scaly Sword"
+      },
+      {
+        "id": "043",
+        "name": "Cross Sword"
+      },
+      {
+        "id": "041",
+        "name": "Sharkutter"
+      },
+      {
+        "id": "044",
+        "name": "Sharfin Sword"
+      },
+      {
+        "id": "022",
+        "name": "Worn Sword"
+      },
+      {
+        "id": "026",
+        "name": "Divine Exodus"
+      },
+      {
+        "id": "095",
+        "name": "Teostra's Spada"
+      },
+      {
+        "id": "194",
+        "name": "Carapace Mace"
+      },
+      {
+        "id": "039",
+        "name": "Scaly Sword"
+      },
+      {
+        "id": "048",
+        "name": "Bloodscale Sword"
+      },
+      {
+        "id": "044",
+        "name": "Sharfin Sword"
+      },
+      {
+        "id": "033",
+        "name": "Weary Finsword"
+      },
+      {
+        "id": "168",
+        "name": "Melynx Tool"
+      },
+      {
+        "id": "167",
+        "name": "Shining Wyvern Blade"
+      },
+      {
+        "id": "192",
+        "name": "Icicle Spike"
+      },
+      {
+        "id": "193",
+        "name": "Cyro Cross"
+      },
+      {
+        "id": "009",
+        "name": "Flame Syphos"
+      },
+      {
+        "id": "043",
+        "name": "Cross Sword"
+      },
+      {
+        "id": "176",
+        "name": "Corona"
+      },
+      {
+        "id": "020",
+        "name": "Storm Sword"
+      },
+      {
+        "id": "098",
+        "name": "Seditious Fang"
+      },
+      {
+        "id": "178",
+        "name": "Baumfaller"
+      },
+      {
+        "id": "045",
+        "name": "Demolition Cutter"
+      },
+      {
+        "id": "100",
+        "name": "Lightbreak Sword"
+      },
+      {
+        "id": "117",
+        "name": "Rajang Club"
+      },
+      {
+        "id": "160",
+        "name": "Demonlord Mace"
+      },
+      {
+        "id": "165",
+        "name": "Dragonseal Sword"
+      },
+      {
+        "id": "161",
+        "name": "Ninja Sword"
+      },
+      {
+        "id": "026",
+        "name": "Divine Exodus"
+      },
+      {
+        "id": "116",
+        "name": "Studded Club"
+      },
+      {
+        "id": "190",
+        "name": "Unsolved Knife"
+      },
+      {
+        "id": "130",
+        "name": "Inazuma Works"
+      },
+      {
+        "id": "094",
+        "name": "Levindicator"
+      },
+      {
+        "id": "131",
+        "name": "Star Knight Sword"
+      },
+      {
+        "id": "093",
+        "name": "Hero's Sword"
+      },
+      {
+        "id": "181",
+        "name": "Falchion"
+      },
+      {
+        "id": "095",
+        "name": "Teostra's Spada"
+      },
+      {
+        "id": "107",
+        "name": "Lunatic Rose"
+      },
+      {
+        "id": "057",
+        "name": "Golden Falchion"
+      },
+      {
+        "id": "049",
+        "name": "Platinum Dawn"
+      },
+      {
+        "id": "160",
+        "name": "Demonlord Mace"
+      },
+      {
+        "id": "155",
+        "name": "Akantor Duo"
+      },
+      {
+        "id": "114",
+        "name": "Ukanlos Soul Hatchet"
+      },
+      {
+        "id": "180",
+        "name": "Ominous Treasure"
+      },
+      {
+        "id": "139",
+        "name": "Astral Taurus"
+      },
+      {
+        "id": "179",
+        "name": "Alatreon Sword"
+      },
+      {
+        "id": "182",
+        "name": "Silverwing Sword"
+      },
+      {
+        "id": "195",
+        "name": "Elder Sword"
+      },
+      {
+        "id": "162",
+        "name": "Kukri"
+      },
+      {
+        "id": "050",
+        "name": "Drome Rush Dagger"
+      },
+      {
+        "id": "048",
+        "name": "Bloodscale Sword"
+      },
+      {
+        "id": "193",
+        "name": "Cyro Cross"
+      },
+      {
+        "id": "191",
+        "name": "Wyverian Dagger"
+      },
+      {
+        "id": "196",
+        "name": "Shin's Sword"
+      },
+      {
+        "id": "099",
+        "name": "Cacher/Chercher"
+      },
+      {
+        "id": "049",
+        "name": "Platinum Dawn"
+      },
+      {
+        "id": "100",
+        "name": "Lightbreak Sword"
+      },
+      {
+        "id": "183",
+        "name": "Jewelled Knife"
+      },
+      {
+        "id": "056",
+        "name": "Ruiner Sword"
+      },
+      {
+        "id": "053",
+        "name": "W. Fatalis Sword"
+      },
+      {
+        "id": "144",
+        "name": "Dreadqueen Rapier"
+      },
+      {
+        "id": "143",
+        "name": "Drilltusk Truncheon"
+      },
+      {
+        "id": "148",
+        "name": "Nightfall Edge"
+      },
+      {
+        "id": "151",
+        "name": "Geode Mace"
+      },
+      {
+        "id": "145",
+        "name": "Hardened Edge"
+      },
+      {
+        "id": "146",
+        "name": "Tomb Edge"
+      },
+      {
+        "id": "149",
+        "name": "Thunderlord Firebolt"
+      },
+      {
+        "id": "147",
+        "name": "Grimclaw Barb"
+      },
+      {
+        "id": "150",
+        "name": "Fiery Prominar"
+      },
+      {
+        "id": "189",
+        "name": "Wolverfang"
+      },
+      {
+        "id": "188",
+        "name": "Shredclaw Carapace"
+      },
+      {
+        "id": "185",
+        "name": "Kyoka Fugetsu"
+      },
+      {
+        "id": "184",
+        "name": "Zephyr Estoc"
+      },
+      {
+        "id": "186",
+        "name": "Frostpeak Sword"
+      },
+      {
+        "id": "187",
+        "name": "Massacre Club"
+      }
+    ]
+  },
+  {
+    "id": "w02",
+    "name": "Hammer",
+    "icon": "hammer",
+    "kiranico_prefix": "ham",
+    "image_prefix": "ham",
+    "skins": [
+      {
+        "id": "130",
+        "name": "Petrified Hammer"
+      },
+      {
+        "id": "154",
+        "name": "Great Nova"
+      },
+      {
+        "id": "148",
+        "name": "Type 42 Shellbuster"
+      },
+      {
+        "id": "131",
+        "name": "Obsidian Hammer"
+      },
+      {
+        "id": "009",
+        "name": "Striped Striker"
+      },
+      {
+        "id": "006",
+        "name": "Fist of Fury"
+      },
+      {
+        "id": "001",
+        "name": "Iron Hammer"
+      },
+      {
+        "id": "152",
+        "name": "Spiked Hammer"
+      },
+      {
+        "id": "002",
+        "name": "War Hammer"
+      },
+      {
+        "id": "027",
+        "name": "Binding Bludgeon"
+      },
+      {
+        "id": "153",
+        "name": "Anvil Hammer"
+      },
+      {
+        "id": "048",
+        "name": "Devil Masher"
+      },
+      {
+        "id": "004",
+        "name": "Bone Hammer"
+      },
+      {
+        "id": "005",
+        "name": "Bone Bludgeon"
+      },
+      {
+        "id": "132",
+        "name": "Feather Hammer"
+      },
+      {
+        "id": "156",
+        "name": "Cyclo-Hammer"
+      },
+      {
+        "id": "147",
+        "name": "Calamitous Portent"
+      },
+      {
+        "id": "160",
+        "name": "Lobstrosity"
+      },
+      {
+        "id": "152",
+        "name": "Spiked Hammer"
+      },
+      {
+        "id": "033",
+        "name": "Frozen Core"
+      },
+      {
+        "id": "172",
+        "name": "Vortex Hammer"
+      },
+      {
+        "id": "005",
+        "name": "Bone Bludgeon"
+      },
+      {
+        "id": "151",
+        "name": "Revenge Hammer"
+      },
+      {
+        "id": "168",
+        "name": "Ludroth Bone Mace"
+      },
+      {
+        "id": "054",
+        "name": "Meaty Smash"
+      },
+      {
+        "id": "151",
+        "name": "Revenge Hammer"
+      },
+      {
+        "id": "168",
+        "name": "Ludroth Bone Mace"
+      },
+      {
+        "id": "169",
+        "name": "Ludroth Splashhammer"
+      },
+      {
+        "id": "132",
+        "name": "Feather Hammer"
+      },
+      {
+        "id": "167",
+        "name": "Bull Head Hammer"
+      },
+      {
+        "id": "014",
+        "name": "Kut-Ku Pick"
+      },
+      {
+        "id": "170",
+        "name": "Dragonhead Hammer"
+      },
+      {
+        "id": "023",
+        "name": "Hidden Breaker"
+      },
+      {
+        "id": "025",
+        "name": "Usurper's Thunder"
+      },
+      {
+        "id": "175",
+        "name": "Plesioth Head"
+      },
+      {
+        "id": "158",
+        "name": "Yukumo Mallet"
+      },
+      {
+        "id": "158",
+        "name": "Yukumo Purehammer"
+      },
+      {
+        "id": "017",
+        "name": "Rusted Hammer"
+      },
+      {
+        "id": "037",
+        "name": "Teostra Cratermaker"
+      },
+      {
+        "id": "018",
+        "name": "Breath Core Hammer"
+      },
+      {
+        "id": "002",
+        "name": "War Hammer"
+      },
+      {
+        "id": "022",
+        "name": "Gun Hammer"
+      },
+      {
+        "id": "003",
+        "name": "Iron Striker"
+      },
+      {
+        "id": "049",
+        "name": "War Stamp"
+      },
+      {
+        "id": "156",
+        "name": "Cyclo-Hammer"
+      },
+      {
+        "id": "157",
+        "name": "Skullcrusher"
+      },
+      {
+        "id": "010",
+        "name": "Bag o' Horrors"
+      },
+      {
+        "id": "112",
+        "name": "Ceanataur Head Axe"
+      },
+      {
+        "id": "098",
+        "name": "Matraca Hammer"
+      },
+      {
+        "id": "033",
+        "name": "Frozen Core"
+      },
+      {
+        "id": "154",
+        "name": "Great Nova"
+      },
+      {
+        "id": "174",
+        "name": "Brazenclout"
+      },
+      {
+        "id": "157",
+        "name": "Skullcrusher"
+      },
+      {
+        "id": "171",
+        "name": "Conehead Hammer"
+      },
+      {
+        "id": "011",
+        "name": "Carapace Hammer"
+      },
+      {
+        "id": "176",
+        "name": "Jupiter's Sphere"
+      },
+      {
+        "id": "147",
+        "name": "Calamitous Portent"
+      },
+      {
+        "id": "034",
+        "name": "Dios Tailhammer"
+      },
+      {
+        "id": "014",
+        "name": "Kut-Ku Pick"
+      },
+      {
+        "id": "016",
+        "name": "Venom Monster"
+      },
+      {
+        "id": "051",
+        "name": "Raven Torrent"
+      },
+      {
+        "id": "016",
+        "name": "Venom Monster"
+      },
+      {
+        "id": "027",
+        "name": "Binding Bludgeon"
+      },
+      {
+        "id": "169",
+        "name": "Ludroth Splashhammer"
+      },
+      {
+        "id": "010",
+        "name": "Bag o' Horrors"
+      },
+      {
+        "id": "148",
+        "name": "Type 42 Shellbuster"
+      },
+      {
+        "id": "171",
+        "name": "Conehead Hammer"
+      },
+      {
+        "id": "112",
+        "name": "Ceanataur Head Axe"
+      },
+      {
+        "id": "170",
+        "name": "Dragonhead Hammer"
+      },
+      {
+        "id": "008",
+        "name": "Red Bludgeon"
+      },
+      {
+        "id": "024",
+        "name": "Basarios Blow"
+      },
+      {
+        "id": "023",
+        "name": "Hidden Breaker"
+      },
+      {
+        "id": "161",
+        "name": "Cactus Creamer"
+      },
+      {
+        "id": "162",
+        "name": "Black Frying Pan"
+      },
+      {
+        "id": "163",
+        "name": "One Star Silver Pot"
+      },
+      {
+        "id": "164",
+        "name": "Pumpking"
+      },
+      {
+        "id": "149",
+        "name": "Airship Hammer"
+      },
+      {
+        "id": "015",
+        "name": "Gaiarch"
+      },
+      {
+        "id": "036",
+        "name": "White Kitty Stamp"
+      },
+      {
+        "id": "028",
+        "name": "Black Kitty Stamp"
+      },
+      {
+        "id": "131",
+        "name": "Obsidian Hammer"
+      },
+      {
+        "id": "153",
+        "name": "Anvil Hammer"
+      },
+      {
+        "id": "041",
+        "name": "Accelerated Hammer"
+      },
+      {
+        "id": "155",
+        "name": "Blacksmith"
+      },
+      {
+        "id": "022",
+        "name": "Gun Hammer"
+      },
+      {
+        "id": "039",
+        "name": "Shot Crusher"
+      },
+      {
+        "id": "051",
+        "name": "Raven Torrent"
+      },
+      {
+        "id": "101",
+        "name": "Vile Torrent"
+      },
+      {
+        "id": "174",
+        "name": "Brazenclout"
+      },
+      {
+        "id": "008",
+        "name": "Red Bludgeon"
+      },
+      {
+        "id": "032",
+        "name": "Leonid Starcrusher"
+      },
+      {
+        "id": "172",
+        "name": "Vortex Hammer"
+      },
+      {
+        "id": "042",
+        "name": "Cluster Hammer"
+      },
+      {
+        "id": "173",
+        "name": "Vortical Hammer"
+      },
+      {
+        "id": "025",
+        "name": "Usurper's Thunder"
+      },
+      {
+        "id": "138",
+        "name": "Purity Hammer"
+      },
+      {
+        "id": "136",
+        "name": "Emerald Beater"
+      },
+      {
+        "id": "137",
+        "name": "Giant's Hammer"
+      },
+      {
+        "id": "133",
+        "name": "Scorching Isshata"
+      },
+      {
+        "id": "056",
+        "name": "Wuchtblick"
+      },
+      {
+        "id": "057",
+        "name": "Le Jugement"
+      },
+      {
+        "id": "098",
+        "name": "Matraca Hammer"
+      },
+      {
+        "id": "100",
+        "name": "Seditious Hammer"
+      },
+      {
+        "id": "009",
+        "name": "Striped Striker"
+      },
+      {
+        "id": "034",
+        "name": "Dios Tailhammer"
+      },
+      {
+        "id": "044",
+        "name": "Demolition Hammer"
+      },
+      {
+        "id": "057",
+        "name": "Le Jugement"
+      },
+      {
+        "id": "097",
+        "name": "Genie's Expanse"
+      },
+      {
+        "id": "037",
+        "name": "Teostra Cratermaker"
+      },
+      {
+        "id": "134",
+        "name": "Skeletal Hammer"
+      },
+      {
+        "id": "135",
+        "name": "Polaris Hammer"
+      },
+      {
+        "id": "128",
+        "name": "Teddybear"
+      },
+      {
+        "id": "160",
+        "name": "Lobstrosity"
+      },
+      {
+        "id": "166",
+        "name": "Egg Hammer"
+      },
+      {
+        "id": "150",
+        "name": "Graceful Death"
+      },
+      {
+        "id": "126",
+        "name": "Black Belt Hammer"
+      },
+      {
+        "id": "158",
+        "name": "Yukumo Purehammer"
+      },
+      {
+        "id": "021",
+        "name": "Black Hammer"
+      },
+      {
+        "id": "018",
+        "name": "Breath Core Hammer"
+      },
+      {
+        "id": "006",
+        "name": "Fist of Fury"
+      },
+      {
+        "id": "050",
+        "name": "Gigaton Hammer"
+      },
+      {
+        "id": "003",
+        "name": "Iron Striker"
+      },
+      {
+        "id": "058",
+        "name": "Mane Malice"
+      },
+      {
+        "id": "041",
+        "name": "Accelerated Hammer"
+      },
+      {
+        "id": "038",
+        "name": "Nitro Boost Hammer"
+      },
+      {
+        "id": "054",
+        "name": "Meaty Smash"
+      },
+      {
+        "id": "055",
+        "name": "Meaty Press"
+      },
+      {
+        "id": "017",
+        "name": "Worn Hammer"
+      },
+      {
+        "id": "019",
+        "name": "Pulsating Core"
+      },
+      {
+        "id": "020",
+        "name": "Icesteel Hammer"
+      },
+      {
+        "id": "190",
+        "name": "Jail Hammer"
+      },
+      {
+        "id": "011",
+        "name": "Carapace Hammer"
+      },
+      {
+        "id": "110",
+        "name": "Barroth Mallet"
+      },
+      {
+        "id": "050",
+        "name": "Gigaton Hammer"
+      },
+      {
+        "id": "052",
+        "name": "Shell Hammer"
+      },
+      {
+        "id": "042",
+        "name": "Cluster Hammer"
+      },
+      {
+        "id": "053",
+        "name": "Cluster Musterer"
+      },
+      {
+        "id": "048",
+        "name": "Devil Masher"
+      },
+      {
+        "id": "190",
+        "name": "Jail Hammer"
+      },
+      {
+        "id": "049",
+        "name": "War Stamp"
+      },
+      {
+        "id": "055",
+        "name": "Meaty Press"
+      },
+      {
+        "id": "175",
+        "name": "Plesioth Head"
+      },
+      {
+        "id": "028",
+        "name": "Black Kitty Stamp"
+      },
+      {
+        "id": "129",
+        "name": "Enormous Ham"
+      },
+      {
+        "id": "163",
+        "name": "One Star Silver Pot"
+      },
+      {
+        "id": "024",
+        "name": "Basarios Blow"
+      },
+      {
+        "id": "052",
+        "name": "Shell Hammer"
+      },
+      {
+        "id": "039",
+        "name": "Shot Crusher"
+      },
+      {
+        "id": "101",
+        "name": "Vile Torrent"
+      },
+      {
+        "id": "038",
+        "name": "Nitro Boost Hammer"
+      },
+      {
+        "id": "173",
+        "name": "Vortical Hammer"
+      },
+      {
+        "id": "100",
+        "name": "Seditious Hammer"
+      },
+      {
+        "id": "176",
+        "name": "Jupiter's Sphere"
+      },
+      {
+        "id": "177",
+        "name": "Archambra Fellmace"
+      },
+      {
+        "id": "044",
+        "name": "Demolition Hammer"
+      },
+      {
+        "id": "103",
+        "name": "Lightbreak Hammer"
+      },
+      {
+        "id": "058",
+        "name": "Mane Malice"
+      },
+      {
+        "id": "104",
+        "name": "Demonlord Hammer"
+      },
+      {
+        "id": "012",
+        "name": "Devil's Due"
+      },
+      {
+        "id": "061",
+        "name": "Consummate Hammer"
+      },
+      {
+        "id": "159",
+        "name": "Anchor Hammer"
+      },
+      {
+        "id": "127",
+        "name": "Portsmark"
+      },
+      {
+        "id": "124",
+        "name": "Arluq Whammer"
+      },
+      {
+        "id": "125",
+        "name": "Pride of Harth"
+      },
+      {
+        "id": "165",
+        "name": "Expert Hammer"
+      },
+      {
+        "id": "019",
+        "name": "Pulsating Core"
+      },
+      {
+        "id": "187",
+        "name": "Unsolved Hammer"
+      },
+      {
+        "id": "192",
+        "name": "Crystal Rock"
+      },
+      {
+        "id": "095",
+        "name": "Thunder Works"
+      },
+      {
+        "id": "096",
+        "name": "Demon Visage"
+      },
+      {
+        "id": "020",
+        "name": "Icesteel Hammer"
+      },
+      {
+        "id": "032",
+        "name": "Leonid Starcrusher"
+      },
+      {
+        "id": "104",
+        "name": "Demonlord Hammer"
+      },
+      {
+        "id": "061",
+        "name": "Consummate Hammer"
+      },
+      {
+        "id": "111",
+        "name": "Ukanlos Trampler"
+      },
+      {
+        "id": "179",
+        "name": "Incubus Hammer"
+      },
+      {
+        "id": "135",
+        "name": "Polaris Hammer"
+      },
+      {
+        "id": "178",
+        "name": "Alatreon Hammer"
+      },
+      {
+        "id": "180",
+        "name": "Silverwing Hammer"
+      },
+      {
+        "id": "191",
+        "name": "Elder Hammer"
+      },
+      {
+        "id": "155",
+        "name": "Blacksmith"
+      },
+      {
+        "id": "110",
+        "name": "Barroth Mallet"
+      },
+      {
+        "id": "053",
+        "name": "Cluster Musterer"
+      },
+      {
+        "id": "188",
+        "name": "Volare Commemorative"
+      },
+      {
+        "id": "177",
+        "name": "Archambra Fellmace"
+      },
+      {
+        "id": "102",
+        "name": "Sourire/Eblouir"
+      },
+      {
+        "id": "103",
+        "name": "Lightbreak Hammer"
+      },
+      {
+        "id": "189",
+        "name": "Dragon Destroyer"
+      },
+      {
+        "id": "181",
+        "name": "Jewelled Hammer"
+      },
+      {
+        "id": "186",
+        "name": "Vulcan Buster"
+      },
+      {
+        "id": "035",
+        "name": "Fatalis Buster"
+      },
+      {
+        "id": "139",
+        "name": "Pincher Hammer"
+      },
+      {
+        "id": "143",
+        "name": "Nightfall Hammer"
+      },
+      {
+        "id": "146",
+        "name": "Geode Hammer"
+      },
+      {
+        "id": "140",
+        "name": "Hardened Hammer"
+      },
+      {
+        "id": "141",
+        "name": "Tomb Hammer"
+      },
+      {
+        "id": "144",
+        "name": "Raiden Hammer"
+      },
+      {
+        "id": "142",
+        "name": "Seize Hammer"
+      },
+      {
+        "id": "145",
+        "name": "Magma Hammer"
+      },
+      {
+        "id": "185",
+        "name": "Shredclaw Hammer"
+      },
+      {
+        "id": "183",
+        "name": "Kojorakugetsu"
+      },
+      {
+        "id": "182",
+        "name": "Zephyr Beat"
+      },
+      {
+        "id": "184",
+        "name": "Frostpeak Hammer"
+      }
+    ]
+  },
+  {
+    "id": "w03",
+    "name": "Lance",
+    "icon": "lance",
+    "kiranico_prefix": "lan",
+    "image_prefix": "lan",
+    "skins": [
+      {
+        "id": "111",
+        "name": "Petrified Lance"
+      },
+      {
+        "id": "153",
+        "name": "Naag Serpentblade"
+      },
+      {
+        "id": "113",
+        "name": "Cross Coloris"
+      },
+      {
+        "id": "010",
+        "name": "Twistcrawl"
+      },
+      {
+        "id": "112",
+        "name": "Obsidian Lance"
+      },
+      {
+        "id": "001",
+        "name": "Iron Lance"
+      },
+      {
+        "id": "002",
+        "name": "Thane Lance"
+      },
+      {
+        "id": "011",
+        "name": "Spiked Spear"
+      },
+      {
+        "id": "135",
+        "name": "Estoc"
+      },
+      {
+        "id": "003",
+        "name": "Paladin Lance"
+      },
+      {
+        "id": "134",
+        "name": "Squire Spear"
+      },
+      {
+        "id": "005",
+        "name": "Bone Lance"
+      },
+      {
+        "id": "138",
+        "name": "Longhorn Spear"
+      },
+      {
+        "id": "149",
+        "name": "Ploshasta"
+      },
+      {
+        "id": "006",
+        "name": "Dark Lance"
+      },
+      {
+        "id": "002",
+        "name": "Thane Lance"
+      },
+      {
+        "id": "035",
+        "name": "Drill Lance"
+      },
+      {
+        "id": "154",
+        "name": "Hidden Stinger"
+      },
+      {
+        "id": "030",
+        "name": "Steel Knight's Pike"
+      },
+      {
+        "id": "156",
+        "name": "Acrus Lance"
+      },
+      {
+        "id": "012",
+        "name": "Venom Lance"
+      },
+      {
+        "id": "138",
+        "name": "Longhorn Spear"
+      },
+      {
+        "id": "095",
+        "name": "Bone Claw Lance"
+      },
+      {
+        "id": "139",
+        "name": "Barbarian Tusk"
+      },
+      {
+        "id": "081",
+        "name": "Harbah Lance"
+      },
+      {
+        "id": "141",
+        "name": "Giant Tusk"
+      },
+      {
+        "id": "013",
+        "name": "Diablos Lance"
+      },
+      {
+        "id": "011",
+        "name": "Spiked Spear"
+      },
+      {
+        "id": "128",
+        "name": "Type 43 Dragonlance"
+      },
+      {
+        "id": "051",
+        "name": "Thunderspear"
+      },
+      {
+        "id": "033",
+        "name": "Aqua Spear"
+      },
+      {
+        "id": "179",
+        "name": "Stungun Lance"
+      },
+      {
+        "id": "149",
+        "name": "Ploshasta"
+      },
+      {
+        "id": "151",
+        "name": "Ludroth Bone Spear"
+      },
+      {
+        "id": "029",
+        "name": "Usurper's Coming"
+      },
+      {
+        "id": "177",
+        "name": "Rugged Lance"
+      },
+      {
+        "id": "160",
+        "name": "Spiral Heat"
+      },
+      {
+        "id": "151",
+        "name": "Ludroth Bone Spear"
+      },
+      {
+        "id": "152",
+        "name": "Spiral Lance"
+      },
+      {
+        "id": "150",
+        "name": "Wild Boar Lance"
+      },
+      {
+        "id": "028",
+        "name": "Red Tail"
+      },
+      {
+        "id": "038",
+        "name": "Dios Stinger"
+      },
+      {
+        "id": "031",
+        "name": "Expelger"
+      },
+      {
+        "id": "014",
+        "name": "Demon Lance"
+      },
+      {
+        "id": "142",
+        "name": "Yukumo Lance"
+      },
+      {
+        "id": "142",
+        "name": "Yukumo Purelance"
+      },
+      {
+        "id": "018",
+        "name": "Rusted Lance"
+      },
+      {
+        "id": "016",
+        "name": "Icesteel Spear"
+      },
+      {
+        "id": "019",
+        "name": "Undertaker"
+      },
+      {
+        "id": "035",
+        "name": "Drill Lance"
+      },
+      {
+        "id": "135",
+        "name": "Estoc"
+      },
+      {
+        "id": "006",
+        "name": "Dark Lance"
+      },
+      {
+        "id": "024",
+        "name": "Dark"
+      },
+      {
+        "id": "153",
+        "name": "Naag Serpentblade"
+      },
+      {
+        "id": "095",
+        "name": "Bone Claw Lance"
+      },
+      {
+        "id": "129",
+        "name": "Volvi Stroke"
+      },
+      {
+        "id": "155",
+        "name": "Ceanataur Stinger"
+      },
+      {
+        "id": "129",
+        "name": "Volvi Stroke"
+      },
+      {
+        "id": "152",
+        "name": "Spiral Lance"
+      },
+      {
+        "id": "113",
+        "name": "Cross Coloris"
+      },
+      {
+        "id": "021",
+        "name": "Incessant Raven"
+      },
+      {
+        "id": "128",
+        "name": "Type 43 Dragonlance"
+      },
+      {
+        "id": "155",
+        "name": "Ceanataur Stinger"
+      },
+      {
+        "id": "010",
+        "name": "Twistcrawl"
+      },
+      {
+        "id": "039",
+        "name": "Twisting Crawler"
+      },
+      {
+        "id": "159",
+        "name": "Boros Spear"
+      },
+      {
+        "id": "154",
+        "name": "Hidden Stinger"
+      },
+      {
+        "id": "015",
+        "name": "Blue Crater"
+      },
+      {
+        "id": "037",
+        "name": "Frontrider Lance"
+      },
+      {
+        "id": "143",
+        "name": "Native Spear"
+      },
+      {
+        "id": "144",
+        "name": "Vacuum Striker"
+      },
+      {
+        "id": "007",
+        "name": "Fragrance"
+      },
+      {
+        "id": "145",
+        "name": "Noble Fragrance"
+      },
+      {
+        "id": "146",
+        "name": "Plegis Needle"
+      },
+      {
+        "id": "130",
+        "name": "Fondue Lance"
+      },
+      {
+        "id": "131",
+        "name": "Blimp Lance"
+      },
+      {
+        "id": "112",
+        "name": "Obsidian Lance"
+      },
+      {
+        "id": "003",
+        "name": "Paladin Lance"
+      },
+      {
+        "id": "026",
+        "name": "Tiger Stinger"
+      },
+      {
+        "id": "137",
+        "name": "Growling Wyvern"
+      },
+      {
+        "id": "004",
+        "name": "Babel Spear"
+      },
+      {
+        "id": "008",
+        "name": "Tusk Lance"
+      },
+      {
+        "id": "139",
+        "name": "Barbarian Tusk"
+      },
+      {
+        "id": "140",
+        "name": "Barbaroi Tusk"
+      },
+      {
+        "id": "030",
+        "name": "Steel Knight's Pike"
+      },
+      {
+        "id": "136",
+        "name": "Dragon Rider Spear"
+      },
+      {
+        "id": "021",
+        "name": "Incessant Raven"
+      },
+      {
+        "id": "084",
+        "name": "Incessant Evil"
+      },
+      {
+        "id": "028",
+        "name": "Red Tail"
+      },
+      {
+        "id": "048",
+        "name": "Silver Prominence"
+      },
+      {
+        "id": "156",
+        "name": "Acrus Lance"
+      },
+      {
+        "id": "157",
+        "name": "Doris Spear"
+      },
+      {
+        "id": "029",
+        "name": "Usurper's Coming"
+      },
+      {
+        "id": "119",
+        "name": "Hana mo Hana Nare"
+      },
+      {
+        "id": "117",
+        "name": "Verdant Tail"
+      },
+      {
+        "id": "118",
+        "name": "Giant's Jouster"
+      },
+      {
+        "id": "114",
+        "name": "Svarog Blazer"
+      },
+      {
+        "id": "034",
+        "name": "Eiferschild"
+      },
+      {
+        "id": "040",
+        "name": "L'Egide"
+      },
+      {
+        "id": "081",
+        "name": "Harbah Lance"
+      },
+      {
+        "id": "083",
+        "name": "Seditious Lance"
+      },
+      {
+        "id": "026",
+        "name": "Tiger Stinger"
+      },
+      {
+        "id": "133",
+        "name": "Lava Cone"
+      },
+      {
+        "id": "051",
+        "name": "Thunderspear"
+      },
+      {
+        "id": "038",
+        "name": "Dios Stinger"
+      },
+      {
+        "id": "053",
+        "name": "Demolition Lance"
+      },
+      {
+        "id": "040",
+        "name": "L'Egide"
+      },
+      {
+        "id": "016",
+        "name": "Icesteel Spear"
+      },
+      {
+        "id": "115",
+        "name": "Skeletal Lance"
+      },
+      {
+        "id": "116",
+        "name": "Astral Capricorn"
+      },
+      {
+        "id": "025",
+        "name": "Sharq Byte"
+      },
+      {
+        "id": "132",
+        "name": "Alacrantze"
+      },
+      {
+        "id": "147",
+        "name": "Black Belt Lance"
+      },
+      {
+        "id": "142",
+        "name": "Yukumo Purelance"
+      },
+      {
+        "id": "032",
+        "name": "Black Lance"
+      },
+      {
+        "id": "019",
+        "name": "Undertaker"
+      },
+      {
+        "id": "134",
+        "name": "Squire Spear"
+      },
+      {
+        "id": "140",
+        "name": "Barbaroi Tusk"
+      },
+      {
+        "id": "137",
+        "name": "Growling Wyvern"
+      },
+      {
+        "id": "031",
+        "name": "Expelger"
+      },
+      {
+        "id": "049",
+        "name": "Carnivicious"
+      },
+      {
+        "id": "043",
+        "name": "Expelgouger"
+      },
+      {
+        "id": "049",
+        "name": "Carnivicious"
+      },
+      {
+        "id": "027",
+        "name": "Omnivicious"
+      },
+      {
+        "id": "033",
+        "name": "Aqua Spear"
+      },
+      {
+        "id": "158",
+        "name": "Rockabye Spear"
+      },
+      {
+        "id": "018",
+        "name": "Worn Spear"
+      },
+      {
+        "id": "020",
+        "name": "Skyscraper"
+      },
+      {
+        "id": "022",
+        "name": "Teostra's Howl"
+      },
+      {
+        "id": "179",
+        "name": "Stungun Lance"
+      },
+      {
+        "id": "178",
+        "name": "Spark Plug"
+      },
+      {
+        "id": "177",
+        "name": "Rugged Lance"
+      },
+      {
+        "id": "012",
+        "name": "Venom Lance"
+      },
+      {
+        "id": "046",
+        "name": "Gravios Spear"
+      },
+      {
+        "id": "004",
+        "name": "Babel Spear"
+      },
+      {
+        "id": "141",
+        "name": "Giant Tusk"
+      },
+      {
+        "id": "043",
+        "name": "Expelgouger"
+      },
+      {
+        "id": "027",
+        "name": "Omnivicious"
+      },
+      {
+        "id": "158",
+        "name": "Rockabye Spear"
+      },
+      {
+        "id": "133",
+        "name": "Lava Cone"
+      },
+      {
+        "id": "039",
+        "name": "Twisting Crawler"
+      },
+      {
+        "id": "163",
+        "name": "Guardian Lance"
+      },
+      {
+        "id": "178",
+        "name": "Spark Plug"
+      },
+      {
+        "id": "008",
+        "name": "Tusk Lance"
+      },
+      {
+        "id": "046",
+        "name": "Gravios Spear"
+      },
+      {
+        "id": "136",
+        "name": "Dragon Rider Spear"
+      },
+      {
+        "id": "084",
+        "name": "Incessant Evil"
+      },
+      {
+        "id": "157",
+        "name": "Doris Spear"
+      },
+      {
+        "id": "160",
+        "name": "Spiral Heat"
+      },
+      {
+        "id": "083",
+        "name": "Seditious Lance"
+      },
+      {
+        "id": "159",
+        "name": "Boros Spear"
+      },
+      {
+        "id": "053",
+        "name": "Demolition Lance"
+      },
+      {
+        "id": "086",
+        "name": "Lightbreak Lance"
+      },
+      {
+        "id": "014",
+        "name": "Demon Lance"
+      },
+      {
+        "id": "087",
+        "name": "Demonlord Spear"
+      },
+      {
+        "id": "017",
+        "name": "Grief Lance"
+      },
+      {
+        "id": "148",
+        "name": "Expert Lance"
+      },
+      {
+        "id": "020",
+        "name": "Skyscraper"
+      },
+      {
+        "id": "013",
+        "name": "Diablos Lance"
+      },
+      {
+        "id": "172",
+        "name": "Unsolved Lance"
+      },
+      {
+        "id": "080",
+        "name": "Brain Fox"
+      },
+      {
+        "id": "022",
+        "name": "Teostra's Howl"
+      },
+      {
+        "id": "048",
+        "name": "Silver Prominence"
+      },
+      {
+        "id": "087",
+        "name": "Demonlord Spear"
+      },
+      {
+        "id": "094",
+        "name": "Ukanlos Calamity"
+      },
+      {
+        "id": "162",
+        "name": "Ominous Cloud"
+      },
+      {
+        "id": "116",
+        "name": "Astral Capricorn"
+      },
+      {
+        "id": "161",
+        "name": "Alatreon Lance"
+      },
+      {
+        "id": "164",
+        "name": "Silverwing Spear"
+      },
+      {
+        "id": "180",
+        "name": "Elder Lance"
+      },
+      {
+        "id": "024",
+        "name": "Dark"
+      },
+      {
+        "id": "174",
+        "name": "Commemorative Baroni"
+      },
+      {
+        "id": "175",
+        "name": "Gorgon Lance"
+      },
+      {
+        "id": "145",
+        "name": "Noble Fragrance"
+      },
+      {
+        "id": "173",
+        "name": "Haiharo"
+      },
+      {
+        "id": "085",
+        "name": "Anesto/Falsch"
+      },
+      {
+        "id": "086",
+        "name": "Lightbreak Lance"
+      },
+      {
+        "id": "176",
+        "name": "Vermillion Rim"
+      },
+      {
+        "id": "165",
+        "name": "Jewelled Lance"
+      },
+      {
+        "id": "052",
+        "name": "Ruiner Lance"
+      },
+      {
+        "id": "023",
+        "name": "W. Fatalis Lance"
+      },
+      {
+        "id": "120",
+        "name": "Stonefist Lance"
+      },
+      {
+        "id": "121",
+        "name": "Dreadqueen Thorn"
+      },
+      {
+        "id": "125",
+        "name": "Gale Stinger"
+      },
+      {
+        "id": "122",
+        "name": "Incessant Calamity"
+      },
+      {
+        "id": "123",
+        "name": "Groad Tail"
+      },
+      {
+        "id": "126",
+        "name": "Thunderlord Tenrai"
+      },
+      {
+        "id": "124",
+        "name": "Rudra Stinger"
+      },
+      {
+        "id": "127",
+        "name": "Svarog Boomer"
+      },
+      {
+        "id": "171",
+        "name": "Wolver Coloris"
+      },
+      {
+        "id": "170",
+        "name": "Shredclaw Stinger"
+      },
+      {
+        "id": "167",
+        "name": "Hikarakuyo"
+      },
+      {
+        "id": "166",
+        "name": "Zephyr Tail"
+      },
+      {
+        "id": "168",
+        "name": "Frostpeak Spear"
+      },
+      {
+        "id": "169",
+        "name": "Massacre Horn"
+      }
+    ]
+  },
+  {
+    "id": "w04",
+    "name": "heavy Bowgun",
+    "icon": "heavy_bowgun",
+    "kiranico_prefix": "hbg",
+    "image_prefix": "hbg",
+    "skins": [
+      {
+        "id": "073",
+        "name": "Petrified Cannon"
+      },
+      {
+        "id": "094",
+        "name": "Anteka Burst"
+      },
+      {
+        "id": "059",
+        "name": "Crab Buster"
+      },
+      {
+        "id": "074",
+        "name": "Obsidian Cannon"
+      },
+      {
+        "id": "008",
+        "name": "Queen's Longfire"
+      },
+      {
+        "id": "104",
+        "name": "Arbalest"
+      },
+      {
+        "id": "113",
+        "name": "Injector Cannon"
+      },
+      {
+        "id": "105",
+        "name": "Meteor Bazooka"
+      },
+      {
+        "id": "116",
+        "name": "Yian Kut-Ku Cannon"
+      },
+      {
+        "id": "117",
+        "name": "Tankmage"
+      },
+      {
+        "id": "015",
+        "name": "Tigrex Howl"
+      },
+      {
+        "id": "001",
+        "name": "Bone Shooter"
+      },
+      {
+        "id": "093",
+        "name": "Marino Burst"
+      },
+      {
+        "id": "119",
+        "name": "Type 46 Gunflage"
+      },
+      {
+        "id": "055",
+        "name": "Dios Cannon"
+      },
+      {
+        "id": "113",
+        "name": "Injector Cannon"
+      },
+      {
+        "id": "114",
+        "name": "Flechette Gun"
+      },
+      {
+        "id": "115",
+        "name": "Sand Diver"
+      },
+      {
+        "id": "010",
+        "name": "Pressurized Plaser"
+      },
+      {
+        "id": "094",
+        "name": "Anteka Burst"
+      },
+      {
+        "id": "115",
+        "name": "Sand Diver"
+      },
+      {
+        "id": "095",
+        "name": "Carom Shot"
+      },
+      {
+        "id": "112",
+        "name": "Rapidcaster"
+      },
+      {
+        "id": "093",
+        "name": "Marino Burst"
+      },
+      {
+        "id": "020",
+        "name": "Arzuros Gun"
+      },
+      {
+        "id": "021",
+        "name": "Straw Drumcannon"
+      },
+      {
+        "id": "109",
+        "name": "Yukumo Bowgun"
+      },
+      {
+        "id": "109",
+        "name": "Yukumo Puregun"
+      },
+      {
+        "id": "105",
+        "name": "Meteor Bazooka"
+      },
+      {
+        "id": "023",
+        "name": "Bite Blaster"
+      },
+      {
+        "id": "099",
+        "name": "Striker's Bowgun"
+      },
+      {
+        "id": "107",
+        "name": "Meteor Buster"
+      },
+      {
+        "id": "144",
+        "name": "Rock Eater"
+      },
+      {
+        "id": "116",
+        "name": "Yian Kut-Ku Cannon"
+      },
+      {
+        "id": "075",
+        "name": "Binary Blaster"
+      },
+      {
+        "id": "124",
+        "name": "Raven Heirloom"
+      },
+      {
+        "id": "118",
+        "name": "Spheniscine Slayer"
+      },
+      {
+        "id": "121",
+        "name": "Hidden Gambit"
+      },
+      {
+        "id": "117",
+        "name": "Tankmage"
+      },
+      {
+        "id": "123",
+        "name": "Icethrower"
+      },
+      {
+        "id": "059",
+        "name": "Crab Buster"
+      },
+      {
+        "id": "118",
+        "name": "Spheniscine Slayer"
+      },
+      {
+        "id": "122",
+        "name": "Piercing Crab"
+      },
+      {
+        "id": "095",
+        "name": "Carom Shot"
+      },
+      {
+        "id": "004",
+        "name": "Agnaboom"
+      },
+      {
+        "id": "075",
+        "name": "Binary Blaster"
+      },
+      {
+        "id": "119",
+        "name": "Type 46 Gunflage"
+      },
+      {
+        "id": "125",
+        "name": "Lagia Blitz"
+      },
+      {
+        "id": "120",
+        "name": "Super Trench Snarfer"
+      },
+      {
+        "id": "123",
+        "name": "Icethrower"
+      },
+      {
+        "id": "127",
+        "name": "Quickcaster"
+      },
+      {
+        "id": "009",
+        "name": "Power Stinger"
+      },
+      {
+        "id": "023",
+        "name": "Bite Blaster"
+      },
+      {
+        "id": "039",
+        "name": "Sayyad Cannon"
+      },
+      {
+        "id": "121",
+        "name": "Hidden Gambit"
+      },
+      {
+        "id": "100",
+        "name": "Moofire Cannon"
+      },
+      {
+        "id": "102",
+        "name": "Lunastra's Zeal"
+      },
+      {
+        "id": "101",
+        "name": "Felyne Bowgun"
+      },
+      {
+        "id": "074",
+        "name": "Obsidian Cannon"
+      },
+      {
+        "id": "098",
+        "name": "Griffin's Charge"
+      },
+      {
+        "id": "124",
+        "name": "Raven Heirloom"
+      },
+      {
+        "id": "125",
+        "name": "Lagia Blitz"
+      },
+      {
+        "id": "126",
+        "name": "Usurper's Tremor"
+      },
+      {
+        "id": "126",
+        "name": "Usurper's Tremor"
+      },
+      {
+        "id": "019",
+        "name": "Despot Quarcus"
+      },
+      {
+        "id": "081",
+        "name": "Cirrus Blaster"
+      },
+      {
+        "id": "079",
+        "name": "Wyvern Blaster"
+      },
+      {
+        "id": "080",
+        "name": "Giant's Cannon"
+      },
+      {
+        "id": "076",
+        "name": "Burning Igna"
+      },
+      {
+        "id": "039",
+        "name": "Sayyad Cannon"
+      },
+      {
+        "id": "022",
+        "name": "Ner Bustergun"
+      },
+      {
+        "id": "041",
+        "name": "Seditious Cannon"
+      },
+      {
+        "id": "015",
+        "name": "Tigrex Howl"
+      },
+      {
+        "id": "006",
+        "name": "Gravios Howl"
+      },
+      {
+        "id": "003",
+        "name": "Dual Threat"
+      },
+      {
+        "id": "055",
+        "name": "Dios Cannon"
+      },
+      {
+        "id": "056",
+        "name": "Demolition Cannon"
+      },
+      {
+        "id": "037",
+        "name": "Todlicher Abzug"
+      },
+      {
+        "id": "042",
+        "name": "Le Desastre"
+      },
+      {
+        "id": "013",
+        "name": "Daora's Delphinidae"
+      },
+      {
+        "id": "077",
+        "name": "Skeletal Cannon"
+      },
+      {
+        "id": "078",
+        "name": "Cosmic Cannon"
+      },
+      {
+        "id": "106",
+        "name": "Aquamatic \"Needler\""
+      },
+      {
+        "id": "109",
+        "name": "Yukumo Puregun"
+      },
+      {
+        "id": "129",
+        "name": "Black Cannon"
+      },
+      {
+        "id": "112",
+        "name": "Rapidcaster"
+      },
+      {
+        "id": "114",
+        "name": "Flechette Gun"
+      },
+      {
+        "id": "099",
+        "name": "Striker's Bowgun"
+      },
+      {
+        "id": "020",
+        "name": "Arzuros Gun"
+      },
+      {
+        "id": "021",
+        "name": "Straw Drumcannon"
+      },
+      {
+        "id": "096",
+        "name": "Monteverde"
+      },
+      {
+        "id": "111",
+        "name": "Carrozza Bazooka"
+      },
+      {
+        "id": "122",
+        "name": "Piercing Crab"
+      },
+      {
+        "id": "010",
+        "name": "Pressurized Plaser"
+      },
+      {
+        "id": "107",
+        "name": "Meteor Buster"
+      },
+      {
+        "id": "144",
+        "name": "Rock Eater"
+      },
+      {
+        "id": "022",
+        "name": "Ner Bustergun"
+      },
+      {
+        "id": "098",
+        "name": "Griffin's Charge"
+      },
+      {
+        "id": "008",
+        "name": "Queen's Longfire"
+      },
+      {
+        "id": "145",
+        "name": "Guerrilla Cannon"
+      },
+      {
+        "id": "004",
+        "name": "Agnaboom"
+      },
+      {
+        "id": "051",
+        "name": "Agna Magnum"
+      },
+      {
+        "id": "127",
+        "name": "Quickcaster"
+      },
+      {
+        "id": "108",
+        "name": "Shooting Star"
+      },
+      {
+        "id": "110",
+        "name": "Ladybug Cannon"
+      },
+      {
+        "id": "009",
+        "name": "Power Stinger"
+      },
+      {
+        "id": "145",
+        "name": "Guerrilla Cannon"
+      },
+      {
+        "id": "006",
+        "name": "Gravios Howl"
+      },
+      {
+        "id": "141",
+        "name": "Eldra Cannon"
+      },
+      {
+        "id": "041",
+        "name": "Seditious Cannon"
+      },
+      {
+        "id": "096",
+        "name": "Monteverde"
+      },
+      {
+        "id": "056",
+        "name": "Demolition Cannon"
+      },
+      {
+        "id": "044",
+        "name": "Lightbreak Cannon"
+      },
+      {
+        "id": "042",
+        "name": "Le Desastre"
+      },
+      {
+        "id": "097",
+        "name": "Gluttonous Cannon"
+      },
+      {
+        "id": "103",
+        "name": "Endless Famine"
+      },
+      {
+        "id": "130",
+        "name": "Hero Blaster"
+      },
+      {
+        "id": "003",
+        "name": "Dual Threat"
+      },
+      {
+        "id": "140",
+        "name": "Unsolved Cannon"
+      },
+      {
+        "id": "104",
+        "name": "Alva Red"
+      },
+      {
+        "id": "131",
+        "name": "Pirate Cannon J"
+      },
+      {
+        "id": "038",
+        "name": "Kamaeleon"
+      },
+      {
+        "id": "012",
+        "name": "Teostra's Artillery"
+      },
+      {
+        "id": "103",
+        "name": "Endless Famine"
+      },
+      {
+        "id": "017",
+        "name": "Akantor Cannon"
+      },
+      {
+        "id": "058",
+        "name": "Ukanlos Cannon"
+      },
+      {
+        "id": "128",
+        "name": "Ill Omen"
+      },
+      {
+        "id": "078",
+        "name": "Cosmic Cannon"
+      },
+      {
+        "id": "005",
+        "name": "Chaos Wing"
+      },
+      {
+        "id": "132",
+        "name": "Silverwing Cannon"
+      },
+      {
+        "id": "146",
+        "name": "Elder Cannon"
+      },
+      {
+        "id": "120",
+        "name": "Super Trench Snarfer"
+      },
+      {
+        "id": "019",
+        "name": "Despot Quarcus"
+      },
+      {
+        "id": "051",
+        "name": "Agna Magnum"
+      },
+      {
+        "id": "142",
+        "name": "Amore Anello"
+      },
+      {
+        "id": "043",
+        "name": "Verrat/Foi"
+      },
+      {
+        "id": "044",
+        "name": "Lightbreak Cannon"
+      },
+      {
+        "id": "143",
+        "name": "Lao-Shan Lung Cannon"
+      },
+      {
+        "id": "133",
+        "name": "Jewelled Cannon"
+      },
+      {
+        "id": "014",
+        "name": "Vor Cannon"
+      },
+      {
+        "id": "061",
+        "name": "Destiny's Hand"
+      },
+      {
+        "id": "050",
+        "name": "Fatalis Enslaver"
+      },
+      {
+        "id": "082",
+        "name": "Crimson Bowgun"
+      },
+      {
+        "id": "083",
+        "name": "Eeostopen Burst"
+      },
+      {
+        "id": "085",
+        "name": "Stonefist Buster"
+      },
+      {
+        "id": "086",
+        "name": "Dreadqueen Shot"
+      },
+      {
+        "id": "084",
+        "name": "Demonic Cannon"
+      },
+      {
+        "id": "089",
+        "name": "Silverwind Sniper"
+      },
+      {
+        "id": "092",
+        "name": "Grobo Shot"
+      },
+      {
+        "id": "087",
+        "name": "Cahoe Shot"
+      },
+      {
+        "id": "090",
+        "name": "Lord's Shot"
+      },
+      {
+        "id": "088",
+        "name": "Rudra's Howl"
+      },
+      {
+        "id": "091",
+        "name": "Ashen Blaster"
+      },
+      {
+        "id": "139",
+        "name": "Wolverkra"
+      },
+      {
+        "id": "138",
+        "name": "Shredclaw Shot"
+      },
+      {
+        "id": "135",
+        "name": "Akikaza Kiyoshi"
+      },
+      {
+        "id": "134",
+        "name": "Zephyr Shot"
+      },
+      {
+        "id": "136",
+        "name": "Frostpeak Cannon"
+      },
+      {
+        "id": "137",
+        "name": "Massarce Threat"
+      }
+    ]
+  },
+  {
+    "id": "w06",
+    "name": "Light Bowgun",
+    "icon": "light_bowgun",
+    "kiranico_prefix": "lbg",
+    "image_prefix": "lbg",
+    "skins": [
+      {
+        "id": "088",
+        "name": "Petrified Shooter"
+      },
+      {
+        "id": "012",
+        "name": "Kut-Ku Anger"
+      },
+      {
+        "id": "124",
+        "name": "Tail String"
+      },
+      {
+        "id": "089",
+        "name": "Obsidian Shooter"
+      },
+      {
+        "id": "123",
+        "name": "Valkyrie Fire"
+      },
+      {
+        "id": "029",
+        "name": "Dios Blaster"
+      },
+      {
+        "id": "112",
+        "name": "Hunter's Rifle"
+      },
+      {
+        "id": "090",
+        "name": "Quill Burst"
+      },
+      {
+        "id": "105",
+        "name": "Scale Tornado"
+      },
+      {
+        "id": "002",
+        "name": "Khezu Syringe"
+      },
+      {
+        "id": "018",
+        "name": "Usurper's Crime"
+      },
+      {
+        "id": "106",
+        "name": "Mandible Blaster"
+      },
+      {
+        "id": "001",
+        "name": "Cross Bowgun"
+      },
+      {
+        "id": "104",
+        "name": "Striped Shell"
+      },
+      {
+        "id": "110",
+        "name": "Yakt Shooter"
+      },
+      {
+        "id": "003",
+        "name": "Royal Launcher"
+      },
+      {
+        "id": "006",
+        "name": "Rathling Gun"
+      },
+      {
+        "id": "119",
+        "name": "Desert Storm"
+      },
+      {
+        "id": "118",
+        "name": "Shotgun (White)"
+      },
+      {
+        "id": "121",
+        "name": "Shotgun (Viper)"
+      },
+      {
+        "id": "022",
+        "name": "Shotgun (Azure)"
+      },
+      {
+        "id": "023",
+        "name": "Shotgun (Green)"
+      },
+      {
+        "id": "024",
+        "name": "Shotgun (Blood)"
+      },
+      {
+        "id": "104",
+        "name": "Striped Shell"
+      },
+      {
+        "id": "115",
+        "name": "Lobster Gun"
+      },
+      {
+        "id": "090",
+        "name": "Quill Burst"
+      },
+      {
+        "id": "118",
+        "name": "Shotgun (White)"
+      },
+      {
+        "id": "012",
+        "name": "Kut-Ku Anger"
+      },
+      {
+        "id": "014",
+        "name": "Raven Do"
+      },
+      {
+        "id": "142",
+        "name": "Azraqvya"
+      },
+      {
+        "id": "113",
+        "name": "Yukumo Light Bowgun"
+      },
+      {
+        "id": "113",
+        "name": "Yukumo Pureshot"
+      },
+      {
+        "id": "110",
+        "name": "Yakt Shooter"
+      },
+      {
+        "id": "065",
+        "name": "Tigrex Tank"
+      },
+      {
+        "id": "021",
+        "name": "Shell Shooter"
+      },
+      {
+        "id": "005",
+        "name": "Grenade Launcher"
+      },
+      {
+        "id": "007",
+        "name": "Blizzard Cannon"
+      },
+      {
+        "id": "121",
+        "name": "Shotgun (Viper)"
+      },
+      {
+        "id": "105",
+        "name": "Scale Tornado"
+      },
+      {
+        "id": "009",
+        "name": "Barro Barrel"
+      },
+      {
+        "id": "002",
+        "name": "Khezu Syringe"
+      },
+      {
+        "id": "003",
+        "name": "Royal Launcher"
+      },
+      {
+        "id": "122",
+        "name": "Hidden Eye"
+      },
+      {
+        "id": "124",
+        "name": "Tail String"
+      },
+      {
+        "id": "015",
+        "name": "Sawgun"
+      },
+      {
+        "id": "109",
+        "name": "Tail Blizzard"
+      },
+      {
+        "id": "147",
+        "name": "Assault Conga"
+      },
+      {
+        "id": "122",
+        "name": "Hidden Eye"
+      },
+      {
+        "id": "011",
+        "name": "Demon's Isle"
+      },
+      {
+        "id": "026",
+        "name": "Felyne Ragdoll"
+      },
+      {
+        "id": "116",
+        "name": "Melynx Ragdoll"
+      },
+      {
+        "id": "084",
+        "name": "Kettleblower"
+      },
+      {
+        "id": "115",
+        "name": "Lobster Gun"
+      },
+      {
+        "id": "070",
+        "name": "Maelstrom"
+      },
+      {
+        "id": "117",
+        "name": "Black Belt Bowgun"
+      },
+      {
+        "id": "111",
+        "name": "Fiossidare"
+      },
+      {
+        "id": "132",
+        "name": "Beast Sniper"
+      },
+      {
+        "id": "133",
+        "name": "Springnight Shot"
+      },
+      {
+        "id": "131",
+        "name": "Airship Gun"
+      },
+      {
+        "id": "107",
+        "name": "Veiled Bell"
+      },
+      {
+        "id": "108",
+        "name": "Eldra Musket"
+      },
+      {
+        "id": "089",
+        "name": "Obsidian Shooter"
+      },
+      {
+        "id": "125",
+        "name": "Mythical Three-Horn"
+      },
+      {
+        "id": "014",
+        "name": "Raven Do"
+      },
+      {
+        "id": "049",
+        "name": "Vile Do"
+      },
+      {
+        "id": "123",
+        "name": "Valkyrie Fire"
+      },
+      {
+        "id": "016",
+        "name": "Blossomayhem"
+      },
+      {
+        "id": "006",
+        "name": "Rathling Gun"
+      },
+      {
+        "id": "019",
+        "name": "Thundacrus"
+      },
+      {
+        "id": "018",
+        "name": "Usurper's Crime"
+      },
+      {
+        "id": "046",
+        "name": "Rasasa Bowgun"
+      },
+      {
+        "id": "085",
+        "name": "Despot Thunder"
+      },
+      {
+        "id": "096",
+        "name": "Desolate Mist"
+      },
+      {
+        "id": "094",
+        "name": "Astalos Gun"
+      },
+      {
+        "id": "095",
+        "name": "Giant's Blaster"
+      },
+      {
+        "id": "091",
+        "name": "Burning Answer"
+      },
+      {
+        "id": "020",
+        "name": "Faulnisschleuder"
+      },
+      {
+        "id": "032",
+        "name": "La Lumiere"
+      },
+      {
+        "id": "046",
+        "name": "Rasasa Bowgun"
+      },
+      {
+        "id": "048",
+        "name": "Seditious Shot"
+      },
+      {
+        "id": "065",
+        "name": "Tigrex Tank"
+      },
+      {
+        "id": "125",
+        "name": "Mythical Three-Horn"
+      },
+      {
+        "id": "017",
+        "name": "Blitz Bowgun"
+      },
+      {
+        "id": "029",
+        "name": "Dios Blaster"
+      },
+      {
+        "id": "033",
+        "name": "Demolition Gun"
+      },
+      {
+        "id": "068",
+        "name": "Blessed Lamp"
+      },
+      {
+        "id": "092",
+        "name": "Skeletal Bowgun"
+      },
+      {
+        "id": "093",
+        "name": "Polarstar Shooter"
+      },
+      {
+        "id": "025",
+        "name": "Black Parasol"
+      },
+      {
+        "id": "120",
+        "name": "Angel Parasol"
+      },
+      {
+        "id": "022",
+        "name": "Shotgun (Azure)"
+      },
+      {
+        "id": "023",
+        "name": "Shotgun (Green)"
+      },
+      {
+        "id": "024",
+        "name": "Shotgun (Blood)"
+      },
+      {
+        "id": "021",
+        "name": "Shell Shooter"
+      },
+      {
+        "id": "050",
+        "name": "Machine Strafer"
+      },
+      {
+        "id": "119",
+        "name": "Desert Storm"
+      },
+      {
+        "id": "126",
+        "name": "Lava Storm"
+      },
+      {
+        "id": "015",
+        "name": "Sawgun"
+      },
+      {
+        "id": "106",
+        "name": "Mandible Blaster"
+      },
+      {
+        "id": "127",
+        "name": "Durambarrel"
+      },
+      {
+        "id": "109",
+        "name": "Tail Blizzard"
+      },
+      {
+        "id": "113",
+        "name": "Yukumo Pureshot"
+      },
+      {
+        "id": "009",
+        "name": "Barro Barrel"
+      },
+      {
+        "id": "005",
+        "name": "Grenade Launcher"
+      },
+      {
+        "id": "146",
+        "name": "Titan Launcher"
+      },
+      {
+        "id": "142",
+        "name": "Azraqvya"
+      },
+      {
+        "id": "126",
+        "name": "Lava Storm"
+      },
+      {
+        "id": "049",
+        "name": "Vile Do"
+      },
+      {
+        "id": "019",
+        "name": "Thundacrus"
+      },
+      {
+        "id": "017",
+        "name": "Blitz Bowgun"
+      },
+      {
+        "id": "011",
+        "name": "God's Isle"
+      },
+      {
+        "id": "120",
+        "name": "Angel Parasol"
+      },
+      {
+        "id": "147",
+        "name": "Assault Conga"
+      },
+      {
+        "id": "007",
+        "name": "Blizzard Cannon"
+      },
+      {
+        "id": "146",
+        "name": "Titan Launcher"
+      },
+      {
+        "id": "070",
+        "name": "Maelstrom"
+      },
+      {
+        "id": "050",
+        "name": "Machine Strafer"
+      },
+      {
+        "id": "048",
+        "name": "Seditious Shot"
+      },
+      {
+        "id": "127",
+        "name": "Durambarrel"
+      },
+      {
+        "id": "033",
+        "name": "Demolition Gun"
+      },
+      {
+        "id": "052",
+        "name": "Lightbreak Gun"
+      },
+      {
+        "id": "032",
+        "name": "La Lumiere"
+      },
+      {
+        "id": "008",
+        "name": "Rajang Barrage"
+      },
+      {
+        "id": "053",
+        "name": "Demonlord Blaster"
+      },
+      {
+        "id": "010",
+        "name": "Devil's Grin"
+      },
+      {
+        "id": "028",
+        "name": "Diregun \"Dementia\""
+      },
+      {
+        "id": "114",
+        "name": "Gourd Shot"
+      },
+      {
+        "id": "143",
+        "name": "Unsolved Gun"
+      },
+      {
+        "id": "086",
+        "name": "Arm Cannon"
+      },
+      {
+        "id": "044",
+        "name": "Icesteel Wasp"
+      },
+      {
+        "id": "128",
+        "name": "Silver Spartacus"
+      },
+      {
+        "id": "129",
+        "name": "Gold Valkyrie"
+      },
+      {
+        "id": "016",
+        "name": "Blossomayhem"
+      },
+      {
+        "id": "053",
+        "name": "Demonlord Blaster"
+      },
+      {
+        "id": "028",
+        "name": "Diregun \"Dementia\""
+      },
+      {
+        "id": "067",
+        "name": "Ukanlos Frost Bow"
+      },
+      {
+        "id": "130",
+        "name": "Wicked Needle"
+      },
+      {
+        "id": "093",
+        "name": "Polarstar Shooter"
+      },
+      {
+        "id": "134",
+        "name": "Silverwing Crossbow"
+      },
+      {
+        "id": "149",
+        "name": "Elder Beretta"
+      },
+      {
+        "id": "145",
+        "name": "Barbus Commemorative"
+      },
+      {
+        "id": "085",
+        "name": "Despot Thunder"
+      },
+      {
+        "id": "144",
+        "name": "Well"
+      },
+      {
+        "id": "150",
+        "name": "Fox Baretta"
+      },
+      {
+        "id": "051",
+        "name": "Incanto/Orakel"
+      },
+      {
+        "id": "052",
+        "name": "Lightbreak Gun"
+      },
+      {
+        "id": "135",
+        "name": "Jewelled Bowgun"
+      },
+      {
+        "id": "141",
+        "name": "Black Wing"
+      },
+      {
+        "id": "148",
+        "name": "Fatalis Blaster"
+      },
+      {
+        "id": "069",
+        "name": "Absolute Shot"
+      },
+      {
+        "id": "097",
+        "name": "Rathian Fire"
+      },
+      {
+        "id": "101",
+        "name": "Squall's Gaze"
+      },
+      {
+        "id": "098",
+        "name": "Wicked Do"
+      },
+      {
+        "id": "099",
+        "name": "Dreadking Blaster"
+      },
+      {
+        "id": "102",
+        "name": "Thunder Lycan"
+      },
+      {
+        "id": "100",
+        "name": "Rudra Shot"
+      },
+      {
+        "id": "103",
+        "name": "Infernal Solution"
+      },
+      {
+        "id": "140",
+        "name": "Wolvervuaya"
+      },
+      {
+        "id": "137",
+        "name": "Ukigumo Asatsuyu"
+      },
+      {
+        "id": "136",
+        "name": "Zephyr Howl"
+      },
+      {
+        "id": "138",
+        "name": "Frostpeak Blaster"
+      },
+      {
+        "id": "139",
+        "name": "Massacre Beretta"
+      }
+    ]
+  },
+  {
+    "id": "w07",
+    "name": "Long Sword",
+    "icon": "long_sword",
+    "kiranico_prefix": "tachi",
+    "image_prefix": "swo",
+    "skins": [
+      {
+        "id": "120",
+        "name": "Petrified Saber"
+      },
+      {
+        "id": "141",
+        "name": "Ivory Rabbit"
+      },
+      {
+        "id": "121",
+        "name": "Obsidian Saber"
+      },
+      {
+        "id": "002",
+        "name": "Guardian Sword"
+      },
+      {
+        "id": "159",
+        "name": "Diapason"
+      },
+      {
+        "id": "026",
+        "name": "Iron Katana"
+      },
+      {
+        "id": "122",
+        "name": "Plume Sword"
+      },
+      {
+        "id": "003",
+        "name": "Eager Cleaver"
+      },
+      {
+        "id": "025",
+        "name": "Rimeblossom"
+      },
+      {
+        "id": "015",
+        "name": "Aikuchi"
+      },
+      {
+        "id": "101",
+        "name": "Hidden Saber"
+      },
+      {
+        "id": "142",
+        "name": "Serrated Jaw"
+      },
+      {
+        "id": "151",
+        "name": "Bone Katana \"Wolf\""
+      },
+      {
+        "id": "153",
+        "name": "Black Katana Mk.I"
+      },
+      {
+        "id": "016",
+        "name": "Rusty Claymore"
+      },
+      {
+        "id": "024",
+        "name": "Canine Katana"
+      },
+      {
+        "id": "164",
+        "name": "Dancing Flames"
+      },
+      {
+        "id": "004",
+        "name": "Bone"
+      },
+      {
+        "id": "140",
+        "name": "Anteka Blade"
+      },
+      {
+        "id": "152",
+        "name": "Blango Destroyer"
+      },
+      {
+        "id": "154",
+        "name": "Arzuros Naginata"
+      },
+      {
+        "id": "013",
+        "name": "Curviscera"
+      },
+      {
+        "id": "147",
+        "name": "Dark Scythe"
+      },
+      {
+        "id": "148",
+        "name": "Scythe of Menace"
+      },
+      {
+        "id": "095",
+        "name": "Crab Cutter"
+      },
+      {
+        "id": "163",
+        "name": "Mountain Reaper"
+      },
+      {
+        "id": "140",
+        "name": "Anteka Blade"
+      },
+      {
+        "id": "122",
+        "name": "Plume Sword"
+      },
+      {
+        "id": "078",
+        "name": "Khanga Edge"
+      },
+      {
+        "id": "161",
+        "name": "Liquid Fire Blade"
+      },
+      {
+        "id": "180",
+        "name": "Rogue Boss"
+      },
+      {
+        "id": "152",
+        "name": "Blango Destroyer"
+      },
+      {
+        "id": "158",
+        "name": "Blango Decimator"
+      },
+      {
+        "id": "154",
+        "name": "Arzuros Naginata"
+      },
+      {
+        "id": "155",
+        "name": "Drowning Shaft"
+      },
+      {
+        "id": "008",
+        "name": "Daito Crow"
+      },
+      {
+        "id": "007",
+        "name": "Demon Halberd"
+      },
+      {
+        "id": "149",
+        "name": "Yukumo Long Sword"
+      },
+      {
+        "id": "149",
+        "name": "Yukumo Puresword"
+      },
+      {
+        "id": "151",
+        "name": "Bone Katana \"Wolf\""
+      },
+      {
+        "id": "018",
+        "name": "Coiled Nail"
+      },
+      {
+        "id": "156",
+        "name": "Wyvern Blade \"Verde\""
+      },
+      {
+        "id": "012",
+        "name": "Usurper's Boltslicer"
+      },
+      {
+        "id": "011",
+        "name": "Tigrine Edge"
+      },
+      {
+        "id": "003",
+        "name": "Eager Cleaver"
+      },
+      {
+        "id": "116",
+        "name": "Thunderclap"
+      },
+      {
+        "id": "088",
+        "name": "Imperial Saber"
+      },
+      {
+        "id": "019",
+        "name": "Wailing Ghost"
+      },
+      {
+        "id": "025",
+        "name": "Rimeblossom"
+      },
+      {
+        "id": "105",
+        "name": "Yuki Ichimonji"
+      },
+      {
+        "id": "148",
+        "name": "Scythe of Menace"
+      },
+      {
+        "id": "153",
+        "name": "Black Katana Mk.I"
+      },
+      {
+        "id": "017",
+        "name": "Blood Cry"
+      },
+      {
+        "id": "141",
+        "name": "Ivory Rabbit"
+      },
+      {
+        "id": "094",
+        "name": "Mirage Finsword"
+      },
+      {
+        "id": "015",
+        "name": "Aikuchi"
+      },
+      {
+        "id": "034",
+        "name": "Toad Abetter"
+      },
+      {
+        "id": "095",
+        "name": "Crab Cutter"
+      },
+      {
+        "id": "157",
+        "name": "Shogun Cutter"
+      },
+      {
+        "id": "162",
+        "name": "Plesioth Splasher"
+      },
+      {
+        "id": "155",
+        "name": "Drowning Shaft"
+      },
+      {
+        "id": "158",
+        "name": "Blango Decimator"
+      },
+      {
+        "id": "157",
+        "name": "Shogun Cutter"
+      },
+      {
+        "id": "146",
+        "name": "Shogun Splitter"
+      },
+      {
+        "id": "018",
+        "name": "Coiled Nail"
+      },
+      {
+        "id": "044",
+        "name": "Coiled Saber"
+      },
+      {
+        "id": "101",
+        "name": "Hidden Saber"
+      },
+      {
+        "id": "023",
+        "name": "Windeater"
+      },
+      {
+        "id": "039",
+        "name": "Notos"
+      },
+      {
+        "id": "150",
+        "name": "Great Hornfly Saber"
+      },
+      {
+        "id": "144",
+        "name": "Cheese Knife"
+      },
+      {
+        "id": "143",
+        "name": "Moofah Staff"
+      },
+      {
+        "id": "121",
+        "name": "Obsidian Saber"
+      },
+      {
+        "id": "002",
+        "name": "Guardian Sword"
+      },
+      {
+        "id": "117",
+        "name": "Chainslaughter"
+      },
+      {
+        "id": "178",
+        "name": "Giant Makaera"
+      },
+      {
+        "id": "099",
+        "name": "Aqua Guardian"
+      },
+      {
+        "id": "008",
+        "name": "Daito Crow"
+      },
+      {
+        "id": "035",
+        "name": "Daito Bane"
+      },
+      {
+        "id": "159",
+        "name": "Diapason"
+      },
+      {
+        "id": "156",
+        "name": "Wyvern Blade \"Verde\""
+      },
+      {
+        "id": "029",
+        "name": "Wyvern Blade \"Blood\""
+      },
+      {
+        "id": "160",
+        "name": "Wyvern Blade \"Flame\""
+      },
+      {
+        "id": "029",
+        "name": "Wyvern Blade \"Blood\""
+      },
+      {
+        "id": "045",
+        "name": "Wyvern Blade \"Pale\""
+      },
+      {
+        "id": "016",
+        "name": "Rusty Claymore"
+      },
+      {
+        "id": "116",
+        "name": "Thunderclap"
+      },
+      {
+        "id": "012",
+        "name": "Usurper's Boltslicer"
+      },
+      {
+        "id": "118",
+        "name": "Despot Nitorus"
+      },
+      {
+        "id": "128",
+        "name": "Kakaru Kumo Naki"
+      },
+      {
+        "id": "126",
+        "name": "Wyvern Blade \"Beryl\""
+      },
+      {
+        "id": "127",
+        "name": "Giant's Tower"
+      },
+      {
+        "id": "123",
+        "name": "Billowing Luger"
+      },
+      {
+        "id": "020",
+        "name": "Stahlfakt"
+      },
+      {
+        "id": "033",
+        "name": "La Justiciere"
+      },
+      {
+        "id": "078",
+        "name": "Khanga Edge"
+      },
+      {
+        "id": "080",
+        "name": "Seditious Edge"
+      },
+      {
+        "id": "011",
+        "name": "Tigrine Edge"
+      },
+      {
+        "id": "028",
+        "name": "Dios Katana"
+      },
+      {
+        "id": "028",
+        "name": "Dios Katana"
+      },
+      {
+        "id": "037",
+        "name": "Demolition Katana"
+      },
+      {
+        "id": "033",
+        "name": "La Justiciere"
+      },
+      {
+        "id": "094",
+        "name": "Mirage Finsword"
+      },
+      {
+        "id": "088",
+        "name": "Imperial Saber"
+      },
+      {
+        "id": "124",
+        "name": "Skeletal Sword"
+      },
+      {
+        "id": "125",
+        "name": "Astral Pisces"
+      },
+      {
+        "id": "027",
+        "name": "Hairtail's Hairblade"
+      },
+      {
+        "id": "145",
+        "name": "Cawscythe"
+      },
+      {
+        "id": "149",
+        "name": "Yukumo Puresword"
+      },
+      {
+        "id": "010",
+        "name": "Black Scythe"
+      },
+      {
+        "id": "186",
+        "name": "Flame Katana"
+      },
+      {
+        "id": "117",
+        "name": "Chainslaughter"
+      },
+      {
+        "id": "024",
+        "name": "Canine Katana"
+      },
+      {
+        "id": "179",
+        "name": "Busting Edge"
+      },
+      {
+        "id": "013",
+        "name": "Curviscera"
+      },
+      {
+        "id": "022",
+        "name": "Bicurviscera"
+      },
+      {
+        "id": "162",
+        "name": "Plesioth Splasher"
+      },
+      {
+        "id": "161",
+        "name": "Liquid Fire Blade"
+      },
+      {
+        "id": "030",
+        "name": "Worn Long Sword"
+      },
+      {
+        "id": "046",
+        "name": "Oblivion"
+      },
+      {
+        "id": "009",
+        "name": "Icesteel Blade"
+      },
+      {
+        "id": "178",
+        "name": "Giant Makaera"
+      },
+      {
+        "id": "017",
+        "name": "Blood Cry"
+      },
+      {
+        "id": "031",
+        "name": "Noble Blood Cry"
+      },
+      {
+        "id": "019",
+        "name": "Wailing Ghost"
+      },
+      {
+        "id": "105",
+        "name": "Yuki Ichimonji"
+      },
+      {
+        "id": "099",
+        "name": "Aqua Guardian"
+      },
+      {
+        "id": "022",
+        "name": "Bicurviscera"
+      },
+      {
+        "id": "034",
+        "name": "Toad Abetter"
+      },
+      {
+        "id": "146",
+        "name": "Shogun Splitter"
+      },
+      {
+        "id": "044",
+        "name": "Coiled Saber"
+      },
+      {
+        "id": "160",
+        "name": "Wyvern Blade \"Flame\""
+      },
+      {
+        "id": "179",
+        "name": "Busting Edge"
+      },
+      {
+        "id": "035",
+        "name": "Daito Bane"
+      },
+      {
+        "id": "164",
+        "name": "Dancing Flames"
+      },
+      {
+        "id": "080",
+        "name": "Seditious Edge"
+      },
+      {
+        "id": "163",
+        "name": "Mountain Reaper"
+      },
+      {
+        "id": "037",
+        "name": "Demolition Katana"
+      },
+      {
+        "id": "083",
+        "name": "Lightbreak Edge"
+      },
+      {
+        "id": "007",
+        "name": "Demon Halberd"
+      },
+      {
+        "id": "084",
+        "name": "Demonlord Katana"
+      },
+      {
+        "id": "001",
+        "name": "Reaver \"Cruelty\""
+      },
+      {
+        "id": "041",
+        "name": "Consummate Katana"
+      },
+      {
+        "id": "005",
+        "name": "Barbarian Blade"
+      },
+      {
+        "id": "100",
+        "name": "Centenarian Dagger"
+      },
+      {
+        "id": "046",
+        "name": "Oblivion"
+      },
+      {
+        "id": "181",
+        "name": "Unsolved Katana"
+      },
+      {
+        "id": "073",
+        "name": "Fox Select"
+      },
+      {
+        "id": "167",
+        "name": "Light Works"
+      },
+      {
+        "id": "168",
+        "name": "Pirate Sword J"
+      },
+      {
+        "id": "075",
+        "name": "Starlight Gate"
+      },
+      {
+        "id": "169",
+        "name": "Wing of Judgment"
+      },
+      {
+        "id": "119",
+        "name": "Fan Club Bamboo Rod"
+      },
+      {
+        "id": "009",
+        "name": "Icesteel Blade"
+      },
+      {
+        "id": "045",
+        "name": "Wyvern Blade \"Pale\""
+      },
+      {
+        "id": "084",
+        "name": "Demonlord Katana"
+      },
+      {
+        "id": "041",
+        "name": "Consummate Katana"
+      },
+      {
+        "id": "032",
+        "name": "Akantor Katana"
+      },
+      {
+        "id": "093",
+        "name": "Ukanlos Slicer"
+      },
+      {
+        "id": "166",
+        "name": "Ominous Spring"
+      },
+      {
+        "id": "125",
+        "name": "Astral Pisces"
+      },
+      {
+        "id": "165",
+        "name": "Dark Claw"
+      },
+      {
+        "id": "170",
+        "name": "Silverwing Katana"
+      },
+      {
+        "id": "184",
+        "name": "Elder Saber"
+      },
+      {
+        "id": "039",
+        "name": "Notos"
+      },
+      {
+        "id": "180",
+        "name": "Rogue Boss"
+      },
+      {
+        "id": "031",
+        "name": "Noble Blood Cry"
+      },
+      {
+        "id": "182",
+        "name": "Brunyaf"
+      },
+      {
+        "id": "118",
+        "name": "Despot Nitorus"
+      },
+      {
+        "id": "185",
+        "name": "Urano Meteoria"
+      },
+      {
+        "id": "081",
+        "name": "Mal/Justice"
+      },
+      {
+        "id": "083",
+        "name": "Lightbreak Edge"
+      },
+      {
+        "id": "183",
+        "name": "Fire Dragonsword"
+      },
+      {
+        "id": "171",
+        "name": "Jewelled Sickle"
+      },
+      {
+        "id": "177",
+        "name": "Fatalis Scythe"
+      },
+      {
+        "id": "092",
+        "name": "Fatalis Ascencia"
+      },
+      {
+        "id": "129",
+        "name": "Crimson Maw"
+      },
+      {
+        "id": "130",
+        "name": "Ebon Rabbit"
+      },
+      {
+        "id": "132",
+        "name": "Stonefist Cutter"
+      },
+      {
+        "id": "131",
+        "name": "Demon Swirl"
+      },
+      {
+        "id": "136",
+        "name": "Nightfall Saber"
+      },
+      {
+        "id": "139",
+        "name": "Geode Saber"
+      },
+      {
+        "id": "133",
+        "name": "Daito Calamity"
+      },
+      {
+        "id": "134",
+        "name": "Tomb Saber"
+      },
+      {
+        "id": "137",
+        "name": "Thunderlord Raikiri"
+      },
+      {
+        "id": "135",
+        "name": "Seize Cutter"
+      },
+      {
+        "id": "138",
+        "name": "Blazing Ognar"
+      },
+      {
+        "id": "176",
+        "name": "Wolvermaran"
+      },
+      {
+        "id": "175",
+        "name": "Shredclaw Cutter"
+      },
+      {
+        "id": "173",
+        "name": "Unsanmusho"
+      },
+      {
+        "id": "174",
+        "name": "Frostpeak Katana"
+      }
+    ]
+  },
+  {
+    "id": "w08",
+    "name": "Switch Axe",
+    "icon": "switch_axe",
+    "kiranico_prefix": "saxe",
+    "image_prefix": "axe",
+    "skins": [
+      {
+        "id": "104",
+        "name": "Petrified Axe"
+      },
+      {
+        "id": "137",
+        "name": "Arzuros Axe"
+      },
+      {
+        "id": "131",
+        "name": "Reckless Hatchet"
+      },
+      {
+        "id": "105",
+        "name": "Obsidian Axe"
+      },
+      {
+        "id": "139",
+        "name": "Bolt Axe"
+      },
+      {
+        "id": "142",
+        "name": "Heavy Divider"
+      },
+      {
+        "id": "134",
+        "name": "Iron Axe"
+      },
+      {
+        "id": "132",
+        "name": "Exoskeleton Axe"
+      },
+      {
+        "id": "127",
+        "name": "The Shredder"
+      },
+      {
+        "id": "124",
+        "name": "Scissor Axe"
+      },
+      {
+        "id": "106",
+        "name": "Dream Captor"
+      },
+      {
+        "id": "014",
+        "name": "Elite Switch Axe"
+      },
+      {
+        "id": "001",
+        "name": "Bone Axe"
+      },
+      {
+        "id": "086",
+        "name": "Bruiser Axe"
+      },
+      {
+        "id": "138",
+        "name": "Ludroth Axe"
+      },
+      {
+        "id": "016",
+        "name": "Hidden Axe"
+      },
+      {
+        "id": "015",
+        "name": "Power Gasher"
+      },
+      {
+        "id": "013",
+        "name": "Usurper's Downpour"
+      },
+      {
+        "id": "132",
+        "name": "Exoskeleton Axe"
+      },
+      {
+        "id": "020",
+        "name": "Wild Axe"
+      },
+      {
+        "id": "012",
+        "name": "Binding Roller"
+      },
+      {
+        "id": "029",
+        "name": "Flickaxe"
+      },
+      {
+        "id": "024",
+        "name": "Rex Slasher"
+      },
+      {
+        "id": "090",
+        "name": "Axe Semper Tyrannis"
+      },
+      {
+        "id": "137",
+        "name": "Arzuros Axe"
+      },
+      {
+        "id": "140",
+        "name": "Motor Burst"
+      },
+      {
+        "id": "025",
+        "name": "Dios Axe"
+      },
+      {
+        "id": "136",
+        "name": "Yukumo Switch Axe"
+      },
+      {
+        "id": "136",
+        "name": "Yukumo Pure Axe"
+      },
+      {
+        "id": "127",
+        "name": "The Shredder"
+      },
+      {
+        "id": "086",
+        "name": "Bruiser Axe"
+      },
+      {
+        "id": "131",
+        "name": "Reckless Hatchet"
+      },
+      {
+        "id": "124",
+        "name": "Scissor Axe"
+      },
+      {
+        "id": "012",
+        "name": "Binding Roller"
+      },
+      {
+        "id": "138",
+        "name": "Ludroth Axe"
+      },
+      {
+        "id": "141",
+        "name": "Finslash"
+      },
+      {
+        "id": "106",
+        "name": "Dream Captor"
+      },
+      {
+        "id": "029",
+        "name": "Flickaxe"
+      },
+      {
+        "id": "040",
+        "name": "Flicker Axe"
+      },
+      {
+        "id": "016",
+        "name": "Hidden Axe"
+      },
+      {
+        "id": "008",
+        "name": "Amber Slash"
+      },
+      {
+        "id": "007",
+        "name": "Grim Cat"
+      },
+      {
+        "id": "005",
+        "name": "Rough Edge"
+      },
+      {
+        "id": "146",
+        "name": "Arctic Ledge"
+      },
+      {
+        "id": "128",
+        "name": "Gouda Axe"
+      },
+      {
+        "id": "105",
+        "name": "Obsidian Axe"
+      },
+      {
+        "id": "014",
+        "name": "Elite Switch Axe"
+      },
+      {
+        "id": "017",
+        "name": "Dragonmaiden Axe"
+      },
+      {
+        "id": "076",
+        "name": "Aksa Switch"
+      },
+      {
+        "id": "088",
+        "name": "General's Strongaxe"
+      },
+      {
+        "id": "030",
+        "name": "Notched Doom"
+      },
+      {
+        "id": "015",
+        "name": "Power Gasher"
+      },
+      {
+        "id": "006",
+        "name": "Rath Flame Splitter"
+      },
+      {
+        "id": "026",
+        "name": "Vavoom Axe"
+      },
+      {
+        "id": "002",
+        "name": "Assault Axe"
+      },
+      {
+        "id": "156",
+        "name": "Golba Bandar"
+      },
+      {
+        "id": "140",
+        "name": "Motor Burst"
+      },
+      {
+        "id": "017",
+        "name": "Dragonmaiden Axe"
+      },
+      {
+        "id": "133",
+        "name": "Golden Crescent"
+      },
+      {
+        "id": "006",
+        "name": "Rath Flame Splitter"
+      },
+      {
+        "id": "022",
+        "name": "Rathsplicer"
+      },
+      {
+        "id": "139",
+        "name": "Bolt Axe"
+      },
+      {
+        "id": "028",
+        "name": "Volt Axe"
+      },
+      {
+        "id": "013",
+        "name": "Usurper's Downpour"
+      },
+      {
+        "id": "112",
+        "name": "Fond Farewell"
+      },
+      {
+        "id": "110",
+        "name": "Voltaic Axe"
+      },
+      {
+        "id": "111",
+        "name": "Giant's Axe"
+      },
+      {
+        "id": "107",
+        "name": "Scorching Drafa"
+      },
+      {
+        "id": "031",
+        "name": "Eisenleib"
+      },
+      {
+        "id": "034",
+        "name": "La Guillotine"
+      },
+      {
+        "id": "076",
+        "name": "Aksa Switch"
+      },
+      {
+        "id": "078",
+        "name": "Seditious Axe"
+      },
+      {
+        "id": "024",
+        "name": "Rex Slasher"
+      },
+      {
+        "id": "089",
+        "name": "Fire Tempest"
+      },
+      {
+        "id": "023",
+        "name": "Peal"
+      },
+      {
+        "id": "025",
+        "name": "Dios Axe"
+      },
+      {
+        "id": "036",
+        "name": "Demolition Axe"
+      },
+      {
+        "id": "034",
+        "name": "La Guillotine"
+      },
+      {
+        "id": "073",
+        "name": "Daora's Farasa"
+      },
+      {
+        "id": "074",
+        "name": "Waxglare Wand"
+      },
+      {
+        "id": "108",
+        "name": "Skeletal Axe"
+      },
+      {
+        "id": "109",
+        "name": "Polaris Skalvia"
+      },
+      {
+        "id": "129",
+        "name": "Wycademy Axe"
+      },
+      {
+        "id": "130",
+        "name": "Infernal Axe"
+      },
+      {
+        "id": "145",
+        "name": "Black Belt Axe"
+      },
+      {
+        "id": "136",
+        "name": "Yukumo Pure Axe"
+      },
+      {
+        "id": "044",
+        "name": "Black Axe"
+      },
+      {
+        "id": "088",
+        "name": "General's Strongaxe"
+      },
+      {
+        "id": "157",
+        "name": "Beak Axe"
+      },
+      {
+        "id": "026",
+        "name": "Vavoom Axe"
+      },
+      {
+        "id": "041",
+        "name": "Vavoom Vengeance"
+      },
+      {
+        "id": "030",
+        "name": "Notched Doom"
+      },
+      {
+        "id": "035",
+        "name": "Notched Tyrant"
+      },
+      {
+        "id": "042",
+        "name": "Worn Switch Axe"
+      },
+      {
+        "id": "010",
+        "name": "Mundus Altus"
+      },
+      {
+        "id": "075",
+        "name": "Teostra's Arx"
+      },
+      {
+        "id": "157",
+        "name": "Beak Axe"
+      },
+      {
+        "id": "002",
+        "name": "Assault Axe"
+      },
+      {
+        "id": "041",
+        "name": "Vavoom Vengeance"
+      },
+      {
+        "id": "035",
+        "name": "Notched Tyrant"
+      },
+      {
+        "id": "141",
+        "name": "Finslash"
+      },
+      {
+        "id": "040",
+        "name": "Flicker Axe"
+      },
+      {
+        "id": "156",
+        "name": "Golba Bandar"
+      },
+      {
+        "id": "008",
+        "name": "Amber Slash"
+      },
+      {
+        "id": "037",
+        "name": "Galefrost"
+      },
+      {
+        "id": "028",
+        "name": "Volt Axe"
+      },
+      {
+        "id": "089",
+        "name": "Fire Tempest"
+      },
+      {
+        "id": "078",
+        "name": "Seditious Axe"
+      },
+      {
+        "id": "142",
+        "name": "Heavy Divider"
+      },
+      {
+        "id": "036",
+        "name": "Demolition Axe"
+      },
+      {
+        "id": "080",
+        "name": "Lightbreak Axe"
+      },
+      {
+        "id": "125",
+        "name": "Undying Axe"
+      },
+      {
+        "id": "126",
+        "name": "Demonlord Axe"
+      },
+      {
+        "id": "027",
+        "name": "Tyrannos"
+      },
+      {
+        "id": "032",
+        "name": "Saligia Vileaxe"
+      },
+      {
+        "id": "010",
+        "name": "Mundus Altus"
+      },
+      {
+        "id": "090",
+        "name": "Axe Semper Tyrannis"
+      },
+      {
+        "id": "158",
+        "name": "Unsolved Axe"
+      },
+      {
+        "id": "072",
+        "name": "Switch Fox"
+      },
+      {
+        "id": "147",
+        "name": "Raikou Works"
+      },
+      {
+        "id": "071",
+        "name": "Pirate Axe J"
+      },
+      {
+        "id": "161",
+        "name": "Red Tomahawk"
+      },
+      {
+        "id": "075",
+        "name": "Teostra's Arx"
+      },
+      {
+        "id": "022",
+        "name": "Rathsplicer"
+      },
+      {
+        "id": "133",
+        "name": "Golden Crescent"
+      },
+      {
+        "id": "126",
+        "name": "Demonlord Axe"
+      },
+      {
+        "id": "032",
+        "name": "Saligia Vileaxe"
+      },
+      {
+        "id": "019",
+        "name": "Akantor Switch Axe"
+      },
+      {
+        "id": "135",
+        "name": "Murkham Axe"
+      },
+      {
+        "id": "144",
+        "name": "Cloudburst Axe"
+      },
+      {
+        "id": "109",
+        "name": "Polaris Skalvia"
+      },
+      {
+        "id": "143",
+        "name": "Dark Switch Axe"
+      },
+      {
+        "id": "148",
+        "name": "Silverwing Axe"
+      },
+      {
+        "id": "160",
+        "name": "Elder Axe"
+      },
+      {
+        "id": "159",
+        "name": "Zola Axe"
+      },
+      {
+        "id": "037",
+        "name": "Galefrost"
+      },
+      {
+        "id": "009",
+        "name": "Naval Task"
+      },
+      {
+        "id": "079",
+        "name": "Corps/Esprit"
+      },
+      {
+        "id": "080",
+        "name": "Lightbreak Axe"
+      },
+      {
+        "id": "155",
+        "name": "Dragon Ripper"
+      },
+      {
+        "id": "149",
+        "name": "Jewelled Axe"
+      },
+      {
+        "id": "045",
+        "name": "Ruiner's Bane"
+      },
+      {
+        "id": "087",
+        "name": "Fatalis Force"
+      },
+      {
+        "id": "113",
+        "name": "Crimson Axe"
+      },
+      {
+        "id": "114",
+        "name": "Blackhare Axe"
+      },
+      {
+        "id": "115",
+        "name": "Pincher Axe"
+      },
+      {
+        "id": "117",
+        "name": "Royal Axe"
+      },
+      {
+        "id": "116",
+        "name": "Pierce Axe"
+      },
+      {
+        "id": "120",
+        "name": "Nightfall Axe"
+      },
+      {
+        "id": "123",
+        "name": "Geode Axe"
+      },
+      {
+        "id": "118",
+        "name": "Tomb Axe"
+      },
+      {
+        "id": "121",
+        "name": "Raiden Axe"
+      },
+      {
+        "id": "119",
+        "name": "Seize Axe"
+      },
+      {
+        "id": "122",
+        "name": "Magma Axe"
+      },
+      {
+        "id": "154",
+        "name": "Wolverakaleid"
+      },
+      {
+        "id": "151",
+        "name": "Aibetsuriku"
+      },
+      {
+        "id": "150",
+        "name": "Zephyr Glaive"
+      },
+      {
+        "id": "152",
+        "name": "Frostpeak Axe"
+      },
+      {
+        "id": "153",
+        "name": "Massacre Axe"
+      }
+    ]
+  },
+  {
+    "id": "w09",
+    "name": "Gunlance",
+    "icon": "gunlance",
+    "kiranico_prefix": "gun",
+    "image_prefix": "gun",
+    "skins": [
+      {
+        "id": "115",
+        "name": "Petrified Gunlance"
+      },
+      {
+        "id": "010",
+        "name": "Lagomberator"
+      },
+      {
+        "id": "015",
+        "name": "Hard Hitter"
+      },
+      {
+        "id": "025",
+        "name": "Red Devil Gunlance"
+      },
+      {
+        "id": "116",
+        "name": "Obsidian Gunlance"
+      },
+      {
+        "id": "008",
+        "name": "White Gunlance"
+      },
+      {
+        "id": "006",
+        "name": "Iron Gunlance"
+      },
+      {
+        "id": "117",
+        "name": "Rogue Gunlance"
+      },
+      {
+        "id": "033",
+        "name": "Striker's Gunlance"
+      },
+      {
+        "id": "146",
+        "name": "Type 62 Stormlance"
+      },
+      {
+        "id": "081",
+        "name": "Jaya Gunlance"
+      },
+      {
+        "id": "028",
+        "name": "Seadiver"
+      },
+      {
+        "id": "038",
+        "name": "Bone Gunlance"
+      },
+      {
+        "id": "139",
+        "name": "Golem Gunlance"
+      },
+      {
+        "id": "099",
+        "name": "Scissor Gunlance"
+      },
+      {
+        "id": "002",
+        "name": "Princess Panoply"
+      },
+      {
+        "id": "001",
+        "name": "Tiger Blast"
+      },
+      {
+        "id": "004",
+        "name": "Demon Gunlance"
+      },
+      {
+        "id": "135",
+        "name": "Fiore Nulo"
+      },
+      {
+        "id": "135",
+        "name": "Fiore Nulo (G)"
+      },
+      {
+        "id": "135",
+        "name": "Fiore Nulo (R)"
+      },
+      {
+        "id": "080",
+        "name": "Monsieur Gore"
+      },
+      {
+        "id": "117",
+        "name": "Rogue Gunlance"
+      },
+      {
+        "id": "138",
+        "name": "Genenam Lance"
+      },
+      {
+        "id": "143",
+        "name": "Arya Gadda"
+      },
+      {
+        "id": "138",
+        "name": "Genenam Lance"
+      },
+      {
+        "id": "145",
+        "name": "Yukumo Gunlance"
+      },
+      {
+        "id": "145",
+        "name": "Yukumo Puregunlance"
+      },
+      {
+        "id": "033",
+        "name": "Striker's Gunlance"
+      },
+      {
+        "id": "037",
+        "name": "Ancient Gyrelance"
+      },
+      {
+        "id": "035",
+        "name": "Red Rook"
+      },
+      {
+        "id": "101",
+        "name": "Lagia Burst"
+      },
+      {
+        "id": "024",
+        "name": "General's Arbalance"
+      },
+      {
+        "id": "170",
+        "name": "Snow Gear"
+      },
+      {
+        "id": "139",
+        "name": "Golem Gunlance"
+      },
+      {
+        "id": "149",
+        "name": "Hellsting"
+      },
+      {
+        "id": "136",
+        "name": "Spine Blaster"
+      },
+      {
+        "id": "137",
+        "name": "Thunder Yell"
+      },
+      {
+        "id": "171",
+        "name": "Barroth Loader"
+      },
+      {
+        "id": "135",
+        "name": "Fiore Nulo (G)"
+      },
+      {
+        "id": "135",
+        "name": "Fiore Nulo (R)"
+      },
+      {
+        "id": "010",
+        "name": "Lagomberator"
+      },
+      {
+        "id": "045",
+        "name": "Lagomberastrophe"
+      },
+      {
+        "id": "016",
+        "name": "Marine Fisher"
+      },
+      {
+        "id": "015",
+        "name": "Hard Hitter"
+      },
+      {
+        "id": "148",
+        "name": "Shattershot"
+      },
+      {
+        "id": "013",
+        "name": "Full Voltage"
+      },
+      {
+        "id": "025",
+        "name": "Red Devil Gunlance"
+      },
+      {
+        "id": "046",
+        "name": "Blue Devil Uberlance"
+      },
+      {
+        "id": "151",
+        "name": "Flamethrower"
+      },
+      {
+        "id": "099",
+        "name": "Scissor Gunlance"
+      },
+      {
+        "id": "147",
+        "name": "Hidden Gunlance"
+      },
+      {
+        "id": "148",
+        "name": "Shattershot"
+      },
+      {
+        "id": "013",
+        "name": "Full Voltage"
+      },
+      {
+        "id": "146",
+        "name": "Type 62 Stormlance"
+      },
+      {
+        "id": "149",
+        "name": "Hellsting"
+      },
+      {
+        "id": "144",
+        "name": "Gerd Sting"
+      },
+      {
+        "id": "147",
+        "name": "Hidden Gunlance"
+      },
+      {
+        "id": "114",
+        "name": "Bamboo Birdsbane"
+      },
+      {
+        "id": "140",
+        "name": "Baa Baa Gunlance"
+      },
+      {
+        "id": "155",
+        "name": "Kamak Gunlance"
+      },
+      {
+        "id": "142",
+        "name": "Teostra Gunlance"
+      },
+      {
+        "id": "116",
+        "name": "Obsidian Gunlance"
+      },
+      {
+        "id": "037",
+        "name": "Ancient Gyrelance"
+      },
+      {
+        "id": "166",
+        "name": "Hororabaruto"
+      },
+      {
+        "id": "136",
+        "name": "Spine Blaster"
+      },
+      {
+        "id": "002",
+        "name": "Princess Panoply"
+      },
+      {
+        "id": "003",
+        "name": "Usurper's Roar"
+      },
+      {
+        "id": "014",
+        "name": "Queen's Panoply"
+      },
+      {
+        "id": "035",
+        "name": "Red Rook"
+      },
+      {
+        "id": "036",
+        "name": "Silver Rook"
+      },
+      {
+        "id": "101",
+        "name": "Lagia Burst"
+      },
+      {
+        "id": "021",
+        "name": "Dios Gunlance"
+      },
+      {
+        "id": "003",
+        "name": "Usurper's Roar"
+      },
+      {
+        "id": "123",
+        "name": "Ukiyo no Yamiwo"
+      },
+      {
+        "id": "121",
+        "name": "Verdant Rook"
+      },
+      {
+        "id": "122",
+        "name": "Giant's Artillery"
+      },
+      {
+        "id": "118",
+        "name": "Burning Kabeira"
+      },
+      {
+        "id": "023",
+        "name": "Tyrannenarm"
+      },
+      {
+        "id": "044",
+        "name": "L'Onde"
+      },
+      {
+        "id": "081",
+        "name": "Jaya Gunlance"
+      },
+      {
+        "id": "083",
+        "name": "Seditious Gunlance"
+      },
+      {
+        "id": "001",
+        "name": "Tiger Blast"
+      },
+      {
+        "id": "137",
+        "name": "Thunder Yell"
+      },
+      {
+        "id": "021",
+        "name": "Dios Gunlance"
+      },
+      {
+        "id": "031",
+        "name": "Demolition Gunlance"
+      },
+      {
+        "id": "044",
+        "name": "L'Onde"
+      },
+      {
+        "id": "098",
+        "name": "Venomous Cologne"
+      },
+      {
+        "id": "119",
+        "name": "Chasm Gunlance"
+      },
+      {
+        "id": "120",
+        "name": "Astral Centaurus"
+      },
+      {
+        "id": "096",
+        "name": "Cornpopper"
+      },
+      {
+        "id": "141",
+        "name": "Wycademy Gunlance"
+      },
+      {
+        "id": "145",
+        "name": "Yukumo Puregunlance"
+      },
+      {
+        "id": "012",
+        "name": "Black Smoke Gunlance"
+      },
+      {
+        "id": "024",
+        "name": "General's Arbalance"
+      },
+      {
+        "id": "165",
+        "name": "Diablos Glower"
+      },
+      {
+        "id": "143",
+        "name": "Arya Gadda"
+      },
+      {
+        "id": "080",
+        "name": "Monsieur Gore"
+      },
+      {
+        "id": "022",
+        "name": "Shell Gunbird"
+      },
+      {
+        "id": "084",
+        "name": "Madame Butcher"
+      },
+      {
+        "id": "028",
+        "name": "Seadiver"
+      },
+      {
+        "id": "043",
+        "name": "Deepbuster"
+      },
+      {
+        "id": "039",
+        "name": "Worn Gunlance"
+      },
+      {
+        "id": "040",
+        "name": "Obelisk"
+      },
+      {
+        "id": "030",
+        "name": "Icesteel Gunlance"
+      },
+      {
+        "id": "170",
+        "name": "Snow Gear"
+      },
+      {
+        "id": "171",
+        "name": "Barroth Loader"
+      },
+      {
+        "id": "172",
+        "name": "Roscasludge"
+      },
+      {
+        "id": "166",
+        "name": "Hororabaruto"
+      },
+      {
+        "id": "022",
+        "name": "Shell Gunbird"
+      },
+      {
+        "id": "042",
+        "name": "Noble Gunbird"
+      },
+      {
+        "id": "045",
+        "name": "Lagomberastrophe"
+      },
+      {
+        "id": "046",
+        "name": "Blue Devil Uberlance"
+      },
+      {
+        "id": "043",
+        "name": "Deepbuster"
+      },
+      {
+        "id": "016",
+        "name": "Marine Fisher"
+      },
+      {
+        "id": "150",
+        "name": "Volcano Gunlance"
+      },
+      {
+        "id": "144",
+        "name": "Gerd Sting"
+      },
+      {
+        "id": "150",
+        "name": "Volcano Gunlance"
+      },
+      {
+        "id": "041",
+        "name": "Felyoshka"
+      },
+      {
+        "id": "008",
+        "name": "White Gunlance"
+      },
+      {
+        "id": "084",
+        "name": "Madame Butcher"
+      },
+      {
+        "id": "151",
+        "name": "Flamethrower"
+      },
+      {
+        "id": "152",
+        "name": "Agna Vulcan"
+      },
+      {
+        "id": "083",
+        "name": "Seditious Gunlance"
+      },
+      {
+        "id": "031",
+        "name": "Demolition Gunlance"
+      },
+      {
+        "id": "086",
+        "name": "Lightbreak Gunlance"
+      },
+      {
+        "id": "004",
+        "name": "Demon Gunlance"
+      },
+      {
+        "id": "087",
+        "name": "Demonlord Artillery"
+      },
+      {
+        "id": "018",
+        "name": "Ravenous Gunlance"
+      },
+      {
+        "id": "048",
+        "name": "Consummate Gunlance"
+      },
+      {
+        "id": "154",
+        "name": "Hero Gunlance"
+      },
+      {
+        "id": "040",
+        "name": "Obelisk"
+      },
+      {
+        "id": "165",
+        "name": "Diablos Glower"
+      },
+      {
+        "id": "167",
+        "name": "Unsolved Gunlance"
+      },
+      {
+        "id": "078",
+        "name": "Platinum Trophy"
+      },
+      {
+        "id": "079",
+        "name": "Volt Works"
+      },
+      {
+        "id": "156",
+        "name": "Pirate Gunlance J"
+      },
+      {
+        "id": "030",
+        "name": "Icesteel Gunlance"
+      },
+      {
+        "id": "036",
+        "name": "Silver Rook"
+      },
+      {
+        "id": "095",
+        "name": "Eine Wahrheit"
+      },
+      {
+        "id": "014",
+        "name": "Queen's Panoply"
+      },
+      {
+        "id": "087",
+        "name": "Demonlord Artillery"
+      },
+      {
+        "id": "048",
+        "name": "Consummate Gunlance"
+      },
+      {
+        "id": "009",
+        "name": "Akantor Gunlance"
+      },
+      {
+        "id": "097",
+        "name": "Ukanlos Gunlance"
+      },
+      {
+        "id": "153",
+        "name": "Ominous Monsoon"
+      },
+      {
+        "id": "120",
+        "name": "Astral Centaurus"
+      },
+      {
+        "id": "157",
+        "name": "Silverwing Gunlance"
+      },
+      {
+        "id": "173",
+        "name": "Elder Gunlance"
+      },
+      {
+        "id": "172",
+        "name": "Roscasludge"
+      },
+      {
+        "id": "042",
+        "name": "Noble Gunbird"
+      },
+      {
+        "id": "152",
+        "name": "Agna Vulcan"
+      },
+      {
+        "id": "169",
+        "name": "Nikuyaki"
+      },
+      {
+        "id": "085",
+        "name": "Paix/Tyrannie"
+      },
+      {
+        "id": "095",
+        "name": "Eine Wahrheit"
+      },
+      {
+        "id": "086",
+        "name": "Lightbreak Gunlance"
+      },
+      {
+        "id": "158",
+        "name": "Jewelled Gunlance"
+      },
+      {
+        "id": "164",
+        "name": "Ruiner Gunlance"
+      },
+      {
+        "id": "094",
+        "name": "W. Fatalis Gunlance"
+      },
+      {
+        "id": "124",
+        "name": "Blackhare Gunlance"
+      },
+      {
+        "id": "126",
+        "name": "Pincher Cannon"
+      },
+      {
+        "id": "127",
+        "name": "Royal Burst"
+      },
+      {
+        "id": "125",
+        "name": "Pierce Cannon"
+      },
+      {
+        "id": "131",
+        "name": "Nightfall Burst"
+      },
+      {
+        "id": "134",
+        "name": "Geode Burst"
+      },
+      {
+        "id": "128",
+        "name": "Hardened Gunlance"
+      },
+      {
+        "id": "129",
+        "name": "Tomb Gunlance"
+      },
+      {
+        "id": "132",
+        "name": "Raiden Cannon"
+      },
+      {
+        "id": "130",
+        "name": "Seize Burst"
+      },
+      {
+        "id": "133",
+        "name": "Explosive Kabeira"
+      },
+      {
+        "id": "163",
+        "name": "Wolverstone"
+      },
+      {
+        "id": "160",
+        "name": "Mumyodjoya"
+      },
+      {
+        "id": "159",
+        "name": "Zephyr Rook"
+      },
+      {
+        "id": "161",
+        "name": "Frostpeak Gunlance"
+      },
+      {
+        "id": "162",
+        "name": "Massacre Glower"
+      }
+    ]
+  },
+  {
+    "id": "w10",
+    "name": "Bow",
+    "icon": "bow",
+    "kiranico_prefix": "yumi",
+    "image_prefix": "bow",
+    "skins": [
+      {
+        "id": "107",
+        "name": "Petrified Bow"
+      },
+      {
+        "id": "136",
+        "name": "Arko Nulo (Y)"
+      },
+      {
+        "id": "109",
+        "name": "Plume Bow"
+      },
+      {
+        "id": "138",
+        "name": "Sonic Bow"
+      },
+      {
+        "id": "108",
+        "name": "Obsidian Bow"
+      },
+      {
+        "id": "004",
+        "name": "Usurper's Rumble"
+      },
+      {
+        "id": "038",
+        "name": "Hunter's Bow"
+      },
+      {
+        "id": "137",
+        "name": "Blango Fur Bow"
+      },
+      {
+        "id": "009",
+        "name": "Kut-Ku Stave"
+      },
+      {
+        "id": "017",
+        "name": "Kelbi Stingshot"
+      },
+      {
+        "id": "088",
+        "name": "Diablos Coilbender"
+      },
+      {
+        "id": "039",
+        "name": "Hunter's Stoutbow"
+      },
+      {
+        "id": "129",
+        "name": "Crystalline Flower"
+      },
+      {
+        "id": "007",
+        "name": "Queen Blaster"
+      },
+      {
+        "id": "140",
+        "name": "Type 64 Multibow"
+      },
+      {
+        "id": "128",
+        "name": "Yekla Arc"
+      },
+      {
+        "id": "006",
+        "name": "Prominence Bow"
+      },
+      {
+        "id": "136",
+        "name": "Arko Nulo (Y)"
+      },
+      {
+        "id": "136",
+        "name": "Arko Nulo (W)"
+      },
+      {
+        "id": "136",
+        "name": "Arko Nulo (W)"
+      },
+      {
+        "id": "137",
+        "name": "Blango Fur Bow"
+      },
+      {
+        "id": "139",
+        "name": "Spongia Bow"
+      },
+      {
+        "id": "005",
+        "name": "Wild Bow"
+      },
+      {
+        "id": "143",
+        "name": "Abominable Bow"
+      },
+      {
+        "id": "109",
+        "name": "Plume Bow"
+      },
+      {
+        "id": "091",
+        "name": "Daimyo's Warbow"
+      },
+      {
+        "id": "141",
+        "name": "Hidden Bow"
+      },
+      {
+        "id": "160",
+        "name": "Ice Crest"
+      },
+      {
+        "id": "135",
+        "name": "Yukumo Bow"
+      },
+      {
+        "id": "135",
+        "name": "Yukumo Purebow"
+      },
+      {
+        "id": "042",
+        "name": "Morsel Bowfish"
+      },
+      {
+        "id": "129",
+        "name": "Crystalline Flower"
+      },
+      {
+        "id": "010",
+        "name": "Khezu Bow"
+      },
+      {
+        "id": "019",
+        "name": "Blue Alighter"
+      },
+      {
+        "id": "138",
+        "name": "Sonic Bow"
+      },
+      {
+        "id": "032",
+        "name": "Heat Haze"
+      },
+      {
+        "id": "009",
+        "name": "Kut-Ku Stave"
+      },
+      {
+        "id": "012",
+        "name": "Crow Bow"
+      },
+      {
+        "id": "091",
+        "name": "Daimyo's Warbow"
+      },
+      {
+        "id": "142",
+        "name": "Bear Blade Bow"
+      },
+      {
+        "id": "139",
+        "name": "Spongia Bow"
+      },
+      {
+        "id": "144",
+        "name": "Voltsender"
+      },
+      {
+        "id": "010",
+        "name": "Khezu Bow"
+      },
+      {
+        "id": "007",
+        "name": "Queen Blaster"
+      },
+      {
+        "id": "140",
+        "name": "Type 64 Multibow"
+      },
+      {
+        "id": "093",
+        "name": "Brazencord"
+      },
+      {
+        "id": "001",
+        "name": "Tigrex Archer"
+      },
+      {
+        "id": "141",
+        "name": "Hidden Bow"
+      },
+      {
+        "id": "105",
+        "name": "Bamboo Taketori"
+      },
+      {
+        "id": "133",
+        "name": "Ivory Bow"
+      },
+      {
+        "id": "148",
+        "name": "Chaos Bow"
+      },
+      {
+        "id": "132",
+        "name": "Felyne Bow"
+      },
+      {
+        "id": "134",
+        "name": "Arachnid Bow"
+      },
+      {
+        "id": "108",
+        "name": "Obsidian Bow"
+      },
+      {
+        "id": "128",
+        "name": "Yekla Arc"
+      },
+      {
+        "id": "127",
+        "name": "Demon Helm Bow"
+      },
+      {
+        "id": "018",
+        "name": "Scylla Fist"
+      },
+      {
+        "id": "012",
+        "name": "Crow Bow"
+      },
+      {
+        "id": "077",
+        "name": "Vile Bow"
+      },
+      {
+        "id": "093",
+        "name": "Brazencord"
+      },
+      {
+        "id": "026",
+        "name": "Dios Flier"
+      },
+      {
+        "id": "006",
+        "name": "Prominence Bow"
+      },
+      {
+        "id": "144",
+        "name": "Voltsender"
+      },
+      {
+        "id": "004",
+        "name": "Usurper's Rumble"
+      },
+      {
+        "id": "106",
+        "name": "Despot Sagittus"
+      },
+      {
+        "id": "115",
+        "name": "Blessed Rain"
+      },
+      {
+        "id": "113",
+        "name": "Lightning Bow"
+      },
+      {
+        "id": "114",
+        "name": "Giant's Bow"
+      },
+      {
+        "id": "110",
+        "name": "Ashen Wrath"
+      },
+      {
+        "id": "023",
+        "name": "Entbehrung"
+      },
+      {
+        "id": "029",
+        "name": "Le Ravisseur"
+      },
+      {
+        "id": "074",
+        "name": "Shalya Bow"
+      },
+      {
+        "id": "076",
+        "name": "Seditious Arrow"
+      },
+      {
+        "id": "001",
+        "name": "Tigrex Archer"
+      },
+      {
+        "id": "074",
+        "name": "Shalya Bow"
+      },
+      {
+        "id": "026",
+        "name": "Dios Flier"
+      },
+      {
+        "id": "037",
+        "name": "Demolition Bow"
+      },
+      {
+        "id": "015",
+        "name": "Bow of Hope & Valor"
+      },
+      {
+        "id": "111",
+        "name": "Skeletal Bow"
+      },
+      {
+        "id": "112",
+        "name": "Polar Avian Bow"
+      },
+      {
+        "id": "135",
+        "name": "Yukumo Purebow"
+      },
+      {
+        "id": "147",
+        "name": "Onyx Bow"
+      },
+      {
+        "id": "017",
+        "name": "Kelbi Stingshot"
+      },
+      {
+        "id": "032",
+        "name": "Heat Haze"
+      },
+      {
+        "id": "035",
+        "name": "Feminine Haze"
+      },
+      {
+        "id": "127",
+        "name": "Demon Helm Bow"
+      },
+      {
+        "id": "019",
+        "name": "Blue Alighter"
+      },
+      {
+        "id": "030",
+        "name": "Ice Cold Alighter"
+      },
+      {
+        "id": "142",
+        "name": "Bear Blade Bow"
+      },
+      {
+        "id": "021",
+        "name": "Arca Raptora"
+      },
+      {
+        "id": "130",
+        "name": "Worn Bow"
+      },
+      {
+        "id": "131",
+        "name": "Angelbein"
+      },
+      {
+        "id": "013",
+        "name": "Icesteel Bow"
+      },
+      {
+        "id": "005",
+        "name": "Wild Bow"
+      },
+      {
+        "id": "008",
+        "name": "Power Wildbow"
+      },
+      {
+        "id": "018",
+        "name": "Scylla Fist"
+      },
+      {
+        "id": "031",
+        "name": "Scylla Weave"
+      },
+      {
+        "id": "030",
+        "name": "Ice Cold Alighter"
+      },
+      {
+        "id": "143",
+        "name": "Abominable Bow"
+      },
+      {
+        "id": "035",
+        "name": "Feminine Haze"
+      },
+      {
+        "id": "104",
+        "name": "Seahorse Harp"
+      },
+      {
+        "id": "008",
+        "name": "Power Wildbow"
+      },
+      {
+        "id": "160",
+        "name": "Ice Crest"
+      },
+      {
+        "id": "077",
+        "name": "Vile Bow"
+      },
+      {
+        "id": "076",
+        "name": "Seditious Arrow"
+      },
+      {
+        "id": "037",
+        "name": "Demolition Bow"
+      },
+      {
+        "id": "080",
+        "name": "Lightbreak Bow"
+      },
+      {
+        "id": "029",
+        "name": "Le Ravisseur"
+      },
+      {
+        "id": "014",
+        "name": "Beast Thunderbow"
+      },
+      {
+        "id": "078",
+        "name": "Archbeast Thunderbow"
+      },
+      {
+        "id": "131",
+        "name": "Angelbein"
+      },
+      {
+        "id": "088",
+        "name": "Diablos Coilbender"
+      },
+      {
+        "id": "157",
+        "name": "Unsolved Bow"
+      },
+      {
+        "id": "072",
+        "name": "Hero's Bow"
+      },
+      {
+        "id": "162",
+        "name": "Pirate Bow J"
+      },
+      {
+        "id": "163",
+        "name": "Ancient Armament"
+      },
+      {
+        "id": "013",
+        "name": "Icesteel Bow"
+      },
+      {
+        "id": "073",
+        "name": "Genie's Grimoire"
+      },
+      {
+        "id": "041",
+        "name": "Hyperion"
+      },
+      {
+        "id": "022",
+        "name": "Selene Moonbroken"
+      },
+      {
+        "id": "078",
+        "name": "Archbeast Thunderbow"
+      },
+      {
+        "id": "003",
+        "name": "Akantor Bow"
+      },
+      {
+        "id": "090",
+        "name": "Ukanlos Bow"
+      },
+      {
+        "id": "146",
+        "name": "Tempest Nightbow"
+      },
+      {
+        "id": "112",
+        "name": "Polar Avian Bow"
+      },
+      {
+        "id": "145",
+        "name": "Alatreon Bow"
+      },
+      {
+        "id": "149",
+        "name": "Silverwing Greatbow"
+      },
+      {
+        "id": "161",
+        "name": "Elder Bow"
+      },
+      {
+        "id": "031",
+        "name": "Scylla Weave"
+      },
+      {
+        "id": "106",
+        "name": "Despot Sagittus"
+      },
+      {
+        "id": "158",
+        "name": "Kayamba Slinger"
+      },
+      {
+        "id": "028",
+        "name": "Ala Victoria"
+      },
+      {
+        "id": "079",
+        "name": "Obtenir/Perdu"
+      },
+      {
+        "id": "080",
+        "name": "Lightbreak Bow"
+      },
+      {
+        "id": "159",
+        "name": "Dragon Bow Earth"
+      },
+      {
+        "id": "150",
+        "name": "Jewelled Bow"
+      },
+      {
+        "id": "020",
+        "name": "Bow of Fall & Break"
+      },
+      {
+        "id": "156",
+        "name": "Bow of Rage & Disaster"
+      },
+      {
+        "id": "016",
+        "name": "Victory and Glory"
+      },
+      {
+        "id": "116",
+        "name": "Crimson Bow"
+      },
+      {
+        "id": "118",
+        "name": "Stonefist Bow"
+      },
+      {
+        "id": "119",
+        "name": "Royal Blaster"
+      },
+      {
+        "id": "117",
+        "name": "Demonic Bow"
+      },
+      {
+        "id": "123",
+        "name": "Silverwind Bow"
+      },
+      {
+        "id": "126",
+        "name": "Grobo Arc"
+      },
+      {
+        "id": "120",
+        "name": "Wicked Bow"
+      },
+      {
+        "id": "121",
+        "name": "Dread Bow"
+      },
+      {
+        "id": "124",
+        "name": "Rumble Bow"
+      },
+      {
+        "id": "122",
+        "name": "Rudra Bow"
+      },
+      {
+        "id": "125",
+        "name": "Hellish Wrath"
+      },
+      {
+        "id": "155",
+        "name": "Shredclaw Blade Bow"
+      },
+      {
+        "id": "152",
+        "name": "Rouushorai"
+      },
+      {
+        "id": "151",
+        "name": "Zephyr Bow"
+      },
+      {
+        "id": "153",
+        "name": "Frostpeak Bow"
+      },
+      {
+        "id": "154",
+        "name": "Massacre Bow"
+      }
+    ]
+  },
+  {
+    "id": "w11",
+    "name": "Dual Blades",
+    "icon": "dual_blades",
+    "kiranico_prefix": "sou",
+    "image_prefix": "sou",
+    "skins": [
+      {
+        "id": "120",
+        "name": "Petrified Daggers"
+      },
+      {
+        "id": "045",
+        "name": "Insecticutters"
+      },
+      {
+        "id": "019",
+        "name": "Twin Chainsaws"
+      },
+      {
+        "id": "154",
+        "name": "Type 51 Macerators"
+      },
+      {
+        "id": "121",
+        "name": "Obsidian Daggers"
+      },
+      {
+        "id": "092",
+        "name": "Gelid Mind"
+      },
+      {
+        "id": "002",
+        "name": "Twin Daggers"
+      },
+      {
+        "id": "122",
+        "name": "Dual Piercers"
+      },
+      {
+        "id": "017",
+        "name": "Hurricane"
+      },
+      {
+        "id": "016",
+        "name": "Sworn Rapiers"
+      },
+      {
+        "id": "047",
+        "name": "Bone Scythes"
+      },
+      {
+        "id": "138",
+        "name": "Cerulean Axes"
+      },
+      {
+        "id": "140",
+        "name": "Talon Carvers"
+      },
+      {
+        "id": "144",
+        "name": "Crab Horns"
+      },
+      {
+        "id": "020",
+        "name": "Twin Flames"
+      },
+      {
+        "id": "099",
+        "name": "Diablos Bashers"
+      },
+      {
+        "id": "045",
+        "name": "Insecticutters"
+      },
+      {
+        "id": "046",
+        "name": "Insectiscythes"
+      },
+      {
+        "id": "122",
+        "name": "Dual Piercers"
+      },
+      {
+        "id": "139",
+        "name": "Khezu Daggers"
+      },
+      {
+        "id": "026",
+        "name": "Rouge Flames"
+      },
+      {
+        "id": "105",
+        "name": "Flamestorm"
+      },
+      {
+        "id": "007",
+        "name": "Vprey Claws"
+      },
+      {
+        "id": "009",
+        "name": "Kut-Ku Pair"
+      },
+      {
+        "id": "155",
+        "name": "Snow Venom"
+      },
+      {
+        "id": "049",
+        "name": "Whirlitwists"
+      },
+      {
+        "id": "178",
+        "name": "Giaprey Claws"
+      },
+      {
+        "id": "138",
+        "name": "Cerulean Axes"
+      },
+      {
+        "id": "006",
+        "name": "Snow Slicers"
+      },
+      {
+        "id": "005",
+        "name": "Dual Battleaxes"
+      },
+      {
+        "id": "153",
+        "name": "Ludroth Pair"
+      },
+      {
+        "id": "141",
+        "name": "Blazeblades"
+      },
+      {
+        "id": "149",
+        "name": "Yukumo Duo"
+      },
+      {
+        "id": "149",
+        "name": "Pure Yukumo Duo"
+      },
+      {
+        "id": "017",
+        "name": "Hurricane"
+      },
+      {
+        "id": "018",
+        "name": "Dual Hatchets"
+      },
+      {
+        "id": "086",
+        "name": "Zakun Twins"
+      },
+      {
+        "id": "024",
+        "name": "Dios Slicers"
+      },
+      {
+        "id": "042",
+        "name": "Cleaving Jaws"
+      },
+      {
+        "id": "140",
+        "name": "Talon Carvers"
+      },
+      {
+        "id": "157",
+        "name": "Bladed Edges"
+      },
+      {
+        "id": "156",
+        "name": "Hidden Gemini"
+      },
+      {
+        "id": "015",
+        "name": "Plesioth Cutlasses"
+      },
+      {
+        "id": "019",
+        "name": "Twin Chainsaws"
+      },
+      {
+        "id": "147",
+        "name": "Roving Saws"
+      },
+      {
+        "id": "009",
+        "name": "Kut-Ku Pair"
+      },
+      {
+        "id": "010",
+        "name": "Raven Tessen"
+      },
+      {
+        "id": "035",
+        "name": "Pink Maracas"
+      },
+      {
+        "id": "155",
+        "name": "Snow Venom"
+      },
+      {
+        "id": "006",
+        "name": "Snow Slicers"
+      },
+      {
+        "id": "037",
+        "name": "Maulagombs"
+      },
+      {
+        "id": "179",
+        "name": "Blizzarioths"
+      },
+      {
+        "id": "005",
+        "name": "Dual Battleaxes"
+      },
+      {
+        "id": "144",
+        "name": "Crab Horns"
+      },
+      {
+        "id": "027",
+        "name": "Monarch"
+      },
+      {
+        "id": "153",
+        "name": "Ludroth Pair"
+      },
+      {
+        "id": "029",
+        "name": "Twin Acrus"
+      },
+      {
+        "id": "139",
+        "name": "Khezu Daggers"
+      },
+      {
+        "id": "154",
+        "name": "Type 51 Macerators"
+      },
+      {
+        "id": "157",
+        "name": "Bladed Edges"
+      },
+      {
+        "id": "146",
+        "name": "Bladed Pincers"
+      },
+      {
+        "id": "156",
+        "name": "Hidden Gemini"
+      },
+      {
+        "id": "031",
+        "name": "Glutton's Tools"
+      },
+      {
+        "id": "151",
+        "name": "Stewbry Stirfoils"
+      },
+      {
+        "id": "162",
+        "name": "Pokke Mittens"
+      },
+      {
+        "id": "145",
+        "name": "Daora Blades"
+      },
+      {
+        "id": "121",
+        "name": "Obsidian Daggers"
+      },
+      {
+        "id": "018",
+        "name": "Dual Hatchets"
+      },
+      {
+        "id": "003",
+        "name": "Usurper's Fulgur"
+      },
+      {
+        "id": "001",
+        "name": "Rex Slicers"
+      },
+      {
+        "id": "102",
+        "name": "Tornado Hatchets"
+      },
+      {
+        "id": "016",
+        "name": "Sworn Rapiers"
+      },
+      {
+        "id": "141",
+        "name": "Blazeblades"
+      },
+      {
+        "id": "010",
+        "name": "Raven Tessen"
+      },
+      {
+        "id": "089",
+        "name": "Wicked Tessen"
+      },
+      {
+        "id": "020",
+        "name": "Twin Flames"
+      },
+      {
+        "id": "021",
+        "name": "Wyvern Strife"
+      },
+      {
+        "id": "029",
+        "name": "Twin Acrus"
+      },
+      {
+        "id": "003",
+        "name": "Usurper's Fulgur"
+      },
+      {
+        "id": "128",
+        "name": "Morning Dawn"
+      },
+      {
+        "id": "126",
+        "name": "Twin Bolts"
+      },
+      {
+        "id": "127",
+        "name": "Giant's Daggers"
+      },
+      {
+        "id": "123",
+        "name": "Smoldering Cities"
+      },
+      {
+        "id": "039",
+        "name": "Fledderklauen"
+      },
+      {
+        "id": "044",
+        "name": "Les Apotres"
+      },
+      {
+        "id": "086",
+        "name": "Zakun Twins"
+      },
+      {
+        "id": "088",
+        "name": "Seditious Talons"
+      },
+      {
+        "id": "001",
+        "name": "Rex Slicers"
+      },
+      {
+        "id": "027",
+        "name": "Monarch"
+      },
+      {
+        "id": "024",
+        "name": "Dios Slicers"
+      },
+      {
+        "id": "034",
+        "name": "Demolition Blades"
+      },
+      {
+        "id": "044",
+        "name": "Les Apotres"
+      },
+      {
+        "id": "026",
+        "name": "Rouge Flames"
+      },
+      {
+        "id": "011",
+        "name": "Twin Nails"
+      },
+      {
+        "id": "124",
+        "name": "Chasm Blades"
+      },
+      {
+        "id": "125",
+        "name": "Astral Gemini"
+      },
+      {
+        "id": "152",
+        "name": "Qornu Waga"
+      },
+      {
+        "id": "150",
+        "name": "White Dango"
+      },
+      {
+        "id": "150",
+        "name": "Spicy Dango"
+      },
+      {
+        "id": "150",
+        "name": "Tengu Dango"
+      },
+      {
+        "id": "161",
+        "name": "Addled Beers"
+      },
+      {
+        "id": "143",
+        "name": "Wycademy Blades"
+      },
+      {
+        "id": "149",
+        "name": "Pure Yukumo Duo"
+      },
+      {
+        "id": "160",
+        "name": "Black Twin Daggers"
+      },
+      {
+        "id": "148",
+        "name": "Heroic Twins"
+      },
+      {
+        "id": "102",
+        "name": "Tornado Hatchets"
+      },
+      {
+        "id": "092",
+        "name": "Gelid Mind"
+      },
+      {
+        "id": "049",
+        "name": "Whirlitwists"
+      },
+      {
+        "id": "048",
+        "name": "Whirlitorture"
+      },
+      {
+        "id": "037",
+        "name": "Maulagombs"
+      },
+      {
+        "id": "042",
+        "name": "Cleaving Jaws"
+      },
+      {
+        "id": "038",
+        "name": "Cool Cleavers"
+      },
+      {
+        "id": "015",
+        "name": "Plesioth Cutlasses"
+      },
+      {
+        "id": "158",
+        "name": "Firestorm"
+      },
+      {
+        "id": "033",
+        "name": "Verdant Slashers"
+      },
+      {
+        "id": "150",
+        "name": "Spicy Dango"
+      },
+      {
+        "id": "150",
+        "name": "Tengu Dango"
+      },
+      {
+        "id": "117",
+        "name": "Shaka Scarecrows"
+      },
+      {
+        "id": "022",
+        "name": "Worn Blades"
+      },
+      {
+        "id": "002",
+        "name": "Hi Twin Daggers"
+      },
+      {
+        "id": "023",
+        "name": "Enduring Schism"
+      },
+      {
+        "id": "178",
+        "name": "Giaprey Claws"
+      },
+      {
+        "id": "147",
+        "name": "Roving Saws"
+      },
+      {
+        "id": "046",
+        "name": "Insectiscythes"
+      },
+      {
+        "id": "038",
+        "name": "Cool Cleavers"
+      },
+      {
+        "id": "048",
+        "name": "Whirlitorture"
+      },
+      {
+        "id": "158",
+        "name": "Firestorm"
+      },
+      {
+        "id": "146",
+        "name": "Bladed Pincers"
+      },
+      {
+        "id": "142",
+        "name": "Felyne Claws"
+      },
+      {
+        "id": "151",
+        "name": "Stewbry Stirfoils"
+      },
+      {
+        "id": "035",
+        "name": "Pink Maracas"
+      },
+      {
+        "id": "179",
+        "name": "Blizzarioths"
+      },
+      {
+        "id": "043",
+        "name": "Guild Knight Sabers"
+      },
+      {
+        "id": "002",
+        "name": "Hi Twin Daggers"
+      },
+      {
+        "id": "089",
+        "name": "Wicked Tessen"
+      },
+      {
+        "id": "105",
+        "name": "Flamestorm"
+      },
+      {
+        "id": "106",
+        "name": "Ignis Noire"
+      },
+      {
+        "id": "088",
+        "name": "Seditious Talons"
+      },
+      {
+        "id": "034",
+        "name": "Demolition Blades"
+      },
+      {
+        "id": "091",
+        "name": "Lightbreak Twins"
+      },
+      {
+        "id": "085",
+        "name": "Suzuka Takamaru"
+      },
+      {
+        "id": "012",
+        "name": "Wrath & Rancor"
+      },
+      {
+        "id": "052",
+        "name": "Consummate Pair"
+      },
+      {
+        "id": "023",
+        "name": "Enduring Schism"
+      },
+      {
+        "id": "099",
+        "name": "Diablos Bashers"
+      },
+      {
+        "id": "173",
+        "name": "Unsolved Blades"
+      },
+      {
+        "id": "083",
+        "name": "Pirate Edges J"
+      },
+      {
+        "id": "082",
+        "name": "Exploding Blades"
+      },
+      {
+        "id": "118",
+        "name": "Baki Combat Jutsu"
+      },
+      {
+        "id": "163",
+        "name": "Twin Star Blades"
+      },
+      {
+        "id": "119",
+        "name": "Fan Club Fans"
+      },
+      {
+        "id": "025",
+        "name": "Felyne and Melynx"
+      },
+      {
+        "id": "164",
+        "name": "Light Sword Cypher"
+      },
+      {
+        "id": "021",
+        "name": "Wyvern Strife"
+      },
+      {
+        "id": "052",
+        "name": "Consummate Pair"
+      },
+      {
+        "id": "036",
+        "name": "Akantor Blades"
+      },
+      {
+        "id": "103",
+        "name": "Ukanlos Ruinblades"
+      },
+      {
+        "id": "159",
+        "name": "Stormwind Fans"
+      },
+      {
+        "id": "125",
+        "name": "Astral Gemini"
+      },
+      {
+        "id": "165",
+        "name": "Silverwing Blades"
+      },
+      {
+        "id": "180",
+        "name": "Elder Dagger"
+      },
+      {
+        "id": "033",
+        "name": "Verdant Slashers"
+      },
+      {
+        "id": "106",
+        "name": "Ignis Noire"
+      },
+      {
+        "id": "176",
+        "name": "Luzo-Soulo"
+      },
+      {
+        "id": "174",
+        "name": "Tareache Lucatore"
+      },
+      {
+        "id": "175",
+        "name": "That's All"
+      },
+      {
+        "id": "181",
+        "name": "Thunderclap Works"
+      },
+      {
+        "id": "090",
+        "name": "Apptre/Sorciere"
+      },
+      {
+        "id": "091",
+        "name": "Lightbreak Twins"
+      },
+      {
+        "id": "177",
+        "name": "Flaming Pair"
+      },
+      {
+        "id": "166",
+        "name": "Jewelled Blades"
+      },
+      {
+        "id": "055",
+        "name": "Ebonblood Twindrakes"
+      },
+      {
+        "id": "014",
+        "name": "Ultimus Celestials"
+      },
+      {
+        "id": "129",
+        "name": "Crimson Daggers"
+      },
+      {
+        "id": "130",
+        "name": "Blackhare Daggers"
+      },
+      {
+        "id": "131",
+        "name": "Pincher Daggers"
+      },
+      {
+        "id": "132",
+        "name": "Royal Daggers"
+      },
+      {
+        "id": "135",
+        "name": "Nightfall Daggers"
+      },
+      {
+        "id": "133",
+        "name": "Hardened Daggers"
+      },
+      {
+        "id": "136",
+        "name": "Raiden Daggers"
+      },
+      {
+        "id": "134",
+        "name": "Seize Slicers"
+      },
+      {
+        "id": "137",
+        "name": "Enflamed Slicers"
+      },
+      {
+        "id": "171",
+        "name": "Shredclaw Ripper"
+      },
+      {
+        "id": "168",
+        "name": "Shikisokuzeku"
+      },
+      {
+        "id": "167",
+        "name": "Twin Revolt"
+      },
+      {
+        "id": "169",
+        "name": "Frostpeak Blades"
+      },
+      {
+        "id": "170",
+        "name": "Massacre Spine"
+      }
+    ]
+  },
+  {
+    "id": "w12",
+    "name": "Hunting Horn",
+    "icon": "hunting_horn",
+    "kiranico_prefix": "hue",
+    "image_prefix": "hue",
+    "skins": [
+      {
+        "id": "098",
+        "name": "Petrified Horn"
+      },
+      {
+        "id": "141",
+        "name": "Larinoth Ocarina"
+      },
+      {
+        "id": "125",
+        "name": "Kut-Ku's Song"
+      },
+      {
+        "id": "132",
+        "name": "Droth Drone"
+      },
+      {
+        "id": "070",
+        "name": "Vadya Muse"
+      },
+      {
+        "id": "099",
+        "name": "Obsidian Horn"
+      },
+      {
+        "id": "121",
+        "name": "Iron Horn"
+      },
+      {
+        "id": "129",
+        "name": "Sonic Glass"
+      },
+      {
+        "id": "018",
+        "name": "Metal Bagpipe"
+      },
+      {
+        "id": "133",
+        "name": "Type 63 Warmonica"
+      },
+      {
+        "id": "014",
+        "name": "Valkyrie Chordmaker"
+      },
+      {
+        "id": "138",
+        "name": "Agnakdion"
+      },
+      {
+        "id": "007",
+        "name": "Bone Horn"
+      },
+      {
+        "id": "008",
+        "name": "Velociprey Balloon"
+      },
+      {
+        "id": "117",
+        "name": "Bull Grunt"
+      },
+      {
+        "id": "032",
+        "name": "Danger Call"
+      },
+      {
+        "id": "026",
+        "name": "Hunter's Horn"
+      },
+      {
+        "id": "141",
+        "name": "Larinoth Ocarina"
+      },
+      {
+        "id": "129",
+        "name": "Sonic Glass"
+      },
+      {
+        "id": "095",
+        "name": "Glass Royale"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo (G)"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo (R)"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo (W)"
+      },
+      {
+        "id": "100",
+        "name": "Fool's Harp"
+      },
+      {
+        "id": "002",
+        "name": "Usurper's Growl"
+      },
+      {
+        "id": "008",
+        "name": "Velociprey Balloon"
+      },
+      {
+        "id": "128",
+        "name": "Giaprey Balloon"
+      },
+      {
+        "id": "130",
+        "name": "Velocidrome Balloon"
+      },
+      {
+        "id": "128",
+        "name": "Giaprey Balloon"
+      },
+      {
+        "id": "006",
+        "name": "Khezu Horn"
+      },
+      {
+        "id": "117",
+        "name": "Bull Grunt"
+      },
+      {
+        "id": "131",
+        "name": "Zurogong Primo"
+      },
+      {
+        "id": "119",
+        "name": "Demon Block"
+      },
+      {
+        "id": "136",
+        "name": "Brazengaita"
+      },
+      {
+        "id": "001",
+        "name": "Striped Dragonga"
+      },
+      {
+        "id": "030",
+        "name": "Kecha Whappa"
+      },
+      {
+        "id": "154",
+        "name": "Bariguiro"
+      },
+      {
+        "id": "127",
+        "name": "Yukumo Flute"
+      },
+      {
+        "id": "127",
+        "name": "Yukumo Pureflute"
+      },
+      {
+        "id": "018",
+        "name": "Metal Bagpipe"
+      },
+      {
+        "id": "134",
+        "name": "Hidden Harmonic"
+      },
+      {
+        "id": "135",
+        "name": "Lagia Horn"
+      },
+      {
+        "id": "019",
+        "name": "Heavy Bagpipe"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo (G)"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo (R)"
+      },
+      {
+        "id": "012",
+        "name": "Vicello Nulo (W)"
+      },
+      {
+        "id": "125",
+        "name": "Kut-Ku's Song"
+      },
+      {
+        "id": "126",
+        "name": "Poisoned Capri"
+      },
+      {
+        "id": "126",
+        "name": "Poisoned Capri"
+      },
+      {
+        "id": "119",
+        "name": "Demon Block"
+      },
+      {
+        "id": "082",
+        "name": "Shell Castanet"
+      },
+      {
+        "id": "120",
+        "name": "Mountain Crusher"
+      },
+      {
+        "id": "132",
+        "name": "Droth Drone"
+      },
+      {
+        "id": "100",
+        "name": "Fool's Harp"
+      },
+      {
+        "id": "118",
+        "name": "Dodotto Horn"
+      },
+      {
+        "id": "013",
+        "name": "Raven Shamisen"
+      },
+      {
+        "id": "137",
+        "name": "Lava Alphorn"
+      },
+      {
+        "id": "006",
+        "name": "Khezu Horn"
+      },
+      {
+        "id": "133",
+        "name": "Type 63 Warmonica"
+      },
+      {
+        "id": "118",
+        "name": "Dodotto Horn"
+      },
+      {
+        "id": "082",
+        "name": "Shell Castanet"
+      },
+      {
+        "id": "032",
+        "name": "Danger Call"
+      },
+      {
+        "id": "040",
+        "name": "Hazardous Call"
+      },
+      {
+        "id": "134",
+        "name": "Hidden Harmonic"
+      },
+      {
+        "id": "067",
+        "name": "Poli'ahu Pipe"
+      },
+      {
+        "id": "096",
+        "name": "Handmade Frog"
+      },
+      {
+        "id": "020",
+        "name": "Magia Charm"
+      },
+      {
+        "id": "036",
+        "name": "Swell Shell"
+      },
+      {
+        "id": "142",
+        "name": "Poison Fungasax"
+      },
+      {
+        "id": "123",
+        "name": "Bherna Chime"
+      },
+      {
+        "id": "140",
+        "name": "Airship Horn"
+      },
+      {
+        "id": "026",
+        "name": "Hunter's Horn"
+      },
+      {
+        "id": "025",
+        "name": "Dios Bell"
+      },
+      {
+        "id": "005",
+        "name": "War Drum"
+      },
+      {
+        "id": "013",
+        "name": "Raven Shamisen"
+      },
+      {
+        "id": "073",
+        "name": "Vile Shamisen"
+      },
+      {
+        "id": "136",
+        "name": "Brazengaita"
+      },
+      {
+        "id": "014",
+        "name": "Valkyrie Chordmaker"
+      },
+      {
+        "id": "037",
+        "name": "Gold Chordmaker"
+      },
+      {
+        "id": "135",
+        "name": "Lagia Horn"
+      },
+      {
+        "id": "002",
+        "name": "Usurper's Growl"
+      },
+      {
+        "id": "010",
+        "name": "Basarios Rock"
+      },
+      {
+        "id": "106",
+        "name": "Poetic Bell"
+      },
+      {
+        "id": "104",
+        "name": "Emerald Flap"
+      },
+      {
+        "id": "105",
+        "name": "Giant's Koto"
+      },
+      {
+        "id": "101",
+        "name": "Hell Horn"
+      },
+      {
+        "id": "034",
+        "name": "Kummerklang"
+      },
+      {
+        "id": "039",
+        "name": "La Sépulture"
+      },
+      {
+        "id": "070",
+        "name": "Vadya Muse"
+      },
+      {
+        "id": "072",
+        "name": "Seditious Warhorn"
+      },
+      {
+        "id": "001",
+        "name": "Striped Dragonga"
+      },
+      {
+        "id": "025",
+        "name": "Dios Bell"
+      },
+      {
+        "id": "033",
+        "name": "Demolition Chime"
+      },
+      {
+        "id": "039",
+        "name": "La Sépulture"
+      },
+      {
+        "id": "081",
+        "name": "Blessed Ocarina"
+      },
+      {
+        "id": "066",
+        "name": "Teostra's Tiple"
+      },
+      {
+        "id": "102",
+        "name": "Skeletal Melody"
+      },
+      {
+        "id": "103",
+        "name": "Polaris Wraith"
+      },
+      {
+        "id": "122",
+        "name": "Azumand Wind"
+      },
+      {
+        "id": "124",
+        "name": "Cornupion"
+      },
+      {
+        "id": "099",
+        "name": "Obsidian Horn"
+      },
+      {
+        "id": "127",
+        "name": "Yukumo Pureflute"
+      },
+      {
+        "id": "009",
+        "name": "Black Lute"
+      },
+      {
+        "id": "143",
+        "name": "Tama Frypan"
+      },
+      {
+        "id": "019",
+        "name": "Heavy Bagpipe"
+      },
+      {
+        "id": "155",
+        "name": "Sandpipe"
+      },
+      {
+        "id": "130",
+        "name": "Velocidrome Balloon"
+      },
+      {
+        "id": "030",
+        "name": "Kecha Whappa"
+      },
+      {
+        "id": "038",
+        "name": "Kecha Thumpa"
+      },
+      {
+        "id": "021",
+        "name": "Worn Horn"
+      },
+      {
+        "id": "022",
+        "name": "Avenir's Music Box"
+      },
+      {
+        "id": "069",
+        "name": "Daora's Taus"
+      },
+      {
+        "id": "005",
+        "name": "War Drum"
+      },
+      {
+        "id": "004",
+        "name": "War Bongo"
+      },
+      {
+        "id": "155",
+        "name": "Sandpipe"
+      },
+      {
+        "id": "156",
+        "name": "Sandsinger"
+      },
+      {
+        "id": "010",
+        "name": "Basarios Rock"
+      },
+      {
+        "id": "011",
+        "name": "Volcanic Rock"
+      },
+      {
+        "id": "038",
+        "name": "Kecha Thumpa"
+      },
+      {
+        "id": "067",
+        "name": "Poli'ahu Pipe"
+      },
+      {
+        "id": "137",
+        "name": "Lava Alphorn"
+      },
+      {
+        "id": "040",
+        "name": "Hazardous Call"
+      },
+      {
+        "id": "004",
+        "name": "War Bongo"
+      },
+      {
+        "id": "154",
+        "name": "Bariguiro"
+      },
+      {
+        "id": "073",
+        "name": "Vile Shamisen"
+      },
+      {
+        "id": "138",
+        "name": "Agnakdion"
+      },
+      {
+        "id": "072",
+        "name": "Seditious Warhorn"
+      },
+      {
+        "id": "120",
+        "name": "Mountain Crusher"
+      },
+      {
+        "id": "033",
+        "name": "Demolition Chime"
+      },
+      {
+        "id": "075",
+        "name": "Lightbreak Timbre"
+      },
+      {
+        "id": "068",
+        "name": "Denden Daiko"
+      },
+      {
+        "id": "022",
+        "name": "Avenir's Music Box"
+      },
+      {
+        "id": "152",
+        "name": "Unsolved Horn"
+      },
+      {
+        "id": "065",
+        "name": "Blitz Works"
+      },
+      {
+        "id": "063",
+        "name": "Megaphone"
+      },
+      {
+        "id": "069",
+        "name": "Daora's Taus"
+      },
+      {
+        "id": "037",
+        "name": "Gold Chordmaker"
+      },
+      {
+        "id": "003",
+        "name": "Akantor Horn"
+      },
+      {
+        "id": "080",
+        "name": "Ukanlos Horned Flute"
+      },
+      {
+        "id": "139",
+        "name": "Autumn Lute"
+      },
+      {
+        "id": "103",
+        "name": "Polaris Wraith"
+      },
+      {
+        "id": "144",
+        "name": "Silverwing Horn"
+      },
+      {
+        "id": "157",
+        "name": "Elder Horn"
+      },
+      {
+        "id": "095",
+        "name": "Glass Royale"
+      },
+      {
+        "id": "156",
+        "name": "Sandsinger"
+      },
+      {
+        "id": "011",
+        "name": "Volcanic Rock"
+      },
+      {
+        "id": "153",
+        "name": "Mosca Commemorative"
+      },
+      {
+        "id": "074",
+        "name": "Rugueux/Cri"
+      },
+      {
+        "id": "075",
+        "name": "Lightbreak Timbre"
+      },
+      {
+        "id": "145",
+        "name": "Jewelled Horn"
+      },
+      {
+        "id": "151",
+        "name": "Vulcan Lied"
+      },
+      {
+        "id": "027",
+        "name": "Fatalis Ancient Lied"
+      },
+      {
+        "id": "107",
+        "name": "Crimson Horn"
+      },
+      {
+        "id": "109",
+        "name": "Royal Horn"
+      },
+      {
+        "id": "108",
+        "name": "Pierce Horn"
+      },
+      {
+        "id": "113",
+        "name": "Nightfall Horn"
+      },
+      {
+        "id": "116",
+        "name": "Geode Horn"
+      },
+      {
+        "id": "110",
+        "name": "Hardened Horn"
+      },
+      {
+        "id": "111",
+        "name": "Tomb Horn"
+      },
+      {
+        "id": "114",
+        "name": "Raiden Horn"
+      },
+      {
+        "id": "112",
+        "name": "Seize Horn"
+      },
+      {
+        "id": "115",
+        "name": "Magma Horn"
+      },
+      {
+        "id": "150",
+        "name": "Wolverion"
+      },
+      {
+        "id": "149",
+        "name": "Shredclaw Horn"
+      },
+      {
+        "id": "147",
+        "name": "Senri Ketsugen"
+      },
+      {
+        "id": "146",
+        "name": "Zephyr Flap"
+      },
+      {
+        "id": "148",
+        "name": "Frostpeak Chord"
+      }
+    ]
+  },
+  {
+    "id": "w13",
+    "name": "Insect Glaive",
+    "icon": "insect_glaive",
+    "kiranico_prefix": "rod",
+    "image_prefix": "rod",
+    "skins": [
+      {
+        "id": "071",
+        "name": "Petrified Rod"
+      },
+      {
+        "id": "073",
+        "name": "Fader Rod"
+      },
+      {
+        "id": "084",
+        "name": "Kut-Ku Pike"
+      },
+      {
+        "id": "083",
+        "name": "Royal Bloom"
+      },
+      {
+        "id": "072",
+        "name": "Obsidian Rod"
+      },
+      {
+        "id": "097",
+        "name": "Iron Bayonet"
+      },
+      {
+        "id": "080",
+        "name": "Azure Bayonet"
+      },
+      {
+        "id": "091",
+        "name": "Sand Anchor"
+      },
+      {
+        "id": "098",
+        "name": "Arcane Strike"
+      },
+      {
+        "id": "001",
+        "name": "Bone Staff"
+      },
+      {
+        "id": "081",
+        "name": "Wardance Cudgel"
+      },
+      {
+        "id": "020",
+        "name": "Needle Ivy"
+      },
+      {
+        "id": "008",
+        "name": "Sturdy Glaive"
+      },
+      {
+        "id": "037",
+        "name": "Mind Stick"
+      },
+      {
+        "id": "046",
+        "name": "Sky-high Glaive"
+      },
+      {
+        "id": "102",
+        "name": "Hortadent"
+      },
+      {
+        "id": "015",
+        "name": "Sect Happa"
+      },
+      {
+        "id": "080",
+        "name": "Azure Bayonet"
+      },
+      {
+        "id": "087",
+        "name": "Crimson Fury"
+      },
+      {
+        "id": "004",
+        "name": "Heaven's Rath Glaive"
+      },
+      {
+        "id": "081",
+        "name": "Wardance Cudgel"
+      },
+      {
+        "id": "022",
+        "name": "Shell Intoner"
+      },
+      {
+        "id": "082",
+        "name": "Rage Cudgel"
+      },
+      {
+        "id": "073",
+        "name": "Fader Rod"
+      },
+      {
+        "id": "085",
+        "name": "Bolt Chamber"
+      },
+      {
+        "id": "092",
+        "name": "Hidden Scythe"
+      },
+      {
+        "id": "024",
+        "name": "Altair"
+      },
+      {
+        "id": "091",
+        "name": "Sand Anchor"
+      },
+      {
+        "id": "021",
+        "name": "Neve Rod"
+      },
+      {
+        "id": "086",
+        "name": "Fin Harpoon"
+      },
+      {
+        "id": "098",
+        "name": "Arcane Strike"
+      },
+      {
+        "id": "084",
+        "name": "Kut-Ku Pike"
+      },
+      {
+        "id": "087",
+        "name": "Crimson Fury"
+      },
+      {
+        "id": "022",
+        "name": "Shell Intoner"
+      },
+      {
+        "id": "083",
+        "name": "Royal Bloom"
+      },
+      {
+        "id": "085",
+        "name": "Bolt Chamber"
+      },
+      {
+        "id": "082",
+        "name": "Rage Cudgel"
+      },
+      {
+        "id": "020",
+        "name": "Needle Ivy"
+      },
+      {
+        "id": "092",
+        "name": "Hidden Scythe"
+      },
+      {
+        "id": "099",
+        "name": "Acorn Rod"
+      },
+      {
+        "id": "101",
+        "name": "Magia Pitareen"
+      },
+      {
+        "id": "072",
+        "name": "Obsidian Rod"
+      },
+      {
+        "id": "113",
+        "name": "Graviafaren"
+      },
+      {
+        "id": "008",
+        "name": "Sturdy Glaive"
+      },
+      {
+        "id": "014",
+        "name": "Dios Rod"
+      },
+      {
+        "id": "047",
+        "name": "Deep Blue Glaive"
+      },
+      {
+        "id": "088",
+        "name": "Flaming Halberd"
+      },
+      {
+        "id": "079",
+        "name": "Fox Halberd"
+      },
+      {
+        "id": "077",
+        "name": "Astalos Cudgel"
+      },
+      {
+        "id": "078",
+        "name": "Giant's Cudgel"
+      },
+      {
+        "id": "074",
+        "name": "Flaming Teuza"
+      },
+      {
+        "id": "003",
+        "name": "Leumundslist"
+      },
+      {
+        "id": "011",
+        "name": "Le Traqueur"
+      },
+      {
+        "id": "024",
+        "name": "Altair"
+      },
+      {
+        "id": "026",
+        "name": "Seditious Breaker"
+      },
+      {
+        "id": "002",
+        "name": "Indigo Flash"
+      },
+      {
+        "id": "033",
+        "name": "Boltbrute"
+      },
+      {
+        "id": "014",
+        "name": "Dios Rod"
+      },
+      {
+        "id": "048",
+        "name": "Demolition Press"
+      },
+      {
+        "id": "011",
+        "name": "Le Traqueur"
+      },
+      {
+        "id": "018",
+        "name": "Daora's Entom"
+      },
+      {
+        "id": "017",
+        "name": "Caster's Rod"
+      },
+      {
+        "id": "075",
+        "name": "Skeletal Cudgel"
+      },
+      {
+        "id": "076",
+        "name": "Polaris Zimbal"
+      },
+      {
+        "id": "100",
+        "name": "Push Broom"
+      },
+      {
+        "id": "090",
+        "name": "Deathport Staff"
+      },
+      {
+        "id": "012",
+        "name": "Black Rod"
+      },
+      {
+        "id": "015",
+        "name": "Sect Happa"
+      },
+      {
+        "id": "027",
+        "name": "Trim Happa"
+      },
+      {
+        "id": "037",
+        "name": "Mind Stick"
+      },
+      {
+        "id": "021",
+        "name": "Neve Rod"
+      },
+      {
+        "id": "103",
+        "name": "Garia Club"
+      },
+      {
+        "id": "005",
+        "name": "Stealth Glaive"
+      },
+      {
+        "id": "046",
+        "name": "Sky-high Glaive"
+      },
+      {
+        "id": "047",
+        "name": "Deep Blue Glaive"
+      },
+      {
+        "id": "086",
+        "name": "Fin Harpoon"
+      },
+      {
+        "id": "113",
+        "name": "Graviafaren"
+      },
+      {
+        "id": "116",
+        "name": "Eldra Glaive"
+      },
+      {
+        "id": "027",
+        "name": "Trim Happa"
+      },
+      {
+        "id": "088",
+        "name": "Flaming Halberd"
+      },
+      {
+        "id": "023",
+        "name": "Diablos Rod"
+      },
+      {
+        "id": "026",
+        "name": "Seditious Breaker"
+      },
+      {
+        "id": "048",
+        "name": "Demolition Press"
+      },
+      {
+        "id": "029",
+        "name": "Lightbreak Press"
+      },
+      {
+        "id": "007",
+        "name": "Metal Mauler"
+      },
+      {
+        "id": "031",
+        "name": "Demonlord Cudgel"
+      },
+      {
+        "id": "023",
+        "name": "Diablos Rod"
+      },
+      {
+        "id": "115",
+        "name": "Unsolved Rod"
+      },
+      {
+        "id": "070",
+        "name": "Conviction Glaive J"
+      },
+      {
+        "id": "069",
+        "name": "Aladdin's Wand"
+      },
+      {
+        "id": "104",
+        "name": "Spear of the Beast"
+      },
+      {
+        "id": "004",
+        "name": "Heaven's Rath Glaive"
+      },
+      {
+        "id": "032",
+        "name": "Blossomajesty"
+      },
+      {
+        "id": "031",
+        "name": "Demonlord Cudgel"
+      },
+      {
+        "id": "016",
+        "name": "Ukanlos Staff"
+      },
+      {
+        "id": "076",
+        "name": "Polaris Zimbal"
+      },
+      {
+        "id": "089",
+        "name": "Alatreon Dragonspire"
+      },
+      {
+        "id": "105",
+        "name": "Silverwing Glaive"
+      },
+      {
+        "id": "117",
+        "name": "Elder Rod"
+      },
+      {
+        "id": "010",
+        "name": "Assault Glaive"
+      },
+      {
+        "id": "033",
+        "name": "Boltbrute"
+      },
+      {
+        "id": "028",
+        "name": "List/Confiance"
+      },
+      {
+        "id": "032",
+        "name": "Blossomajesty"
+      },
+      {
+        "id": "029",
+        "name": "Lightbreak Press"
+      },
+      {
+        "id": "114",
+        "name": "Misery Cloud"
+      },
+      {
+        "id": "106",
+        "name": "Jewelled Glaive"
+      },
+      {
+        "id": "030",
+        "name": "True Fatalis Providence"
+      },
+      {
+        "id": "112",
+        "name": "Fatalis Rod"
+      },
+      {
+        "id": "045",
+        "name": "Fatalis Soldier"
+      },
+      {
+        "id": "094",
+        "name": "Stonefist Caster"
+      },
+      {
+        "id": "093",
+        "name": "Nightfall Scythe"
+      },
+      {
+        "id": "096",
+        "name": "Grobo Blow"
+      },
+      {
+        "id": "095",
+        "name": "Ashen Teuza"
+      },
+      {
+        "id": "111",
+        "name": "Shredclaw Rod"
+      },
+      {
+        "id": "108",
+        "name": "Shunshu Shushi"
+      },
+      {
+        "id": "107",
+        "name": "Zephyr Extreme"
+      },
+      {
+        "id": "109",
+        "name": "Frostpeak Club"
+      },
+      {
+        "id": "110",
+        "name": "Massacre Rod"
+      }
+    ]
+  },
+  {
+    "id": "w14",
+    "name": "Charge Blade",
+    "icon": "charge_blade",
+    "kiranico_prefix": "caxe",
+    "image_prefix": "gaxe",
+    "skins": [
+      {
+        "id": "064",
+        "name": "Petrified Strongarm"
+      },
+      {
+        "id": "076",
+        "name": "Poison Blade"
+      },
+      {
+        "id": "078",
+        "name": "Type 31 Wyvernslayer"
+      },
+      {
+        "id": "065",
+        "name": "Obsidian Strongarm"
+      },
+      {
+        "id": "022",
+        "name": "Dios Strongarm"
+      },
+      {
+        "id": "080",
+        "name": "Lava's Veil"
+      },
+      {
+        "id": "001",
+        "name": "Elite Blade"
+      },
+      {
+        "id": "066",
+        "name": "Rogue Axe"
+      },
+      {
+        "id": "008",
+        "name": "Blackguard"
+      },
+      {
+        "id": "002",
+        "name": "Dear Lutemis"
+      },
+      {
+        "id": "012",
+        "name": "Guardsqual"
+      },
+      {
+        "id": "082",
+        "name": "Bone Blade"
+      },
+      {
+        "id": "075",
+        "name": "Desertfall"
+      },
+      {
+        "id": "077",
+        "name": "Guardian Blade"
+      },
+      {
+        "id": "083",
+        "name": "Poisonous Veil"
+      },
+      {
+        "id": "010",
+        "name": "Axelion Blade"
+      },
+      {
+        "id": "079",
+        "name": "Lagia Storm"
+      },
+      {
+        "id": "066",
+        "name": "Rogue Axe"
+      },
+      {
+        "id": "074",
+        "name": "Snowy Veil"
+      },
+      {
+        "id": "067",
+        "name": "Horror Zofar"
+      },
+      {
+        "id": "074",
+        "name": "Snowy Veil"
+      },
+      {
+        "id": "075",
+        "name": "Desertfall"
+      },
+      {
+        "id": "026",
+        "name": "Aslat Charger"
+      },
+      {
+        "id": "008",
+        "name": "Blackguard"
+      },
+      {
+        "id": "087",
+        "name": "Tigrex Divide"
+      },
+      {
+        "id": "009",
+        "name": "Sentinel Blade"
+      },
+      {
+        "id": "076",
+        "name": "Poison Blade"
+      },
+      {
+        "id": "067",
+        "name": "Horror Zofar"
+      },
+      {
+        "id": "106",
+        "name": "Barroth Guard"
+      },
+      {
+        "id": "078",
+        "name": "Type 31 Wyvernslayer"
+      },
+      {
+        "id": "077",
+        "name": "Guardian Blade"
+      },
+      {
+        "id": "024",
+        "name": "Schildsect"
+      },
+      {
+        "id": "093",
+        "name": "Cuddly Cat"
+      },
+      {
+        "id": "096",
+        "name": "Pizzaxe"
+      },
+      {
+        "id": "086",
+        "name": "Chameleos C. Blade"
+      },
+      {
+        "id": "065",
+        "name": "Obsidian Strongarm"
+      },
+      {
+        "id": "083",
+        "name": "Poisonous Veil"
+      },
+      {
+        "id": "002",
+        "name": "Dear Lutemis"
+      },
+      {
+        "id": "039",
+        "name": "Luna Eostre"
+      },
+      {
+        "id": "010",
+        "name": "Axelion Blade"
+      },
+      {
+        "id": "011",
+        "name": "Hellsire Blade"
+      },
+      {
+        "id": "079",
+        "name": "Lagia Storm"
+      },
+      {
+        "id": "021",
+        "name": "Arachnoscale"
+      },
+      {
+        "id": "073",
+        "name": "Mizuniya Drill"
+      },
+      {
+        "id": "071",
+        "name": "Axela Blade"
+      },
+      {
+        "id": "072",
+        "name": "Giant's Edge"
+      },
+      {
+        "id": "068",
+        "name": "Scorching Demander"
+      },
+      {
+        "id": "004",
+        "name": "Elendskraft"
+      },
+      {
+        "id": "005",
+        "name": "L'Oppresseur"
+      },
+      {
+        "id": "026",
+        "name": "Aslat Charger"
+      },
+      {
+        "id": "028",
+        "name": "Seditious Blade"
+      },
+      {
+        "id": "087",
+        "name": "Tigrex Divide"
+      },
+      {
+        "id": "022",
+        "name": "Dios Strongarm"
+      },
+      {
+        "id": "042",
+        "name": "Demolition Blade"
+      },
+      {
+        "id": "005",
+        "name": "L'Oppresseur"
+      },
+      {
+        "id": "020",
+        "name": "Daora's Casca"
+      },
+      {
+        "id": "069",
+        "name": "Wicked Edge"
+      },
+      {
+        "id": "070",
+        "name": "Gant Blade"
+      },
+      {
+        "id": "094",
+        "name": "Vaik Veil"
+      },
+      {
+        "id": "095",
+        "name": "Mandible Blade"
+      },
+      {
+        "id": "013",
+        "name": "Black Strongarm"
+      },
+      {
+        "id": "009",
+        "name": "Sentinel Blade"
+      },
+      {
+        "id": "041",
+        "name": "K. Captain's Blade"
+      },
+      {
+        "id": "024",
+        "name": "Schildsect"
+      },
+      {
+        "id": "029",
+        "name": "Dominisect"
+      },
+      {
+        "id": "025",
+        "name": "Diablos Strongarm"
+      },
+      {
+        "id": "012",
+        "name": "Guardsqual"
+      },
+      {
+        "id": "031",
+        "name": "Serrated Glace"
+      },
+      {
+        "id": "084",
+        "name": "Worn C. Blade"
+      },
+      {
+        "id": "085",
+        "name": "Chrono Gear"
+      },
+      {
+        "id": "017",
+        "name": "Teostra's Striker"
+      },
+      {
+        "id": "106",
+        "name": "Barroth Guard"
+      },
+      {
+        "id": "021",
+        "name": "Arachnoscale"
+      },
+      {
+        "id": "041",
+        "name": "K. Captain's Blade"
+      },
+      {
+        "id": "031",
+        "name": "Serrated Glace"
+      },
+      {
+        "id": "080",
+        "name": "Lava's Veil"
+      },
+      {
+        "id": "029",
+        "name": "Dominisect"
+      },
+      {
+        "id": "028",
+        "name": "Seditious Blade"
+      },
+      {
+        "id": "042",
+        "name": "Demolition Blade"
+      },
+      {
+        "id": "032",
+        "name": "Lightbreak C. Blade"
+      },
+      {
+        "id": "023",
+        "name": "Demonlord Blade"
+      },
+      {
+        "id": "092",
+        "name": "Hero Strongarm"
+      },
+      {
+        "id": "085",
+        "name": "Chrono Gear"
+      },
+      {
+        "id": "025",
+        "name": "Diablos Strongarm"
+      },
+      {
+        "id": "108",
+        "name": "Unsolved C.Blade"
+      },
+      {
+        "id": "063",
+        "name": "Charge Fox"
+      },
+      {
+        "id": "016",
+        "name": "Legendary Anchor J"
+      },
+      {
+        "id": "015",
+        "name": "Starlight Axe"
+      },
+      {
+        "id": "017",
+        "name": "Teostra's Striker"
+      },
+      {
+        "id": "011",
+        "name": "Hellsire Blade"
+      },
+      {
+        "id": "040",
+        "name": "Blossomauler"
+      },
+      {
+        "id": "039",
+        "name": "Luna Eostre"
+      },
+      {
+        "id": "019",
+        "name": "Akantor C. Blade"
+      },
+      {
+        "id": "081",
+        "name": "Altostratus Blade"
+      },
+      {
+        "id": "070",
+        "name": "Gant Blade"
+      },
+      {
+        "id": "097",
+        "name": "Silverwing C.Blade"
+      },
+      {
+        "id": "110",
+        "name": "Elder Arms"
+      },
+      {
+        "id": "109",
+        "name": "Penyoax"
+      },
+      {
+        "id": "030",
+        "name": "Elends/Essor"
+      },
+      {
+        "id": "040",
+        "name": "Blossomauler"
+      },
+      {
+        "id": "032",
+        "name": "Lightbreak C. Blade"
+      },
+      {
+        "id": "105",
+        "name": "Vermillion Veil"
+      },
+      {
+        "id": "098",
+        "name": "Jewelled Guard"
+      },
+      {
+        "id": "107",
+        "name": "Alatreon C.Blade"
+      },
+      {
+        "id": "014",
+        "name": "Ruiner Reaver"
+      },
+      {
+        "id": "037",
+        "name": "Fatalis Mien"
+      },
+      {
+        "id": "089",
+        "name": "Dear Regina"
+      },
+      {
+        "id": "091",
+        "name": "Dreaded Blade"
+      },
+      {
+        "id": "088",
+        "name": "Rudra Divide"
+      },
+      {
+        "id": "090",
+        "name": "Ashen Demander"
+      },
+      {
+        "id": "104",
+        "name": "Wolversofer"
+      },
+      {
+        "id": "103",
+        "name": "Shredclaw C.Blade"
+      },
+      {
+        "id": "100",
+        "name": "Koinryusui"
+      },
+      {
+        "id": "099",
+        "name": "Zephyr Volt"
+      },
+      {
+        "id": "101",
+        "name": "Frostpeak Guard"
+      },
+      {
+        "id": "102",
+        "name": "Massacre Arms"
+      }
+    ]
+  }
+]

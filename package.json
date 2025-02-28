@@ -1,0 +1,25 @@
+{
+    "name": "mhgu-wtt",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "lint": "pnpm --stream -r run lint",
+        "lint:fix": "pnpm --stream -r run lint:fix",
+        "format": "pnpm --stream -r run format",
+        "format:fix": "pnpm --stream -r run format:fix",
+        "type-check": "pnpm --stream -r run type-check"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "devDependencies": {
+        "@rushstack/eslint-patch": "^1.10.5",
+        "@tsconfig/node20": "^20.1.4",
+        "@types/node": "^22.10.7",
+        "@typescript-eslint/parser": "^8.25.0",
+        "eslint-plugin-perfectionist": "^4.9.0",
+        "eslint": "^9.20.1",
+        "prettier": "3.5.1",
+        "typescript": "5.6.2"
+    }
+}
