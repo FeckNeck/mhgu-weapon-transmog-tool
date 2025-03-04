@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useWeaponStore } from '@/store';
-import { open } from '@tauri-apps/api/dialog';
+import { open } from '@tauri-apps/plugin-dialog';
 import { storeToRefs } from 'pinia';
 import Folder from './ui/folder.vue';
 

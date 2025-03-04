@@ -1,10 +1,5 @@
 <script setup lang="ts">
-import {
-  readBinaryFile,
-  writeBinaryFile,
-  exists,
-  copyFile,
-} from '@tauri-apps/api/fs';
+import { readFile, writeFile, exists, copyFile } from '@tauri-apps/plugin-fs';
 import { storeToRefs } from 'pinia';
 import { computed, ref } from 'vue';
 import ModdingPath from './components/modding_path.vue';
@@ -90,7 +85,7 @@ async function transmogWeapon() {
 
     const isSkinSaved = await exists(skinToApplyBackupPath);
 
-    const file = await readBinaryFile(
+    const file = await readFile(
       isSkinSaved ? skinToApplyBackupPath : skinToApplyPath,
     );
 
@@ -102,7 +97,7 @@ async function transmogWeapon() {
       await copyFile(weaponToTransmogPath, weaponToTransmogBackupPath);
     }
 
-    await writeBinaryFile(
+    await writeFile(
       weaponToTransmogPath,
       new Uint8Array(modifiedHexFile.map((hex) => parseInt(hex, 16))),
     );
