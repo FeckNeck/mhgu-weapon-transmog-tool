@@ -1,9 +1,9 @@
-import { writeFile } from 'fs/promises';
+import { writeFile, mkdir } from 'fs/promises';
 import { Worker } from 'worker_threads';
 import { weapons } from './weapons.js';
 import type { Skin } from '@mhgu-wtt/shared';
 
-const MAX_WORKERS = 12;
+const MAX_WORKERS = 4;
 let activeWorkers = 0;
 
 function startWorker(
@@ -58,6 +58,6 @@ async function processWeapons() {
 }
 
 await processWeapons();
-
+await mkdir('./data', { recursive: true });
 await writeFile('./data/weapons.json', JSON.stringify(weapons, null, 2));
 console.log('✅ File saved successfully!');
